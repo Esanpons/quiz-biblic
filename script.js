@@ -186,26 +186,26 @@ const QuizBiblic = () => {
     };
 
     return React.createElement('div', { 
-        className: 'min-h-screen bg-rainbow p-4 relative overflow-hidden' 
+        className: 'min-h-screen bg-crown p-4 relative overflow-hidden' 
     },
         // Elements decoratius animats
         React.createElement('div', { className: 'absolute inset-0 overflow-hidden pointer-events-none' },
             React.createElement('div', { className: 'absolute top-10 left-10 animate-bounce' },
-                React.createElement(Star, { className: 'text-yellow-300 w-8 h-8 animate-sparkle' })
+                React.createElement(Star, { className: 'text-yellow-300 w-8 h-8 animate-sparkle-jewel' })
             ),
             React.createElement('div', { className: 'absolute top-20 right-16 animate-bounce delay-300' },
-                React.createElement(Heart, { className: 'text-pink-300 w-6 h-6 animate-pulse-rainbow' })
+                React.createElement(Heart, { className: 'text-pink-300 w-6 h-6 animate-pulse-crown' })
             ),
             React.createElement('div', { className: 'absolute bottom-20 left-20 animate-bounce delay-500' },
-                React.createElement(Sparkles, { className: 'text-purple-300 w-7 h-7 animate-rainbow' })
+                React.createElement(Sparkles, { className: 'text-purple-300 w-7 h-7 animate-crown' })
             ),
             React.createElement('div', { className: 'absolute top-1/3 right-8 animate-bounce delay-700' },
-                React.createElement(Star, { className: 'text-blue-300 w-5 h-5 animate-sparkle' })
+                React.createElement(Star, { className: 'text-blue-300 w-5 h-5 animate-sparkle-jewel' })
             ),
             React.createElement('div', { className: 'absolute bottom-32 right-1/4 animate-bounce delay-1000' },
-                React.createElement(Heart, { className: 'text-yellow-300 w-6 h-6 animate-pulse-rainbow' })
+                React.createElement(Heart, { className: 'text-yellow-300 w-6 h-6 animate-pulse-crown' })
             ),
-            // Partícules de fons
+            // Partícules de joies
             React.createElement('div', { className: 'particle particle-1' }),
             React.createElement('div', { className: 'particle particle-2' }),
             React.createElement('div', { className: 'particle particle-3' }),
@@ -221,44 +221,44 @@ const QuizBiblic = () => {
                         React.createElement(Brain, { className: 'text-yellow-400 w-12 h-12 drop-shadow-lg' })
                     ),
                     React.createElement('h1', { 
-                        className: 'text-5xl font-black text-white drop-shadow-lg shadow-rainbow animate-pulse-rainbow'
+                        className: 'text-5xl font-black text-white drop-shadow-lg shadow-crown animate-pulse-crown'
                     }, 'Quiz Bíblic Súper Genial!'),
-                    React.createElement('div', { className: 'animate-bounce-rainbow' },
+                    React.createElement('div', { className: 'animate-bounce-crown' },
                         React.createElement(Trophy, { className: 'text-yellow-400 w-12 h-12 drop-shadow-lg' })
                     )
                 ),
                 React.createElement('p', { 
                     className: 'text-purple-800 text-xl font-bold drop-shadow-md animate-wiggle'
-                }, '🌈 Descobreix les històries més emocionants de la Bíblia! 🌈'),
+                }, '👑 Descobreix les històries més emocionants de la Bíblia! 👑'),
                 React.createElement('p', { 
                     className: 'text-white text-lg font-bold drop-shadow-md mt-2'
-                }, '✨ Arc iris de 7 colors com Déu el va crear! ✨')
+                }, '✨ Corona de glòria i joies precioses! ✨')
             ),
 
             // Stats súper animats
             React.createElement('div', { className: 'grid grid-cols-1 md:grid-cols-3 gap-6 mb-8' },
                 React.createElement('div', { 
-                    className: 'bg-kid-gradient-1 rounded-3xl p-6 text-center hover-lift shadow-rainbow border-rainbow'
+                    className: 'bg-kid-gradient-1 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-white drop-shadow-lg animate-bounce-rainbow'
+                        className: 'text-4xl font-black text-white drop-shadow-lg animate-bounce-crown'
                     }, `${emojisNivell[nivell]} ${nivell}`),
                     React.createElement('div', { 
                         className: 'text-purple-800 font-bold text-lg'
                     }, nivellsNoms[nivell])
                 ),
                 React.createElement('div', { 
-                    className: 'bg-kid-gradient-2 rounded-3xl p-6 text-center hover-lift shadow-rainbow border-rainbow'
+                    className: 'bg-kid-gradient-2 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-white drop-shadow-lg animate-pulse-rainbow'
-                    }, `✨ ${puntuacio}`),
+                        className: 'text-4xl font-black text-white drop-shadow-lg animate-pulse-crown'
+                    }, `💎 ${puntuacio}`),
                     React.createElement('div', { 
                         className: 'text-purple-800 font-bold text-lg'
                     }, 'Punts Màgics!')
                 ),
                 React.createElement('div', { 
-                    className: 'bg-kid-gradient-3 rounded-3xl p-6 text-center hover-lift shadow-rainbow border-rainbow'
+                    className: 'bg-kid-gradient-3 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
                         className: 'text-4xl font-black text-white drop-shadow-lg animate-bounce'
@@ -271,20 +271,20 @@ const QuizBiblic = () => {
 
             // Contingut principal súper animat
             React.createElement('div', { 
-                className: 'bg-rainbow-soft rounded-3xl p-8 mb-6 shadow-rainbow border-rainbow'
+                className: 'bg-crown-soft rounded-3xl p-8 mb-6 shadow-crown border-crown'
             },
                 !preguntaActual && !carregant ? 
                     React.createElement('div', { className: 'text-center' },
-                        React.createElement('div', { className: 'text-8xl mb-6 animate-bounce-rainbow' }, '🌈'),
+                        React.createElement('div', { className: 'text-8xl mb-6 animate-bounce-crown' }, '👑'),
                         React.createElement('h2', { 
-                            className: 'text-4xl font-black text-purple-700 mb-6 text-rainbow'
+                            className: 'text-4xl font-black text-purple-700 mb-6 text-crown'
                         }, 'Benvingut a l\'Aventura Bíblica!'),
                         React.createElement('p', { 
                             className: 'text-purple-600 mb-8 text-xl font-bold leading-relaxed'
                         }, 
                             '🎮 Prepara\'t per a un viatge increïble per les històries més emocionants de la Bíblia!', 
                             React.createElement('br'),
-                            '🌈 Arc iris de 7 colors com Déu el va crear: Vermell, Taronja, Groc, Verd, Blau, Indi i Violeta!',
+                            '👑 Corona de glòria amb joies precioses com l\'or, robí, maragda, safir i ametista!',
                             React.createElement('br'),
                             '🌟 Cada resposta correcta et fa pujar de nivell!',
                             React.createElement('br'),
@@ -292,12 +292,12 @@ const QuizBiblic = () => {
                         ),
                         React.createElement('button', {
                             onClick: iniciarQuiz,
-                            className: 'bg-rainbow text-white px-12 py-6 rounded-3xl font-black text-2xl transition-all duration-300 transform hover:scale-110 shadow-rainbow border-rainbow animate-pulse-rainbow btn-magic'
-                        }, '🚀 Començar l\'Aventura dels 7 Colors! 🚀')
+                            className: 'bg-crown text-white px-12 py-6 rounded-3xl font-black text-2xl transition-all duration-300 transform hover:scale-110 shadow-crown border-crown animate-pulse-crown btn-magic'
+                        }, '🚀 Començar l\'Aventura de la Corona! 🚀')
                     )
                 : carregant ? 
                     React.createElement('div', { className: 'text-center py-12' },
-                        React.createElement('div', { className: 'text-8xl mb-4 animate-rainbow' }, '🌈'),
+                        React.createElement('div', { className: 'text-8xl mb-4 animate-crown' }, '👑'),
                         React.createElement(Loader2, { className: 'w-16 h-16 text-purple-500 animate-spin mx-auto mb-4' }),
                         React.createElement('p', { 
                             className: 'text-purple-600 text-2xl font-bold animate-pulse'
@@ -307,14 +307,14 @@ const QuizBiblic = () => {
                     React.createElement('div', { className: 'mb-6' },
                         React.createElement('div', { className: 'flex items-center justify-between mb-6' },
                             React.createElement('div', { 
-                                className: 'bg-rainbow text-white px-6 py-3 rounded-2xl font-black text-lg shadow-rainbow border-rainbow'
+                                className: 'bg-crown text-white px-6 py-3 rounded-2xl font-black text-lg shadow-crown border-crown'
                             }, `${emojisNivell[nivell]} ${nivellsNoms[nivell]}`),
                             React.createElement('div', { 
                                 className: 'text-purple-600 font-bold text-lg animate-pulse'
                             }, `Pregunta #${historialPreguntes.length + 1} 🎯`)
                         ),
                         React.createElement('div', { 
-                            className: 'bg-white rounded-2xl p-6 border-rainbow shadow-rainbow mb-6'
+                            className: 'bg-white rounded-2xl p-6 border-crown shadow-crown mb-6'
                         },
                             React.createElement('h3', { 
                                 className: 'text-2xl font-black text-purple-800 leading-relaxed animate-pulse'
@@ -328,8 +328,8 @@ const QuizBiblic = () => {
                             const isSelected = respostaSeleccionada === lletra;
                             const isCorrect = lletra === preguntaActual.resposta_correcta;
                             
-                            let bgClass = 'bg-white hover:bg-rainbow-soft';
-                            let borderClass = 'border-rainbow';
+                            let bgClass = 'bg-white hover:bg-crown-soft';
+                            let borderClass = 'border-crown';
                             let textClass = 'text-purple-800';
                             let emoji = '🤷‍♀️';
                             
@@ -346,7 +346,7 @@ const QuizBiblic = () => {
                                     emoji = '❌';
                                 }
                             } else if (isSelected) {
-                                bgClass = 'bg-rainbow';
+                                bgClass = 'bg-crown';
                                 borderClass = 'border-purple-500';
                                 textClass = 'text-white';
                                 emoji = '👆';
@@ -364,19 +364,19 @@ const QuizBiblic = () => {
                     ),
 
                     mostrarResultat && React.createElement('div', { 
-                        className: 'bg-white rounded-2xl p-6 mb-6 border-rainbow shadow-rainbow'
+                        className: 'bg-white rounded-2xl p-6 mb-6 border-crown shadow-crown'
                     },
                         React.createElement('div', { 
                             className: `text-center mb-4 ${respostaSeleccionada === preguntaActual.resposta_correcta ? 'text-green-600' : 'text-red-600'}`
                         },
-                            React.createElement('div', { className: 'text-6xl mb-2 animate-bounce-rainbow' },
+                            React.createElement('div', { className: 'text-6xl mb-2 animate-bounce-crown' },
                                 respostaSeleccionada === preguntaActual.resposta_correcta ? '🎉' : '😅'
                             ),
-                            React.createElement('h4', { className: 'text-3xl font-black mb-2 animate-bounce text-rainbow' },
+                            React.createElement('h4', { className: 'text-3xl font-black mb-2 animate-bounce text-crown' },
                                 respostaSeleccionada === preguntaActual.resposta_correcta ? '¡Súper bé!' : 'Quasi ho tens!'
                             )
                         ),
-                        React.createElement('div', { className: 'bg-rainbow-soft rounded-xl p-4 border-2 border-purple-200' },
+                        React.createElement('div', { className: 'bg-crown-soft rounded-xl p-4 border-2 border-purple-200' },
                             React.createElement('p', { className: 'text-purple-800 leading-relaxed font-bold' },
                                 React.createElement('strong', {}, '🧠 Sabies que...'),
                                 ` ${preguntaActual.explicacio}`
@@ -389,11 +389,11 @@ const QuizBiblic = () => {
                             React.createElement('button', {
                                 onClick: comprovarResposta,
                                 disabled: !respostaSeleccionada,
-                                className: 'flex-1 bg-kid-gradient-5 hover:bg-green-600 disabled:from-gray-400 disabled:to-gray-500 text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 disabled:cursor-not-allowed hover-lift shadow-rainbow border-rainbow btn-magic'
+                                className: 'flex-1 bg-kid-gradient-5 hover:bg-green-600 disabled:from-gray-400 disabled:to-gray-500 text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 disabled:cursor-not-allowed hover-lift shadow-crown border-crown btn-magic'
                             }, '🎯 Comprovar Resposta!')
                         : React.createElement('button', {
                             onClick: seguentPregunta,
-                            className: 'flex-1 bg-rainbow text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center justify-center gap-3 hover-lift shadow-rainbow border-rainbow btn-magic'
+                            className: 'flex-1 bg-crown text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center justify-center gap-3 hover-lift shadow-crown border-crown btn-magic'
                         },
                             '🚀 Següent Aventura!',
                             React.createElement(ArrowRight, { className: 'w-6 h-6' })
@@ -401,7 +401,7 @@ const QuizBiblic = () => {
                         
                         React.createElement('button', {
                             onClick: reiniciarQuiz,
-                            className: 'bg-kid-gradient-4 text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center gap-3 hover-lift shadow-rainbow border-rainbow btn-magic'
+                            className: 'bg-kid-gradient-4 text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center gap-3 hover-lift shadow-crown border-crown btn-magic'
                         },
                             React.createElement(RotateCcw, { className: 'w-6 h-6' }),
                             '🔄 Reiniciar'
@@ -412,18 +412,18 @@ const QuizBiblic = () => {
 
             // Progres súper colorit
             historialPreguntes.length > 0 && React.createElement('div', { 
-                className: 'bg-white rounded-2xl p-6 border-rainbow shadow-rainbow'
+                className: 'bg-white rounded-2xl p-6 border-crown shadow-crown'
             },
                 React.createElement('h3', { 
-                    className: 'text-2xl font-black text-purple-700 mb-4 text-rainbow'
+                    className: 'text-2xl font-black text-purple-700 mb-4 text-crown'
                 }, '🌟 Les Teves Últimes Aventures'),
                 React.createElement('div', { className: 'flex gap-3 flex-wrap' },
                     ...historialPreguntes.slice(-10).map((pregunta, index) => (
                         React.createElement('div', {
                             key: index,
-                            className: `w-12 h-12 rounded-full flex items-center justify-center text-2xl font-black border-4 border-white shadow-rainbow transform hover:scale-125 transition-all duration-300 ${
+                            className: `w-12 h-12 rounded-full flex items-center justify-center text-2xl font-black border-4 border-white shadow-crown transform hover:scale-125 transition-all duration-300 ${
                                 pregunta.correcta 
-                                    ? 'bg-kid-gradient-5 text-white animate-bounce-rainbow' 
+                                    ? 'bg-kid-gradient-5 text-white animate-bounce-crown' 
                                     : 'bg-kid-gradient-4 text-white animate-wiggle'
                             }`,
                             title: pregunta.pregunta
@@ -432,7 +432,7 @@ const QuizBiblic = () => {
                 ),
                 React.createElement('p', { 
                     className: 'text-purple-600 font-bold mt-3 text-center'
-                }, `${historialPreguntes.filter(p => p.correcta).length} correctes de ${historialPreguntes.length} preguntes! 🌈`)
+                }, `${historialPreguntes.filter(p => p.correcta).length} correctes de ${historialPreguntes.length} preguntes! 👑`)
             )
         )
     );

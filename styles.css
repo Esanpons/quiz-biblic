@@ -1,27 +1,21 @@
-/* Arc iris de 7 colors com Déu el va crear */
-.bg-rainbow {
+/* Corona Reial - Colors d'or, joies i majestat */
+.bg-crown {
     background: linear-gradient(135deg, 
-        #ff0000 0%,    /* Vermell */
-        #ff8000 14.3%, /* Taronja */
-        #ffff00 28.6%, /* Groc */
-        #00ff00 42.9%, /* Verd */
-        #0080ff 57.2%, /* Blau */
-        #4000ff 71.5%, /* Indi */
-        #8000ff 85.8%, /* Violeta */
-        #ff0000 100%   /* Vermell (torna al principi) */
+        #ffd700 0%,    /* Or */
+        #ffb347 25%,   /* Or taronja */
+        #ffd700 50%,   /* Or pur */
+        #e6ac00 75%,   /* Or fosc */
+        #ffd700 100%   /* Or brillant */
     );
 }
 
-.bg-rainbow-soft {
+.bg-crown-soft {
     background: linear-gradient(135deg, 
-        #ffcccc 0%,    /* Vermell suau */
-        #ffe6cc 14.3%, /* Taronja suau */
-        #ffffcc 28.6%, /* Groc suau */
-        #ccffcc 42.9%, /* Verd suau */
-        #cce6ff 57.2%, /* Blau suau */
-        #e6ccff 71.5%, /* Indi suau */
-        #f0ccff 85.8%, /* Violeta suau */
-        #ffcccc 100%   /* Vermell suau */
+        #fff8dc 0%,    /* Or molt suau */
+        #ffe4b5 25%,   /* Or pàl·lid */
+        #ffeaa7 50%,   /* Or crema */
+        #fdcb6e 75%,   /* Or suau */
+        #fff8dc 100%   /* Or molt suau */
     );
 }
 
@@ -36,12 +30,13 @@
     40%, 100% { transform: rotateZ(0); }
 }
 
-@keyframes rainbow-shift {
-    0% { filter: hue-rotate(0deg); }
-    100% { filter: hue-rotate(360deg); }
+@keyframes crown-shift {
+    0% { filter: hue-rotate(0deg) brightness(1); }
+    50% { filter: hue-rotate(30deg) brightness(1.2); }
+    100% { filter: hue-rotate(0deg) brightness(1); }
 }
 
-@keyframes bounce-rainbow {
+@keyframes bounce-crown {
     0%, 20%, 53%, 80%, 100% {
         transform: translate3d(0,0,0) rotateZ(0deg);
     }
@@ -56,31 +51,33 @@
     }
 }
 
+@keyframes pulse-crown {
+    0%, 100% { 
+        transform: scale(1);
+        filter: brightness(1) drop-shadow(0 0 10px gold);
+    }
+    50% { 
+        transform: scale(1.1);
+        filter: brightness(1.3) drop-shadow(0 0 20px gold);
+    }
+}
+
 @keyframes float {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-20px); }
     100% { transform: translateY(0px); }
 }
 
-@keyframes pulse-rainbow {
-    0%, 100% { 
-        transform: scale(1);
-        filter: hue-rotate(0deg) brightness(1);
-    }
-    50% { 
-        transform: scale(1.1);
-        filter: hue-rotate(180deg) brightness(1.2);
-    }
-}
-
-@keyframes sparkle {
+@keyframes sparkle-jewel {
     0%, 100% { 
         opacity: 0.3;
         transform: scale(0.8) rotate(0deg);
+        filter: hue-rotate(0deg);
     }
     50% { 
         opacity: 1;
         transform: scale(1.2) rotate(180deg);
+        filter: hue-rotate(60deg);
     }
 }
 
@@ -89,24 +86,24 @@
     animation: wiggle 2s ease-in-out infinite;
 }
 
-.animate-rainbow {
-    animation: rainbow-shift 3s linear infinite;
+.animate-crown {
+    animation: crown-shift 3s linear infinite;
 }
 
-.animate-bounce-rainbow {
-    animation: bounce-rainbow 2s infinite;
+.animate-bounce-crown {
+    animation: bounce-crown 2s infinite;
 }
 
 .animate-float {
     animation: float 3s ease-in-out infinite;
 }
 
-.animate-pulse-rainbow {
-    animation: pulse-rainbow 2s ease-in-out infinite;
+.animate-pulse-crown {
+    animation: pulse-crown 2s ease-in-out infinite;
 }
 
-.animate-sparkle {
-    animation: sparkle 1.5s ease-in-out infinite;
+.animate-sparkle-jewel {
+    animation: sparkle-jewel 1.5s ease-in-out infinite;
 }
 
 .animate-spin-slow {
@@ -135,57 +132,53 @@
 }
 
 /* Efectes especials */
-.text-rainbow {
+.text-crown {
     background: linear-gradient(45deg, 
-        #ff0000, #ff8000, #ffff00, #00ff00, #0080ff, #4000ff, #8000ff
+        #ffd700, #ffb347, #ffd700, #e6ac00, #ffd700
     );
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: rainbow-shift 3s linear infinite;
+    animation: crown-shift 3s linear infinite;
 }
 
-.shadow-rainbow {
-    box-shadow: 0 0 20px rgba(255, 0, 0, 0.3),
-                0 0 30px rgba(255, 128, 0, 0.3),
-                0 0 40px rgba(255, 255, 0, 0.3),
-                0 0 50px rgba(0, 255, 0, 0.3),
-                0 0 60px rgba(0, 128, 255, 0.3),
-                0 0 70px rgba(64, 0, 255, 0.3),
-                0 0 80px rgba(128, 0, 255, 0.3);
+.shadow-crown {
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.4),
+                0 0 30px rgba(255, 179, 71, 0.3),
+                0 0 40px rgba(255, 215, 0, 0.2);
 }
 
-.border-rainbow {
+.border-crown {
     border: 4px solid transparent;
     background: linear-gradient(white, white) padding-box,
-                linear-gradient(45deg, #ff0000, #ff8000, #ffff00, #00ff00, #0080ff, #4000ff, #8000ff) border-box;
+                linear-gradient(45deg, #ffd700, #ffb347, #ffd700, #e6ac00) border-box;
 }
 
 /* Elements decoratius */
-.decorative-star {
+.decorative-crown {
     position: relative;
 }
 
-.decorative-star::before {
-    content: '✨';
+.decorative-crown::before {
+    content: '👑';
     position: absolute;
     top: -10px;
     right: -10px;
     font-size: 20px;
-    animation: sparkle 2s infinite;
+    animation: sparkle-jewel 2s infinite;
 }
 
-.decorative-heart {
+.decorative-jewel {
     position: relative;
 }
 
-.decorative-heart::before {
-    content: '💖';
+.decorative-jewel::before {
+    content: '💎';
     position: absolute;
     top: -10px;
     left: -10px;
     font-size: 18px;
-    animation: pulse-rainbow 2s infinite;
+    animation: pulse-crown 2s infinite;
 }
 
 /* Botons súper animats */
@@ -237,7 +230,7 @@
     filter: brightness(1.1);
 }
 
-/* Partícules de fons */
+/* Partícules de joies */
 .particle {
     position: absolute;
     pointer-events: none;
@@ -247,7 +240,7 @@
 .particle-1 {
     width: 6px;
     height: 6px;
-    background: #ff0000;
+    background: #ffd700; /* Or */
     top: 10%;
     left: 5%;
     animation: float 4s ease-in-out infinite;
@@ -256,7 +249,7 @@
 .particle-2 {
     width: 8px;
     height: 8px;
-    background: #ffff00;
+    background: #ff6b6b; /* Robí */
     top: 20%;
     right: 10%;
     animation: float 3s ease-in-out infinite reverse;
@@ -265,7 +258,7 @@
 .particle-3 {
     width: 5px;
     height: 5px;
-    background: #00ff00;
+    background: #4ecdc4; /* Maragda */
     bottom: 15%;
     left: 15%;
     animation: float 5s ease-in-out infinite;
@@ -274,7 +267,7 @@
 .particle-4 {
     width: 7px;
     height: 7px;
-    background: #0080ff;
+    background: #45b7d1; /* Safir */
     bottom: 25%;
     right: 20%;
     animation: float 3.5s ease-in-out infinite reverse;
@@ -283,7 +276,7 @@
 .particle-5 {
     width: 6px;
     height: 6px;
-    background: #8000ff;
+    background: #c44569; /* Ametista */
     top: 40%;
     left: 50%;
     animation: float 4.5s ease-in-out infinite;
