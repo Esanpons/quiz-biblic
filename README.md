@@ -1,4 +1,4 @@
-# 👑 Quiz Bíblic Súper Genial per a Nens - Versió Responsive
+# Aleix: 👑 Quiz Bíblic Súper Genial per a Nens - Versió Responsive
 
 Un quiz bíblic interactiu i colorit dissenyat especialment per a nens, amb un sistema de nivells adaptatiu que fa l'aprenentatge divertit i emocionant! **Ara optimitzat per a mòbil, tablet i PC!**
 
