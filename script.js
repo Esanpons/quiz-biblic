@@ -82,7 +82,7 @@ const QuizBiblic = () => {
     useEffect(() => {
         const carregarPreguntes = async () => {
             try {
-                const response = await fetch('./preguntes.json');
+                const response = await fetch('./preguntes.json', { cache: 'no-store' });
                 const data = await response.json();
                 setPreguntes(data);
             } catch (error) {

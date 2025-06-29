@@ -6,7 +6,10 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
     <title>Quiz Bíblic Súper Genial!</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <link rel="stylesheet" href="styles.css" id="main-stylesheet">
     <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
@@ -30,7 +33,17 @@
 
 <body>
     <div id="root"></div>
-    <script type="text/babel" src="script.js"></script>
+    <script>
+        const ts = Date.now();
+        const style = document.getElementById('main-stylesheet');
+        if (style) {
+            style.href = `styles.css?t=${ts}`;
+        }
+        const script = document.createElement('script');
+        script.type = 'text/babel';
+        script.src = `script.js?t=${ts}`;
+        document.body.appendChild(script);
+    </script>
 </body>
 
 </html>
