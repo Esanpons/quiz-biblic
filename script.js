@@ -221,7 +221,7 @@ const QuizBiblic = () => {
                         React.createElement(Brain, { className: 'text-yellow-400 w-12 h-12 drop-shadow-lg' })
                     ),
                     React.createElement('h1', { 
-                        className: 'text-5xl font-black text-white drop-shadow-lg shadow-crown animate-pulse-crown'
+                        className: 'text-5xl font-black text-purple-900 drop-shadow-lg shadow-crown animate-pulse-crown'
                     }, 'Quiz Bíblic Súper Genial!'),
                     React.createElement('div', { className: 'animate-bounce-crown' },
                         React.createElement(Trophy, { className: 'text-yellow-400 w-12 h-12 drop-shadow-lg' })
@@ -231,7 +231,7 @@ const QuizBiblic = () => {
                     className: 'text-purple-800 text-xl font-bold drop-shadow-md animate-wiggle'
                 }, '👑 Descobreix les històries més emocionants de la Bíblia! 👑'),
                 React.createElement('p', { 
-                    className: 'text-white text-lg font-bold drop-shadow-md mt-2'
+                    className: 'text-purple-900 text-lg font-bold drop-shadow-md mt-2'
                 }, '✨ Corona de glòria i joies precioses! ✨')
             ),
 
@@ -241,7 +241,7 @@ const QuizBiblic = () => {
                     className: 'bg-kid-gradient-1 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-white drop-shadow-lg animate-bounce-crown'
+                        className: 'text-4xl font-black text-purple-900 drop-shadow-lg animate-bounce-crown'
                     }, `${emojisNivell[nivell]} ${nivell}`),
                     React.createElement('div', { 
                         className: 'text-purple-800 font-bold text-lg'
@@ -251,17 +251,17 @@ const QuizBiblic = () => {
                     className: 'bg-kid-gradient-2 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-white drop-shadow-lg animate-pulse-crown'
+                        className: 'text-4xl font-black text-purple-900 drop-shadow-lg animate-pulse-crown'
                     }, `💎 ${puntuacio}`),
                     React.createElement('div', { 
                         className: 'text-purple-800 font-bold text-lg'
-                    }, 'Punts Màgics!')
+                    }, 'Punts de Corona!')
                 ),
                 React.createElement('div', { 
                     className: 'bg-kid-gradient-3 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-white drop-shadow-lg animate-bounce'
+                        className: 'text-4xl font-black text-purple-900 drop-shadow-lg animate-bounce'
                     }, `🎯 ${historialPreguntes.length}`),
                     React.createElement('div', { 
                         className: 'text-purple-800 font-bold text-lg'
@@ -292,7 +292,7 @@ const QuizBiblic = () => {
                         ),
                         React.createElement('button', {
                             onClick: iniciarQuiz,
-                            className: 'bg-crown text-white px-12 py-6 rounded-3xl font-black text-2xl transition-all duration-300 transform hover:scale-110 shadow-crown border-crown animate-pulse-crown btn-magic'
+                            className: 'bg-blue-700 hover:bg-blue-800 text-yellow-300 px-12 py-6 rounded-3xl font-black text-2xl transition-all duration-300 transform hover:scale-110 shadow-lg btn-special border-4 border-yellow-400'
                         }, '🚀 Començar l\'Aventura de la Corona! 🚀')
                     )
                 : carregant ? 
@@ -307,7 +307,7 @@ const QuizBiblic = () => {
                     React.createElement('div', { className: 'mb-6' },
                         React.createElement('div', { className: 'flex items-center justify-between mb-6' },
                             React.createElement('div', { 
-                                className: 'bg-crown text-white px-6 py-3 rounded-2xl font-black text-lg shadow-crown border-crown'
+                                className: 'bg-blue-700 text-yellow-300 px-6 py-3 rounded-2xl font-black text-lg shadow-lg border-4 border-yellow-400'
                             }, `${emojisNivell[nivell]} ${nivellsNoms[nivell]}`),
                             React.createElement('div', { 
                                 className: 'text-purple-600 font-bold text-lg animate-pulse'
@@ -346,9 +346,9 @@ const QuizBiblic = () => {
                                     emoji = '❌';
                                 }
                             } else if (isSelected) {
-                                bgClass = 'bg-crown';
-                                borderClass = 'border-purple-500';
-                                textClass = 'text-white';
+                                bgClass = 'bg-purple-700';
+                                borderClass = 'border-yellow-400';
+                                textClass = 'text-yellow-300';
                                 emoji = '👆';
                             }
 
@@ -356,7 +356,7 @@ const QuizBiblic = () => {
                                 key: index,
                                 onClick: () => !mostrarResultat && setRespostaSeleccionada(lletra),
                                 disabled: mostrarResultat,
-                                className: `w-full p-4 rounded-2xl border-4 text-left transition-all duration-300 font-bold text-lg ${bgClass} ${borderClass} ${!mostrarResultat ? 'hover-lift btn-magic' : ''} shadow-lg`
+                                className: `w-full p-4 rounded-2xl border-4 text-left transition-all duration-300 font-bold text-lg ${bgClass} ${borderClass} ${!mostrarResultat ? 'hover-lift btn-special' : ''} shadow-lg`
                             }, React.createElement('span', {
                                 className: textClass
                             }, `${emoji} ${opcio}`));
@@ -389,11 +389,11 @@ const QuizBiblic = () => {
                             React.createElement('button', {
                                 onClick: comprovarResposta,
                                 disabled: !respostaSeleccionada,
-                                className: 'flex-1 bg-kid-gradient-5 hover:bg-green-600 disabled:from-gray-400 disabled:to-gray-500 text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 disabled:cursor-not-allowed hover-lift shadow-crown border-crown btn-magic'
+                                className: 'flex-1 bg-green-700 hover:bg-green-800 disabled:bg-gray-500 disabled:cursor-not-allowed text-yellow-300 px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 hover-lift shadow-lg border-4 border-yellow-400 btn-special'
                             }, '🎯 Comprovar Resposta!')
                         : React.createElement('button', {
                             onClick: seguentPregunta,
-                            className: 'flex-1 bg-crown text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center justify-center gap-3 hover-lift shadow-crown border-crown btn-magic'
+                            className: 'flex-1 bg-purple-700 hover:bg-purple-800 text-yellow-300 px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center justify-center gap-3 hover-lift shadow-lg border-4 border-yellow-400 btn-special'
                         },
                             '🚀 Següent Aventura!',
                             React.createElement(ArrowRight, { className: 'w-6 h-6' })
@@ -401,7 +401,7 @@ const QuizBiblic = () => {
                         
                         React.createElement('button', {
                             onClick: reiniciarQuiz,
-                            className: 'bg-kid-gradient-4 text-white px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center gap-3 hover-lift shadow-crown border-crown btn-magic'
+                            className: 'bg-red-700 hover:bg-red-800 text-yellow-300 px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center gap-3 hover-lift shadow-lg border-4 border-yellow-400 btn-special'
                         },
                             React.createElement(RotateCcw, { className: 'w-6 h-6' }),
                             '🔄 Reiniciar'

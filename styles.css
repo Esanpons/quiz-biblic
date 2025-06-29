@@ -1,11 +1,11 @@
 /* Corona Reial - Colors d'or, joies i majestat */
 .bg-crown {
     background: linear-gradient(135deg, 
-        #ffd700 0%,    /* Or */
-        #ffb347 25%,   /* Or taronja */
-        #ffd700 50%,   /* Or pur */
-        #e6ac00 75%,   /* Or fosc */
-        #ffd700 100%   /* Or brillant */
+        #b8860b 0%,    /* Or fosc */
+        #daa520 25%,   /* Or rod */
+        #cd853f 50%,   /* Or bronze */
+        #b8860b 75%,   /* Or fosc */
+        #8b7355 100%   /* Or molt fosc */
     );
 }
 
@@ -181,14 +181,14 @@
     animation: pulse-crown 2s infinite;
 }
 
-/* Botons súper animats */
-.btn-magic {
+/* Botons animats */
+.btn-special {
     position: relative;
     overflow: hidden;
     transform-style: preserve-3d;
 }
 
-.btn-magic::before {
+.btn-special::before {
     content: '';
     position: absolute;
     top: 0;
@@ -199,17 +199,17 @@
     transition: left 0.5s;
 }
 
-.btn-magic:hover::before {
+.btn-special:hover::before {
     left: 100%;
 }
 
 /* Responsive millores */
 @media (max-width: 768px) {
-    .animate-bounce-rainbow {
+    .animate-bounce-crown {
         animation-duration: 1.5s;
     }
     
-    .text-rainbow {
+    .text-crown {
         animation-duration: 4s;
     }
 }
