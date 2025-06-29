@@ -2,191 +2,5302 @@
   "nivell1": [
     {
       "pregunta": "Quin va ser el primer home que Déu va crear?",
-      "opcions": ["A) Abel", "B) Adam", "C) Noè", "D) Abraham"],
+      "opcions": [
+        "A) Abel",
+        "B) Adam",
+        "C) Noè",
+        "D) Abraham"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Adam va ser el primer home que Déu va crear del fang de la terra. (Gènesi 2:7)"
     },
     {
       "pregunta": "Qui va construir l'arca per salvar-se del diluvi?",
-      "opcions": ["A) Moisès", "B) David", "C) Noè", "D) Abraham"],
+      "opcions": [
+        "A) Moisès",
+        "B) David",
+        "C) Noè",
+        "D) Abraham"
+      ],
       "resposta_correcta": "C",
       "explicacio": "Noè va construir l'arca seguint les instruccions de Déu per salvar la seva família i els animals. (Gènesi 6-8)"
     },
     {
       "pregunta": "Quants dies va estar Jesús al desert?",
-      "opcions": ["A) 30 dies", "B) 40 dies", "C) 50 dies", "D) 70 dies"],
+      "opcions": [
+        "A) 30 dies",
+        "B) 40 dies",
+        "C) 50 dies",
+        "D) 70 dies"
+      ],
       "resposta_correcta": "B",
-      "explicacio": "Jesús va jeiunar 40 dies i 40 nits al desert, on va ser temptat pel diable. (Mateu 4:2)"
+      "explicacio": "Jesús va dejunar 40 dies i 40 nits al desert, on va ser temptat pel diable. (Mateu 4:2)"
     },
     {
       "pregunta": "Qui va alliberar el poble d'Israel d'Egipte?",
-      "opcions": ["A) Aaron", "B) Josué", "C) Moisès", "D) David"],
+      "opcions": [
+        "A) Aaron",
+        "B) Josué",
+        "C) Moisès",
+        "D) David"
+      ],
       "resposta_correcta": "C",
       "explicacio": "Moisès va ser escollit per Déu per alliberar els israelites de l'esclavitud a Egipte. (Èxode 3-14)"
     },
     {
       "pregunta": "Quin rei va ser conegut per la seva saviesa?",
-      "opcions": ["A) David", "B) Salomó", "C) Saül", "D) Ezequies"],
+      "opcions": [
+        "A) David",
+        "B) Salomó",
+        "C) Saül",
+        "D) Ezequies"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Salomó va demanar saviesa a Déu i va ser conegut per les seves sàvies decisions. (1 Reis 3:5-12)"
     },
     {
       "pregunta": "Amb què va matar David el gegant Goliat?",
-      "opcions": ["A) Una espasa", "B) Una llança", "C) Una fona", "D) Un arc"],
+      "opcions": [
+        "A) Una espasa",
+        "B) Una llança",
+        "C) Una fona",
+        "D) Un arc"
+      ],
       "resposta_correcta": "C",
       "explicacio": "David va usar una fona i una pedra per derrotar el gegant filisteu Goliat. (1 Samuel 17:50)"
+    },
+    {
+      "pregunta": "Qui va ser la primera dona que Déu va crear?",
+      "opcions": [
+        "A) Maria",
+        "B) Sara",
+        "C) Eva",
+        "D) Rebeca"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va crear Eva a partir d'una costella d'Adam per a ser la seva companya. (Gènesi 2:21-22)"
+    },
+    {
+      "pregunta": "On va néixer Jesús?",
+      "opcions": [
+        "A) Natzaret",
+        "B) Betlem",
+        "C) Jerusalem",
+        "D) Galilea"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va néixer a Betlem, la ciutat de David, com havien anunciat els profetes. (Lluc 2:4-7)"
+    },
+    {
+      "pregunta": "Qui va ser el germà de Moisès?",
+      "opcions": [
+        "A) Josuè",
+        "B) Caleb",
+        "C) Aaron",
+        "D) Isaac"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Aaron era el germà gran de Moisès i va ser el seu portaveu davant del Faraó. (Èxode 4:14)"
+    },
+    {
+      "pregunta": "Quants manaments principals va donar Déu a Moisès?",
+      "opcions": [
+        "A) Cinc",
+        "B) Set",
+        "C) Deu",
+        "D) Dotze"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va donar a Moisès els Deu Manaments escrits en dues taules de pedra. (Èxode 20:1-17)"
+    },
+    {
+      "pregunta": "Qui va ser el rei que va succeir a David?",
+      "opcions": [
+        "A) Saül",
+        "B) Salomó",
+        "C) Josafat",
+        "D) Roboam"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Salomó, fill de David, el va succeir com a rei d'Israel i va construir el Temple. (1 Reis 1:39)"
+    },
+    {
+      "pregunta": "Com es deia el jardí on vivien Adam i Eva?",
+      "opcions": [
+        "A) Getsemaní",
+        "B) Edèn",
+        "C) Sió",
+        "D) Paradís"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Déu va posar Adam i Eva al Jardí de l'Edèn. (Gènesi 2:8)"
+    },
+    {
+      "pregunta": "Qui va ser llançat a la fossa dels lleons?",
+      "opcions": [
+        "A) Daniel",
+        "B) Jonàs",
+        "C) Jeremies",
+        "D) Samuel"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Daniel va ser llançat a la fossa dels lleons per pregar a Déu, però un àngel el va protegir. (Daniel 6)"
+    },
+    {
+      "pregunta": "Quin apòstol va negar Jesús tres vegades?",
+      "opcions": [
+        "A) Joan",
+        "B) Jaume",
+        "C) Judes",
+        "D) Pere"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Pere va negar conèixer Jesús tres vegades abans que cantés el gall, tal com Jesús havia predit. (Mateu 26:69-75)"
+    },
+    {
+      "pregunta": "Com es deia la mare de Jesús?",
+      "opcions": [
+        "A) Elisabet",
+        "B) Maria Magdalena",
+        "C) Marta",
+        "D) Maria"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "L'àngel Gabriel va anunciar a Maria que seria la mare de Jesús. (Lluc 1:26-31)"
+    },
+    {
+      "pregunta": "Qui va ser el primer assassí de la història bíblica?",
+      "opcions": [
+        "A) Caín",
+        "B) Abel",
+        "C) Adam",
+        "D) Lamec"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Caín, ple de gelosia, va matar el seu germà Abel. (Gènesi 4:8)"
+    },
+    {
+      "pregunta": "Quina va ser la primera parella humana?",
+      "opcions": [
+        "A) Abraham i Sara",
+        "B) Isaac i Rebeca",
+        "C) Adam i Eva",
+        "D) Jacob i Raquel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Adam i Eva van ser la primera parella, creats per Déu al principi. (Gènesi 2)"
+    },
+    {
+      "pregunta": "Què va dividir Moisès per permetre que els israelites escapessin?",
+      "opcions": [
+        "A) El riu Jordà",
+        "B) El Mar Roig",
+        "C) El desert",
+        "D) Una muntanya"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Déu va dividir el Mar Roig a través de Moisès per crear un camí sec per als israelites. (Èxode 14:21-22)"
+    },
+    {
+      "pregunta": "Què va construir Noè per sobreviure al diluvi?",
+      "opcions": [
+        "A) Una casa",
+        "B) Una torre",
+        "C) Un temple",
+        "D) Una arca"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Noè va construir una gran arca de fusta seguint les instruccions de Déu. (Gènesi 6:14)"
+    },
+    {
+      "pregunta": "Qui va ser el pare del poble d'Israel?",
+      "opcions": [
+        "A) Abraham",
+        "B) Isaac",
+        "C) Jacob",
+        "D) Moisès"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Déu va fer una aliança amb Abraham, prometent-li que seria el pare de moltes nacions. (Gènesi 17:4)"
+    },
+    {
+      "pregunta": "Quin evangeli es coneix com l'evangeli de l'amor?",
+      "opcions": [
+        "A) Mateu",
+        "B) Marc",
+        "C) Lluc",
+        "D) Joan"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "L'evangeli de Joan posa un gran èmfasi en l'amor de Déu i el manament d'estimar-se els uns als altres. (Joan 3:16, Joan 13:34)"
+    },
+    {
+      "pregunta": "Qui va ser el jutge més fort d'Israel?",
+      "opcions": [
+        "A) Gedeó",
+        "B) Samsó",
+        "C) Samuel",
+        "D) Jeftè"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Samsó va rebre una força sobrehumana de Déu per lluitar contra els filisteus. (Jutges 14-16)"
+    },
+    {
+      "pregunta": "Què va donar Jesús als seus deixebles en l'Últim Sopar?",
+      "opcions": [
+        "A) Pa i aigua",
+        "B) Pa i vi",
+        "C) Peix i pa",
+        "D) Carn i vi"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va instituir el Sant Sopar amb pa i vi, simbolitzant el seu cos i la seva sang. (Mateu 26:26-28)"
+    },
+    {
+      "pregunta": "Qui va ressuscitar Jesús al tercer dia?",
+      "opcions": [
+        "A) Els seus deixebles",
+        "B) Maria Magdalena",
+        "C) Els àngels",
+        "D) Déu Pare"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "La Bíblia ensenya que Déu Pare va ressuscitar Jesús d'entre els morts. (Fets 2:24)"
+    },
+    {
+      "pregunta": "Quin és el primer llibre de la Bíblia?",
+      "opcions": [
+        "A) Èxode",
+        "B) Levític",
+        "C) Gènesi",
+        "D) Mateu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El Gènesi és el primer llibre de la Bíblia i narra la creació, la caiguda i els inicis del poble d'Israel."
+    },
+    {
+      "pregunta": "Quin és el llibre de cançons i pregàries de l'Antic Testament?",
+      "opcions": [
+        "A) Proverbis",
+        "B) Salms",
+        "C) Eclesiastès",
+        "D) Lamentacions"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El llibre dels Salms és una col·lecció de 150 càntics, poemes i pregàries."
+    },
+    {
+      "pregunta": "Quina ciutat és coneguda com la Ciutat Santa?",
+      "opcions": [
+        "A) Babilònia",
+        "B) Roma",
+        "C) Atenes",
+        "D) Jerusalem"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Jerusalem és una ciutat sagrada per al judaisme, el cristianisme i l'islam. (Nehemies 11:1)"
+    },
+    {
+      "pregunta": "Qui va ser el successor de Moisès per guiar Israel a la Terra Promesa?",
+      "opcions": [
+        "A) Aaron",
+        "B) Caleb",
+        "C) Josuè",
+        "D) Gedeó"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va escollir Josuè per liderar el poble d'Israel després de la mort de Moisès. (Deuteronomi 31:23)"
+    },
+    {
+      "pregunta": "Qui va ser el fill de la promesa d'Abraham i Sara?",
+      "opcions": [
+        "A) Ismael",
+        "B) Isaac",
+        "C) Jacob",
+        "D) Esaú"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Isaac va ser el fill que Déu va prometre a Abraham i Sara en la seva vellesa. (Gènesi 21:1-3)"
+    },
+    {
+      "pregunta": "Què va fer caure les muralles de Jericó?",
+      "opcions": [
+        "A) Un terratrèmol",
+        "B) Un exèrcit amb catapultes",
+        "C) El so de trompetes i crits",
+        "D) Una inundació"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Les muralles de Jericó van caure miraculosament després que els israelites marxessin al seu voltant i toquessin les trompetes. (Josuè 6:20)"
+    },
+    {
+      "pregunta": "Com es diu el pare de Joan Baptista?",
+      "opcions": [
+        "A) Simeó",
+        "B) Joaquim",
+        "C) Zacaries",
+        "D) Josep"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Zacaries era un sacerdot i el pare de Joan Baptista. (Lluc 1:5)"
+    },
+    {
+      "pregunta": "Quin és el manament més important, segons Jesús?",
+      "opcions": [
+        "A) No mataràs",
+        "B) Honraràs pare i mare",
+        "C) Estimaràs el Senyor, el teu Déu",
+        "D) No robaràs"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va dir que el manament més gran és estimar Déu amb tot el cor, ànima i ment. (Mateu 22:37-38)"
+    },
+    {
+      "pregunta": "Qui va ser el primer rei d'Israel?",
+      "opcions": [
+        "A) David",
+        "B) Salomó",
+        "C) Saül",
+        "D) Samuel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El profeta Samuel va ungir Saül com el primer rei sobre Israel. (1 Samuel 10:1)"
+    },
+    {
+      "pregunta": "De quina ciutat era Jesús?",
+      "opcions": [
+        "A) Jerusalem",
+        "B) Betlem",
+        "C) Natzaret",
+        "D) Cafarnaüm"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Encara que va néixer a Betlem, Jesús es va criar a Natzaret de Galilea. (Mateu 2:23)"
+    },
+    {
+      "pregunta": "Quin regal NO van portar els mags d'Orient a Jesús?",
+      "opcions": [
+        "A) Or",
+        "B) Encens",
+        "C) Mirra",
+        "D) Plata"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Els mags van adorar Jesús i li van oferir or, encens i mirra. (Mateu 2:11)"
+    },
+    {
+      "pregunta": "Qui va batejar Jesús?",
+      "opcions": [
+        "A) Pere",
+        "B) Un àngel",
+        "C) Joan Baptista",
+        "D) El seu pare Josep"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Joan Baptista va batejar Jesús al riu Jordà. (Mateu 3:13)"
+    },
+    {
+      "pregunta": "Què representa la paràbola del Bon Samarità?",
+      "opcions": [
+        "A) La importància de pregar",
+        "B) La necessitat de ser ric",
+        "C) La misericòrdia i l'amor al proïsme",
+        "D) La fe en la resurrecció"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La paràbola ensenya que el nostre proïsme és qualsevol persona necessitada, i hem de mostrar-li compassió. (Lluc 10:25-37)"
+    },
+    {
+      "pregunta": "Qui va ser el fill gran d'Isaac i Rebeca?",
+      "opcions": [
+        "A) Jacob",
+        "B) Josep",
+        "C) Esaú",
+        "D) Judà"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Esaú va ser el primogènit, germà bessó de Jacob. (Gènesi 25:25)"
+    },
+    {
+      "pregunta": "A qui van vendre Josep com a esclau els seus germans?",
+      "opcions": [
+        "A) Als egipcis",
+        "B) Als ismaelites",
+        "C) Als filisteus",
+        "D) Als babilonis"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Els germans de Josep el van vendre a una caravana d'ismaelites que anava a Egipte. (Gènesi 37:28)"
+    },
+    {
+      "pregunta": "Qui va dir 'Jo sóc el camí, la veritat i la vida'?",
+      "opcions": [
+        "A) Moisès",
+        "B) David",
+        "C) Jesús",
+        "D) Pau"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va fer aquesta declaració als seus deixebles per explicar que l'únic camí cap al Pare és a través d'ell. (Joan 14:6)"
+    },
+    {
+      "pregunta": "Com va morir Jesús?",
+      "opcions": [
+        "A) Apedregat",
+        "B) Ofegat",
+        "C) Crucificat",
+        "D) De vellesa"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va ser condemnat a morir crucificat, un mètode romà d'execució. (Marc 15:24)"
+    },
+    {
+      "pregunta": "Quants llibres hi ha al Nou Testament?",
+      "opcions": [
+        "A) 21",
+        "B) 27",
+        "C) 39",
+        "D) 66"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El Nou Testament conté 27 llibres, des de l'Evangeli de Mateu fins a l'Apocalipsi."
+    },
+    {
+      "pregunta": "Què va passar el dia de Pentecosta?",
+      "opcions": [
+        "A) Jesús va néixer",
+        "B) Jesús va ressuscitar",
+        "C) L'Esperit Sant va descendir",
+        "D) Moisès va rebre la Llei"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El dia de Pentecosta, l'Esperit Sant va descendir sobre els apòstols en forma de llengües de foc. (Fets 2:1-4)"
+    },
+    {
+      "pregunta": "Qui va ser la reina que va salvar el seu poble, els jueus, de l'extermini?",
+      "opcions": [
+        "A) Jezabel",
+        "B) Rut",
+        "C) Ester",
+        "D) Dèbora"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La reina Ester va intercedir davant del seu marit, el rei Assuer, per salvar els jueus de Pèrsia. (Llibre d'Ester)"
+    },
+    {
+      "pregunta": "Quin instrument tocava David per calmar el rei Saül?",
+      "opcions": [
+        "A) La flauta",
+        "B) La trompeta",
+        "C) L'arpa",
+        "D) El tambor"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "David era un músic hàbil i tocava l'arpa per a Saül quan un esperit maligne el turmentava. (1 Samuel 16:23)"
+    },
+    {
+      "pregunta": "Qui va construir el Temple de Jerusalem?",
+      "opcions": [
+        "A) David",
+        "B) Moisès",
+        "C) Salomó",
+        "D) Zorobabel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Encara que David va preparar els materials, va ser el seu fill Salomó qui va construir el primer Temple. (1 Reis 6)"
+    },
+    {
+      "pregunta": "Quin animal va parlar amb Balaam?",
+      "opcions": [
+        "A) Un cavall",
+        "B) Un camell",
+        "C) Una somera",
+        "D) Una serp"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va fer parlar la somera de Balaam per reprendre el profeta. (Nombres 22:28)"
+    },
+    {
+      "pregunta": "Com es deia el fill de Jacob que va ser venut com a esclau?",
+      "opcions": [
+        "A) Rubèn",
+        "B) Judà",
+        "C) Benjamí",
+        "D) Josep"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Josep era el fill preferit de Jacob, i els seus germans, gelosos, el van vendre. (Gènesi 37)"
+    },
+    {
+      "pregunta": "Qui va escriure la majoria de les epístoles del Nou Testament?",
+      "opcions": [
+        "A) Pere",
+        "B) Joan",
+        "C) Pau",
+        "D) Jaume"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "L'apòstol Pau va escriure la major part de les cartes (epístoles) a les primeres esglésies cristianes."
+    },
+    {
+      "pregunta": "Quin profeta va ser menjat per un gran peix?",
+      "opcions": [
+        "A) Isaïes",
+        "B) Elies",
+        "C) Jonàs",
+        "D) Daniel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jonàs va desobeir Déu i, en la seva fugida, va ser llançat al mar i engolit per un gran peix. (Jonàs 1:17)"
+    },
+    {
+      "pregunta": "Què va fer Zacqueu per veure Jesús?",
+      "opcions": [
+        "A) Va cridar molt fort",
+        "B) Es va posar a primera fila",
+        "C) Es va enfilar a un arbre",
+        "D) Va demanar ajuda a un amic"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Zacqueu, que era baixet, es va enfilar a un sicòmor per poder veure Jesús entre la multitud. (Lluc 19:4)"
+    },
+    {
+      "pregunta": "Com es diu el lloc on Jesús pregava abans de ser arrestat?",
+      "opcions": [
+        "A) Mont de les Oliveres",
+        "B) Jardí de Getsemaní",
+        "C) Mont Sinaí",
+        "D) Mont Carmel"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va anar al Jardí de Getsemaní amb els seus deixebles per pregar la nit que va ser traït. (Mateu 26:36)"
+    },
+    {
+      "pregunta": "Quin va ser el senyal de l'aliança de Déu amb Noè després del diluvi?",
+      "opcions": [
+        "A) Un colom",
+        "B) Un arc de Sant Martí",
+        "C) Una branca d'olivera",
+        "D) Set estrelles"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Déu va posar l'arc de Sant Martí en els núvols com a senyal que mai més no destruiria la terra amb un diluvi. (Gènesi 9:13)"
+    },
+    {
+      "pregunta": "A qui se li va canviar el nom per Israel?",
+      "opcions": [
+        "A) Abraham",
+        "B) Isaac",
+        "C) Jacob",
+        "D) Josep"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després de lluitar amb un àngel, Déu va canviar el nom de Jacob per Israel. (Gènesi 32:28)"
+    },
+    {
+      "pregunta": "Qui va ser el metge estimat que va escriure un evangeli?",
+      "opcions": [
+        "A) Mateu",
+        "B) Marc",
+        "C) Lluc",
+        "D) Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Lluc, company de viatge de Pau, era metge i va escriure l'Evangeli de Lluc i els Fets dels Apòstols. (Colossencs 4:14)"
+    },
+    {
+      "pregunta": "Qui va dir: 'Sóc la llum del món'?",
+      "opcions": [
+        "A) Joan Baptista",
+        "B) Jesús",
+        "C) Déu Pare",
+        "D) L'apòstol Joan"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va proclamar ser la llum del món, oferint llum espiritual a aquells que el segueixen. (Joan 8:12)"
+    },
+    {
+      "pregunta": "Qui va ser el profeta que va ungir David com a rei?",
+      "opcions": [
+        "A) Elies",
+        "B) Natan",
+        "C) Samuel",
+        "D) Isaïes"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va enviar el profeta Samuel a Betlem per ungir el jove David com a futur rei d'Israel. (1 Samuel 16:13)"
+    },
+    {
+      "pregunta": "Quin llibre de la Bíblia narra la creació del món?",
+      "opcions": [
+        "A) Èxode",
+        "B) Salms",
+        "C) Gènesi",
+        "D) Apocalipsi"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre del Gènesi comença amb el relat de la creació del cel i la terra per part de Déu. (Gènesi 1)"
+    },
+    {
+      "pregunta": "Qui va rebre dues vegades la vista de Jesús?",
+      "opcions": [
+        "A) Bartimeu",
+        "B) El cec de Betsaida",
+        "C) L'home cec de naixement",
+        "D) Saül de Tars"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va guarir el cec de Betsaida en dues etapes; primer veia la gent com arbres, després clarament. (Marc 8:22-25)"
+    },
+    {
+      "pregunta": "Quants fills va tenir Jacob?",
+      "opcions": [
+        "A) 10",
+        "B) 11",
+        "C) 12",
+        "D) 13"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jacob va tenir dotze fills, que van esdevenir els caps de les dotze tribus d'Israel. (Gènesi 35:22)"
+    },
+    {
+      "pregunta": "Quina dona va ser la besàvia del rei David?",
+      "opcions": [
+        "A) Sara",
+        "B) Rebeca",
+        "C) Rut",
+        "D) Ester"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Rut, la moabita, es va casar amb Boaz, i el seu fill Obed va ser l'avi de David. (Rut 4:17)"
+    },
+    {
+      "pregunta": "Quin apòstol va caminar sobre l'aigua amb Jesús?",
+      "opcions": [
+        "A) Joan",
+        "B) Andreu",
+        "C) Jaume",
+        "D) Pere"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Pere va sortir de la barca per caminar sobre l'aigua cap a Jesús, però va començar a enfonsar-se per la seva poca fe. (Mateu 14:29)"
+    },
+    {
+      "pregunta": "Què va utilitzar Déu per alimentar els israelites al desert?",
+      "opcions": [
+        "A) Pa i peix",
+        "B) Fruita i mel",
+        "C) Manà i guatlles",
+        "D) Pa d'àngels"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va proveir miraculosament manà del cel i guatlles per alimentar el seu poble durant 40 anys. (Èxode 16)"
+    },
+    {
+      "pregunta": "Quin és l'últim llibre de la Bíblia?",
+      "opcions": [
+        "A) Judes",
+        "B) Fets",
+        "C) Apocalipsi",
+        "D) Malaquies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "L'Apocalipsi (o Revelació) de Joan és l'últim llibre i conté profecies sobre la fi dels temps."
+    },
+    {
+      "pregunta": "A qui va dir Jesús 'Deixa que els morts enterrin els seus morts'?",
+      "opcions": [
+        "A) A un fariseu",
+        "B) A un deixeble potencial",
+        "C) A Pere",
+        "D) A Llàtzer"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va dir això a un home que volia seguir-lo però primer volia enterrar el seu pare, emfatitzant la urgència del Regne de Déu. (Lluc 9:59-60)"
+    },
+    {
+      "pregunta": "Com es deia la germana de Moisès i Aaron?",
+      "opcions": [
+        "A) Sèfora",
+        "B) Míriam",
+        "C) Joquèbed",
+        "D) Elisabet"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Míriam era la germana gran que va vigilar Moisès quan era un nadó al Nil. (Èxode 15:20)"
+    },
+    {
+      "pregunta": "Qui va ser el profeta que va desafiar els profetes de Baal al mont Carmel?",
+      "opcions": [
+        "A) Eliseu",
+        "B) Isaïes",
+        "C) Jeremies",
+        "D) Elies"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Elies va reptar 450 profetes de Baal a un duel per demostrar qui era el Déu veritable, i Déu va respondre amb foc del cel. (1 Reis 18)"
+    },
+    {
+      "pregunta": "Qui va ser el primer màrtir cristià?",
+      "opcions": [
+        "A) Jaume",
+        "B) Pere",
+        "C) Esteve",
+        "D) Pau"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Esteve va ser apedregat fins a la mort pel Sanedrí després de donar un valent testimoni de Jesús. (Fets 7:59-60)"
+    },
+    {
+      "pregunta": "En quina paràbola un pare celebra el retorn del seu fill penedit?",
+      "opcions": [
+        "A) El sembrador",
+        "B) El fill pròdig",
+        "C) El bon samarità",
+        "D) Els talents"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La paràbola del fill pròdig il·lustra el perdó i l'amor incondicional de Déu Pare. (Lluc 15:11-32)"
+    },
+    {
+      "pregunta": "Qui va ser enganyat per la seva dona Dalila?",
+      "opcions": [
+        "A) David",
+        "B) Samsó",
+        "C) Salomó",
+        "D) Jacob"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Dalila va trair Samsó revelant el secret de la seva força als filisteus. (Jutges 16)"
+    },
+    {
+      "pregunta": "Quin pecat va cometre David amb Betsabé?",
+      "opcions": [
+        "A) Robatori",
+        "B) Adulteri i assassinat",
+        "C) Mentida",
+        "D) Idolatria"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "David va cometre adulteri amb Betsabé i després va fer matar el seu marit, Uries. (2 Samuel 11)"
+    },
+    {
+      "pregunta": "Quin apòstol era conegut com 'el Bessó'?",
+      "opcions": [
+        "A) Andreu",
+        "B) Felip",
+        "C) Bartomeu",
+        "D) Tomàs"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Tomàs, també anomenat Dídim (que significa 'bessó'), és famós per dubtar de la resurrecció de Jesús. (Joan 20:24)"
+    },
+    {
+      "pregunta": "Què va fer Déu el setè dia de la creació?",
+      "opcions": [
+        "A) Va crear l'home",
+        "B) Va crear els animals",
+        "C) Va reposar",
+        "D) Va crear la llum"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després de sis dies de creació, Déu va beneir el setè dia i el va santificar, reposant de la seva obra. (Gènesi 2:2)"
+    },
+    {
+      "pregunta": "Quin va ser el primer miracle de Jesús registrat a l'Evangeli de Joan?",
+      "opcions": [
+        "A) Guarit un leprós",
+        "B) Caminar sobre l'aigua",
+        "C) Convertir l'aigua en vi",
+        "D) Alimentar els 5000"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va realitzar el seu primer senyal a les noces de Canà, convertint l'aigua en vi. (Joan 2:1-11)"
+    },
+    {
+      "pregunta": "Com es deia la dona d'Abraham?",
+      "opcions": [
+        "A) Rebeca",
+        "B) Raquel",
+        "C) Lia",
+        "D) Sara"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Sara (originalment Sarai) era la dona d'Abraham i mare d'Isaac. (Gènesi 17:15)"
+    },
+    {
+      "pregunta": "Quina torre van construir els homes per arribar al cel?",
+      "opcions": [
+        "A) Torre de Siloè",
+        "B) Torre de David",
+        "C) Torre de Babel",
+        "D) Torre de Jericó"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "A la terra de Sinar, la gent va intentar construir la Torre de Babel per fer-se un nom, i Déu va confondre les seves llengües. (Gènesi 11:1-9)"
+    },
+    {
+      "pregunta": "Quin títol es dóna a Jesús que significa 'Déu amb nosaltres'?",
+      "opcions": [
+        "A) Messies",
+        "B) Emmanuel",
+        "C) Crist",
+        "D) Senyor"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El profeta Isaïes va predir que el Messies es diria Emmanuel, que traduït és 'Déu amb nosaltres'. (Isaïes 7:14, Mateu 1:23)"
+    },
+    {
+      "pregunta": "Qui va ser el profeta que va confrontar el rei David pel seu pecat?",
+      "opcions": [
+        "A) Samuel",
+        "B) Elies",
+        "C) Natan",
+        "D) Jeremies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El profeta Natan va explicar una paràbola a David per fer-li veure el seu pecat amb Betsabé i Uries. (2 Samuel 12)"
+    },
+    {
+      "pregunta": "Qui va ser el recaptador d'impostos que va deixar-ho tot per seguir Jesús?",
+      "opcions": [
+        "A) Zacqueu",
+        "B) Mateu (Leví)",
+        "C) Bartimeu",
+        "D) Simó el Zelota"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va cridar Mateu (també anomenat Leví), que era a la sua taula d'impostos, i ell el va seguir immediatament. (Mateu 9:9)"
+    },
+    {
+      "pregunta": "Què va passar amb la dona de Lot quan va mirar enrere cap a Sodoma?",
+      "opcions": [
+        "A) Va caure morta",
+        "B) Es va convertir en una estàtua de sal",
+        "C) Es va quedar cega",
+        "D) Va ser cremada pel foc"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Desobeint l'advertència de l'àngel, la dona de Lot va mirar enrere i es va convertir en una columna de sal. (Gènesi 19:26)"
+    },
+    {
+      "pregunta": "A quin monticle va ser crucificat Jesús?",
+      "opcions": [
+        "A) Mont Carmel",
+        "B) Mont Sinaí",
+        "C) Gòlgota",
+        "D) Mont de les Oliveres"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va ser crucificat al Gòlgota, que significa 'Lloc de la Calavera'. (Joan 19:17)"
+    },
+    {
+      "pregunta": "Què va portar el colom a l'arca de Noè com a senyal que les aigües havien baixat?",
+      "opcions": [
+        "A) Una pedra",
+        "B) Una fulla de figuera",
+        "C) Una branca d'olivera",
+        "D) Res"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El colom va tornar amb una fulla d'olivera fresca al bec, indicant que la terra tornava a ser habitable. (Gènesi 8:11)"
+    },
+    {
+      "pregunta": "Quin dels fills de Jacob va ser avantpassat de Jesús?",
+      "opcions": [
+        "A) Josep",
+        "B) Leví",
+        "C) Judà",
+        "D) Benjamí"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La genealogia de Jesús, tant a Mateu com a Lluc, passa per la tribu de Judà. (Mateu 1:2-3)"
+    },
+    {
+      "pregunta": "Qui va interpretar els somnis del Faraó a Egipte?",
+      "opcions": [
+        "A) Moisès",
+        "B) Daniel",
+        "C) Josep",
+        "D) Jacob"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Josep, amb l'ajuda de Déu, va interpretar els somnis del Faraó sobre les set vaques grasses i les set vaques flaques. (Gènesi 41)"
+    },
+    {
+      "pregunta": "Quin va ser el primer pecat de la humanitat?",
+      "opcions": [
+        "A) L'assassinat",
+        "B) La desobediència",
+        "C) El robatori",
+        "D) La mentida"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El primer pecat va ser la desobediència d'Adam i Eva en menjar del fruit prohibit. (Gènesi 3:6)"
+    },
+    {
+      "pregunta": "Qui va ser el profeta que va escriure el llibre de les Lamentacions?",
+      "opcions": [
+        "A) Isaïes",
+        "B) Jeremies",
+        "C) Ezequiel",
+        "D) Daniel"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La tradició atribueix a Jeremies la redacció del llibre de les Lamentacions, un plany per la destrucció de Jerusalem. "
+    },
+    {
+      "pregunta": "Qui va ser el pare dels germans Jaume i Joan, apòstols de Jesús?",
+      "opcions": [
+        "A) Zebedeu",
+        "B) Alfeu",
+        "C) Jonàs",
+        "D) Timeu"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Jaume i Joan, pescadors, eren fills de Zebedeu. (Mateu 4:21)"
+    },
+    {
+      "pregunta": "Quina dona va rentar els peus de Jesús amb les seves llàgrimes i els va eixugar amb els seus cabells?",
+      "opcions": [
+        "A) Maria, la mare de Jesús",
+        "B) Maria Magdalena",
+        "C) Una dona pecadora",
+        "D) Marta"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "A casa d'un fariseu, una dona coneguda com a pecadora va mostrar un gran amor i penediment rentant els peus de Jesús. (Lluc 7:37-38)"
+    },
+    {
+      "pregunta": "Quants anys van passar els israelites vagant pel desert?",
+      "opcions": [
+        "A) 20 anys",
+        "B) 30 anys",
+        "C) 40 anys",
+        "D) 50 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Com a càstig per la seva incredulitat, la generació de l'èxode va vagar 40 anys pel desert fins que va morir. (Nombres 14:33)"
+    },
+    {
+      "pregunta": "Qui va ser la reina de Sabà?",
+      "opcions": [
+        "A) Una reina que va visitar Salomó",
+        "B) La dona de David",
+        "C) Una profetessa",
+        "D) Una reina egípcia"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La reina de Sabà va viatjar per conèixer la saviesa del rei Salomó. (1 Reis 10)"
+    },
+    {
+      "pregunta": "Quin rei va veure una escriptura a la paret durant un banquet?",
+      "opcions": [
+        "A) Nabucodonosor",
+        "B) Baltasar",
+        "C) Darios",
+        "D) Cirus"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El rei Baltasar de Babilònia va veure una mà escrivint a la paret, i Daniel va interpretar el missatge de judici. (Daniel 5)"
+    },
+    {
+      "pregunta": "Qui va ser el germà d'Esaú?",
+      "opcions": [
+        "A) Isaac",
+        "B) Jacob",
+        "C) Ismael",
+        "D) Josep"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jacob i Esaú eren els fills bessons d'Isaac i Rebeca. (Gènesi 25:24-26)"
+    },
+    {
+      "pregunta": "Quina tribu d'Israel era la sacerdotal?",
+      "opcions": [
+        "A) Judà",
+        "B) Benjamí",
+        "C) Leví",
+        "D) Rubèn"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La tribu de Leví va ser apartada per Déu per servir com a sacerdots i levites al tabernacle i al temple. (Nombres 3:5-10)"
+    },
+    {
+      "pregunta": "Qui va ser el primer home a pecar?",
+      "opcions": [
+        "A) Caín",
+        "B) Adam",
+        "C) Noè",
+        "D) Satanàs"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Encara que Eva va ser la primera a menjar el fruit, la Bíblia considera Adam com el representant de la humanitat en la caiguda. (Romans 5:12)"
+    },
+    {
+      "pregunta": "Què va rebre Esaú a canvi de la seva primogenitura?",
+      "opcions": [
+        "A) Or i plata",
+        "B) Un ramat d'ovelles",
+        "C) Un plat de llenties",
+        "D) Un camp"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Esaú, menyspreant la seva primogenitura, la va vendre al seu germà Jacob per un guisat de llenties. (Gènesi 25:34)"
+    },
+    {
+      "pregunta": "Quin és el nom del pare de Jesús a la terra?",
+      "opcions": [
+        "A) Zacaries",
+        "B) Joaquim",
+        "C) Josep",
+        "D) Simeó"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Josep, un fuster de Natzaret, va ser el pare adoptiu de Jesús i marit de Maria. (Mateu 1:18-19)"
+    },
+    {
+      "pregunta": "Qui va ser curat de la lepra banyant-se set vegades al riu Jordà?",
+      "opcions": [
+        "A) El centurió romà",
+        "B) Naaman",
+        "C) Giezi",
+        "D) Un dels deu leprosos"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Naaman, un cap de l'exèrcit siri, va ser guarit de la lepra després d'obeir la paraula del profeta Eliseu. (2 Reis 5)"
+    },
+    {
+      "pregunta": "Qui va dubtar de la resurrecció de Jesús fins que no va veure les seves ferides?",
+      "opcions": [
+        "A) Pere",
+        "B) Judes",
+        "C) Tomàs",
+        "D) Felip"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Tomàs va dir que no creuria si no posava el dit a les ferides de Jesús. (Joan 20:25)"
+    },
+    {
+      "pregunta": "Quants dies i nits va ploure durant el diluvi?",
+      "opcions": [
+        "A) 7",
+        "B) 30",
+        "C) 40",
+        "D) 150"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Va ploure sobre la terra durant quaranta dies i quaranta nits. (Gènesi 7:12)"
+    },
+    {
+      "pregunta": "Quin apòstol va ser crucificat cap per avall, segons la tradició?",
+      "opcions": [
+        "A) Jaume",
+        "B) Andreu",
+        "C) Pere",
+        "D) Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La tradició cristiana sosté que Pere va demanar ser crucificat cap per avall, ja que no es considerava digne de morir de la mateixa manera que Jesús."
+    },
+    {
+      "pregunta": "Quin nom va donar Déu a Abram?",
+      "opcions": [
+        "A) Israel",
+        "B) Abraham",
+        "C) Amic de Déu",
+        "D) Escollit"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Déu va canviar el nom d'Abram a Abraham, que significa 'pare de multituds' o 'pare de nacions'. (Gènesi 17:5)"
+    },
+    {
+      "pregunta": "Quina és la pregària que Jesús va ensenyar als seus deixebles?",
+      "opcions": [
+        "A) El Credo dels Apòstols",
+        "B) El Parenostre",
+        "C) El Salm 23",
+        "D) El Magnificat"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va ensenyar el Parenostre (o la Pregària del Senyor) com a model de com pregar. (Mateu 6:9-13)"
     }
   ],
   "nivell2": [
     {
       "pregunta": "Quants apòstols va tenir Jesús?",
-      "opcions": ["A) 10", "B) 12", "C) 14", "D) 16"],
+      "opcions": [
+        "A) 10",
+        "B) 12",
+        "C) 14",
+        "D) 16"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Jesús va escollir 12 apòstols per predicar l'evangeli. (Mateu 10:1-4)"
     },
     {
       "pregunta": "En quin riu va ser batejat Jesús?",
-      "opcions": ["A) Riu Nil", "B) Riu Eufrates", "C) Riu Jordà", "D) Mar Roig"],
+      "opcions": [
+        "A) Riu Nil",
+        "B) Riu Eufrates",
+        "C) Riu Jordà",
+        "D) Mar Roig"
+      ],
       "resposta_correcta": "C",
       "explicacio": "Joan Baptista va batejar Jesús al riu Jordà. (Mateu 3:13-17)"
     },
     {
       "pregunta": "Quina plaga va fer que el Faraó deixés anar els israelites?",
-      "opcions": ["A) Les granotes", "B) La foscor", "C) Les mosques", "D) La mort dels primogènits"],
+      "opcions": [
+        "A) Les granotes",
+        "B) La foscor",
+        "C) Les mosques",
+        "D) La mort dels primogènits"
+      ],
       "resposta_correcta": "D",
       "explicacio": "La desena plaga, la mort dels primogènits, va convèncer el Faraó de deixar anar els israelites. (Èxode 12:29-32)"
     },
     {
       "pregunta": "Qui va trair Jesús per 30 monedes de plata?",
-      "opcions": ["A) Pere", "B) Judas", "C) Tomàs", "D) Jaume"],
+      "opcions": [
+        "A) Pere",
+        "B) Judes",
+        "C) Tomàs",
+        "D) Jaume"
+      ],
       "resposta_correcta": "B",
-      "explicacio": "Judas Iscariot va trair Jesús als sacerdots per 30 monedes de plata. (Mateu 26:14-16)"
+      "explicacio": "Judes Iscariot va trair Jesús als sacerdots per 30 monedes de plata. (Mateu 26:14-16)"
     },
     {
       "pregunta": "Quants pans i peixos va usar Jesús per alimentar 5000 persones?",
-      "opcions": ["A) 3 pans i 2 peixos", "B) 5 pans i 2 peixos", "C) 7 pans i 3 peixos", "D) 2 pans i 5 peixos"],
+      "opcions": [
+        "A) 3 pans i 2 peixos",
+        "B) 5 pans i 2 peixos",
+        "C) 7 pans i 3 peixos",
+        "D) 2 pans i 5 peixos"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Jesús va multiplicar 5 pans i 2 peixos per alimentar més de 5000 persones. (Mateu 14:17-21)"
     },
     {
       "pregunta": "Qui va ser engolida per una balena gran?",
-      "opcions": ["A) Jonàs", "B) Daniel", "C) Eliseu", "D) Isaïes"],
+      "opcions": [
+        "A) Jonàs",
+        "B) Daniel",
+        "C) Eliseu",
+        "D) Isaïes"
+      ],
       "resposta_correcta": "A",
       "explicacio": "Jonàs va ser engollit per un gran peix durant tres dies i tres nits. (Jonàs 1:17)"
+    },
+    {
+      "pregunta": "De quina fusta va ser construïda l'arca de Noè?",
+      "opcions": [
+        "A) De roure",
+        "B) De cedre",
+        "C) De xiprer",
+        "D) De pi"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va instruir a Noè: 'Fes-te una arca de fusta de xiprer'. (Gènesi 6:14, BEC)"
+    },
+    {
+      "pregunta": "Quantes vegades va haver de perdonar Pere al seu germà, segons Jesús?",
+      "opcions": [
+        "A) Set vegades",
+        "B) Setanta vegades",
+        "C) Sempre",
+        "D) Setanta vegades set"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Jesús va respondre a Pere que havia de perdonar no set vegades, sinó setanta vegades set, indicant un perdó il·limitat. (Mateu 18:22)"
+    },
+    {
+      "pregunta": "Quin va ser el nom que Jacob va donar al lloc on va lluitar amb l'àngel?",
+      "opcions": [
+        "A) Betel",
+        "B) Penuel",
+        "C) Hebron",
+        "D) Siquem"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jacob va anomenar el lloc Penuel, dient: 'He vist Déu cara a cara, i la meva vida ha estat salvada'. (Gènesi 32:30)"
+    },
+    {
+      "pregunta": "Qui va ser la primera persona a veure Jesús ressuscitat, segons l'evangeli de Joan?",
+      "opcions": [
+        "A) Pere",
+        "B) Maria, la mare de Jesús",
+        "C) Maria Magdalena",
+        "D) Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús es va aparèixer primer a Maria Magdalena, qui inicialment el va confondre amb l'hortolà. (Joan 20:14-16)"
+    },
+    {
+      "pregunta": "Quin rei persa va decretar que els jueus podien tornar a Jerusalem per reconstruir el temple?",
+      "opcions": [
+        "A) Darios",
+        "B) Assuer",
+        "C) Cirus",
+        "D) Artaxerxes"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Cirus el Gran, rei de Pèrsia, va emetre un edicte que permetia als exiliats jueus tornar a la seva terra. (Esdres 1:1-3)"
+    },
+    {
+      "pregunta": "Quants espies va enviar Moisès a explorar la terra de Canaan?",
+      "opcions": [
+        "A) 2",
+        "B) 7",
+        "C) 10",
+        "D) 12"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Moisès va enviar dotze espies, un per cada tribu d'Israel, a reconèixer la Terra Promesa. (Nombres 13:1-2)"
+    },
+    {
+      "pregunta": "Quin dels dotze apòstols era un Zelota?",
+      "opcions": [
+        "A) Andreu",
+        "B) Judes Iscariot",
+        "C) Simó",
+        "D) Tadeu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Entre els dotze hi havia Simó, anomenat el Zelota, un grup nacionalista jueu. (Lluc 6:15)"
+    },
+    {
+      "pregunta": "Quin objecte hi havia dins de l'Arca de l'Aliança?",
+      "opcions": [
+        "A) El bastó de Moisès",
+        "B) Les taules de la Llei, el mannà i la vara d'Aaron",
+        "C) Un rotlle de la Torà",
+        "D) Només les taules de la Llei"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "L'Arca contenia les dues taules de pedra amb els Deu Manaments, una gerra d'or amb mannà i la vara d'Aaron que havia florit. (Hebreus 9:4)"
+    },
+    {
+      "pregunta": "Quin profeta va ser serrat en dos, segons la tradició extrabíblica?",
+      "opcions": [
+        "A) Jeremies",
+        "B) Ezequiel",
+        "C) Daniel",
+        "D) Isaïes"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Encara que no es diu explícitament a la Bíblia, la tradició jueva sosté que el rei Manassès va fer matar Isaïes serrant-lo. (Possible al·lusió a Hebreus 11:37)"
+    },
+    {
+      "pregunta": "Quants anys va regnar David sobre Israel?",
+      "opcions": [
+        "A) 30 anys",
+        "B) 33 anys",
+        "C) 40 anys",
+        "D) 47 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "David va regnar set anys a Hebron i trenta-tres anys a Jerusalem, sumant un total de 40 anys. (2 Samuel 5:4-5)"
+    },
+    {
+      "pregunta": "Quina va ser la segona plaga d'Egipte?",
+      "opcions": [
+        "A) Polls",
+        "B) Granotes",
+        "C) Tàvecs",
+        "D) Tenebres"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Després que l'aigua es convertís en sang, la segona plaga que Déu va enviar sobre Egipte van ser les granotes. (Èxode 8:1-6)"
+    },
+    {
+      "pregunta": "Qui va escriure el llibre dels Proverbis?",
+      "opcions": [
+        "A) David",
+        "B) Principalment Salomó",
+        "C) Daniel",
+        "D) Un autor anònim"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El llibre dels Proverbis s'atribueix principalment al rei Salomó, conegut per la seva gran saviesa. (Proverbis 1:1)"
+    },
+    {
+      "pregunta": "Qui era la dona d'Isaac?",
+      "opcions": [
+        "A) Sara",
+        "B) Rebeca",
+        "C) Raquel",
+        "D) Lia"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Abraham va enviar el seu servent a buscar una dona per a Isaac, i va tornar amb Rebeca. (Gènesi 24)"
+    },
+    {
+      "pregunta": "Quin miracle va fer Pere a la porta del Temple anomenada 'la Bella'?",
+      "opcions": [
+        "A) Va multiplicar pans",
+        "B) Va ressuscitar un mort",
+        "C) Va guarir un home coix de naixement",
+        "D) Va expulsar un dimoni"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Pere, en nom de Jesucrist, va guarir un home que demanava almoina i que era coix des del ventre de la seva mare. (Fets 3:1-8)"
+    },
+    {
+      "pregunta": "Quin rei de Judà va ser un bon rei, va netejar el Temple i va celebrar una gran Pasqua?",
+      "opcions": [
+        "A) Acaz",
+        "B) Manassès",
+        "C) Ezequies",
+        "D) Roboam"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El rei Ezequies va iniciar una gran reforma religiosa, purificant el Temple i restablint el culte al Senyor. (2 Cròniques 29-31)"
+    },
+    {
+      "pregunta": "Quin llibre de l'Antic Testament no menciona el nom de Déu?",
+      "opcions": [
+        "A) Rut",
+        "B) Jonàs",
+        "C) Ester",
+        "D) Nehemies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En la versió hebrea del llibre d'Ester, el nom de Déu no apareix explícitament, tot i que la seva providència és evident en tota la narració."
+    },
+    {
+      "pregunta": "Com es deia el mag de Samaria que va voler comprar el poder de l'Esperit Sant?",
+      "opcions": [
+        "A) Elimas",
+        "B) Barjesús",
+        "C) Simó",
+        "D) Febe"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Simó el mag, en veure que els apòstols impartien l'Esperit Sant, els va oferir diners per obtenir aquest poder. (Fets 8:18-19)"
+    },
+    {
+      "pregunta": "Quina edat tenia Abraham quan va néixer Isaac?",
+      "opcions": [
+        "A) 75 anys",
+        "B) 86 anys",
+        "C) 99 anys",
+        "D) 100 anys"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Abraham tenia cent anys quan li va néixer el seu fill Isaac. (Gènesi 21:5)"
+    },
+    {
+      "pregunta": "Qui va ser el successor del profeta Elies?",
+      "opcions": [
+        "A) Eliseu",
+        "B) Natan",
+        "C) Giezi",
+        "D) Jonàs"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Eliseu va demanar una doble porció de l'esperit d'Elies abans que aquest fos portat al cel, i es va convertir en el seu successor. (2 Reis 2:9-14)"
+    },
+    {
+      "pregunta": "Quin va ser el pecat d'Acà que va provocar la derrota d'Israel a Ai?",
+      "opcions": [
+        "A) Va mentir a Josuè",
+        "B) Va adorar ídols",
+        "C) Va prendre botí consagrat a la destrucció",
+        "D) Es va negar a lluitar"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Acà va prendre objectes de Jericó que havien estat consagrats a Déu, i per això Israel va perdre la batalla següent. (Josuè 7:20-21)"
+    },
+    {
+      "pregunta": "Quants capítols té el Salm més llarg de la Bíblia, el Salm 119?",
+      "opcions": [
+        "A) No té capítols, té 176 versicles",
+        "B) 8 seccions",
+        "C) 22 seccions",
+        "D) 24 seccions"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El Salm 119 és un poema acròstic amb 22 seccions, una per a cada lletra de l'alfabet hebreu. Cada secció té 8 versicles."
+    },
+    {
+      "pregunta": "A quina illa va ser exiliat l'apòstol Joan, on va escriure l'Apocalipsi?",
+      "opcions": [
+        "A) Creta",
+        "B) Xipre",
+        "C) Malta",
+        "D) Patmos"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Joan va rebre la revelació de Jesucrist mentre estava exiliat a l'illa de Patmos 'per causa de la paraula de Déu'. (Apocalipsi 1:9)"
+    },
+    {
+      "pregunta": "Què significa el nom 'Moisès'?",
+      "opcions": [
+        "A) 'Tret de l'aigua'",
+        "B) 'Príncep d'Egipte'",
+        "C) 'Alliberador'",
+        "D) 'Escollit de Déu'"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La filla del Faraó li va posar el nom de Moisès, dient: 'L'he tret de l'aigua'. (Èxode 2:10)"
+    },
+    {
+      "pregunta": "Qui va ser la jutgessa d'Israel que va liderar el poble sota una palmera?",
+      "opcions": [
+        "A) Jael",
+        "B) Ester",
+        "C) Dèbora",
+        "D) Míriam"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Dèbora, una profetessa, jutjava Israel i s'asseia sota la palmera de Dèbora. (Jutges 4:4-5)"
+    },
+    {
+      "pregunta": "Què va fer Jesús amb l'orella d'un servent del gran sacerdot durant el seu arrest?",
+      "opcions": [
+        "A) La va maleir",
+        "B) La va tocar i la va guarir",
+        "C) La va ignorar",
+        "D) La va tornar a Pere"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Després que Pere tallés l'orella de Malcus, el servent del gran sacerdot, Jesús la va tocar i la va restaurar. (Lluc 22:51)"
+    },
+    {
+      "pregunta": "Qui va ser el primer home a tenir dues dones?",
+      "opcions": [
+        "A) Adam",
+        "B) Caín",
+        "C) Lamec",
+        "D) Noè"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Lamec, descendent de Caín, és la primera persona registrada a la Bíblia que va practicar la poligàmia. (Gènesi 4:19)"
+    },
+    {
+      "pregunta": "Quin apòstol va substituir Judes Iscariot?",
+      "opcions": [
+        "A) Bernabé",
+        "B) Silas",
+        "C) Maties",
+        "D) Esteve"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Els apòstols van pregar i van tirar a sorts entre Josep (Barsabàs) i Maties, i la sort va caure sobre Maties. (Fets 1:26)"
+    },
+    {
+      "pregunta": "Quin rei va tenir un somni sobre una gran estàtua feta de diferents metalls?",
+      "opcions": [
+        "A) Faraó",
+        "B) Nabucodonosor",
+        "C) Baltasar",
+        "D) David"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El rei Nabucodonosor de Babilònia va somiar amb una estàtua que representava diferents regnes mundials, i Daniel la va interpretar. (Daniel 2)"
+    },
+    {
+      "pregunta": "En la paràbola de les deu verges, quantes eren prudents i quantes insensates?",
+      "opcions": [
+        "A) 2 prudents, 8 insensates",
+        "B) 7 prudents, 3 insensates",
+        "C) 5 prudents, 5 insensates",
+        "D) 8 prudents, 2 insensates"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va explicar que cinc de les verges eren prudents i van portar oli de reserva per a les seves llànties, i cinc eren insensates i no en van portar. (Mateu 25:2)"
+    },
+    {
+      "pregunta": "Qui va ser el pare de David?",
+      "opcions": [
+        "A) Obed",
+        "B) Boaz",
+        "C) Jessè",
+        "D) Saül"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "David era el fill més jove de Jessè, de Betlem. (1 Samuel 16:10-11)"
+    },
+    {
+      "pregunta": "Quantes cistelles plenes de sobres van recollir després que Jesús alimentés els 4000?",
+      "opcions": [
+        "A) 5",
+        "B) 7",
+        "C) 10",
+        "D) 12"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Després del miracle de l'alimentació dels 4000, els deixebles van recollir set paneres plenes dels trossos que havien sobrat. (Mateu 15:37)"
+    },
+    {
+      "pregunta": "Quin va ser el nom original de Pere abans que Jesús el canviés?",
+      "opcions": [
+        "A) Leví",
+        "B) Joan",
+        "C) Simó",
+        "D) Andreu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va dir a Simó, fill de Jonàs: 'Tu ets Simó [...]; tu seràs anomenat Cefas' (que vol dir Pedra, o Pere). (Joan 1:42)"
+    },
+    {
+      "pregunta": "Quin profeta va estar casat amb una prostituta com a símbol de la infidelitat d'Israel?",
+      "opcions": [
+        "A) Isaïes",
+        "B) Jeremies",
+        "C) Osees",
+        "D) Amós"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va manar a Osees que es casés amb Gòmer, una dona adúltera, per il·lustrar la relació de Déu amb un Israel infidel. (Osees 1:2)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill de Moisès?",
+      "opcions": [
+        "A) Eliazar",
+        "B) Gerson",
+        "C) Finees",
+        "D) Caleb"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Moisès va tenir un fill amb la seva dona Sèfora i el va anomenar Gerson. Més tard va tenir un altre fill, Elièzer. (Èxode 2:22, Èxode 18:4)"
+    },
+    {
+      "pregunta": "Qui era la germana de Llàtzer que es va asseure als peus de Jesús per escoltar-lo?",
+      "opcions": [
+        "A) Maria",
+        "B) Marta",
+        "C) Salomé",
+        "D) Susanna"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Mentre Marta estava enfeinada amb les tasques de la casa, la seva germana Maria va triar 'la millor part', asseure's a escoltar l'ensenyament de Jesús. (Lluc 10:39)"
+    },
+    {
+      "pregunta": "Quin va ser el primer ocell que Noè va deixar anar de l'arca?",
+      "opcions": [
+        "A) Un colom",
+        "B) Un corb",
+        "C) Una oreneta",
+        "D) Una àguila"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Al cap de quaranta dies, Noè va obrir la finestra de l'arca i va deixar anar un corb. (Gènesi 8:6-7)"
+    },
+    {
+      "pregunta": "Quina tribu d'Israel gairebé va ser exterminada en una guerra civil?",
+      "opcions": [
+        "A) Judà",
+        "B) Leví",
+        "C) Benjamí",
+        "D) Dan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després d'un greu pecat a Guibà, les altres tribus d'Israel van lluitar contra la tribu de Benjamí, deixant-la gairebé aniquilada. (Jutges 20)"
+    },
+    {
+      "pregunta": "A qui va dir Pau: 'Combat el bon combat de la fe'?",
+      "opcions": [
+        "A) A Titus",
+        "B) A Timoteu",
+        "C) A Filemó",
+        "D) A Silas"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "En la seva primera carta a Timoteu, el seu jove deixeble, Pau l'anima a lluitar el bon combat de la fe. (1 Timoteu 6:12)"
+    },
+    {
+      "pregunta": "Quin rei va introduir el culte a Baal a Israel a gran escala?",
+      "opcions": [
+        "A) Salomó",
+        "B) Jeroboam",
+        "C) Acab",
+        "D) Saül"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El rei Acab, influenciat per la seva dona Jezabel, va promoure activament l'adoració de Baal, provocant la ira de Déu. (1 Reis 16:30-33)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del lloc on Abraham anava a sacrificar Isaac?",
+      "opcions": [
+        "A) Mont Sinaí",
+        "B) Mont Carmel",
+        "C) Mont Morià",
+        "D) Mont Nebo"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va demanar a Abraham que anés a la regió de Morià i oferís Isaac en un dels turons que li indicaria. (Gènesi 22:2)"
+    },
+    {
+      "pregunta": "Quin va ser l'ofici de l'apòstol Pau abans de la seva conversió?",
+      "opcions": [
+        "A) Pescador",
+        "B) Recaptador d'impostos",
+        "C) Fariseu i fabricant de tendes",
+        "D) Soldat romà"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Pau (llavors Saül) era un fariseu zelós de la llei jueva i també treballava fabricant tendes per mantenir-se. (Fets 18:3, Filipencs 3:5)"
+    },
+    {
+      "pregunta": "Quin animal va temptar Eva al Jardí de l'Edèn?",
+      "opcions": [
+        "A) Un drac",
+        "B) Un escorpí",
+        "C) Una serp",
+        "D) Un mico"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La serp, descrita com el més astut dels animals, va enganyar Eva perquè desobeís Déu. (Gènesi 3:1)"
+    },
+    {
+      "pregunta": "Quants anys tenia Josep quan va ser portat a Egipte?",
+      "opcions": [
+        "A) 13",
+        "B) 17",
+        "C) 21",
+        "D) 30"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Josep tenia disset anys quan els seus germans el van vendre i va ser portat a Egipte com a esclau. (Gènesi 37:2)"
+    },
+    {
+      "pregunta": "Qui va ser el rei babiloni que va conquerir Jerusalem i va destruir el Temple?",
+      "opcions": [
+        "A) Cirus",
+        "B) Senaquerib",
+        "C) Nabucodonosor",
+        "D) Baltasar"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Nabucodonosor, rei de Babilònia, va assetjar Jerusalem, la va conquerir, va cremar el Temple de Salomó i va deportar molts jueus. (2 Reis 25)"
+    },
+    {
+      "pregunta": "Quin és el tema principal del llibre d'Eclesiastès?",
+      "opcions": [
+        "A) La saviesa és la clau de la felicitat",
+        "B) Tot és vanitat sense Déu",
+        "C) La història d'Israel",
+        "D) L'amor romàntic"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "L'autor, el Predicador, explora el sentit de la vida i conclou que tot 'sota el sol' és vanitat si no es té en compte Déu. (Eclesiastès 1:2)"
+    },
+    {
+      "pregunta": "Com es deia la dona d'Uries l'hitita, amb qui David va cometre adulteri?",
+      "opcions": [
+        "A) Mical",
+        "B) Abigail",
+        "C) Betsabé",
+        "D) Tamar"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "David va veure Betsabé banyant-se des del terrat del seu palau i la va fer portar. (2 Samuel 11:2-4)"
+    },
+    {
+      "pregunta": "Què va passar amb Elies al final de la seva vida terrenal?",
+      "opcions": [
+        "A) Va morir de vell",
+        "B) Va ser assassinat per Jezabel",
+        "C) Va ser portat al cel en un carro de foc",
+        "D) Va desaparèixer misteriosament"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Mentre caminava amb Eliseu, un carro de foc amb cavalls de foc va separar els dos, i Elies va pujar al cel en un remolí. (2 Reis 2:11)"
+    },
+    {
+      "pregunta": "Qui va ser el governador romà que va condemnar Jesús a mort?",
+      "opcions": [
+        "A) Herodes",
+        "B) Cèsar August",
+        "C) Ponç Pilat",
+        "D) Fèlix"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Ponç Pilat, tot i no trobar cap culpa en Jesús, es va rentar les mans i el va entregar per ser crucificat per pressió de la multitud. (Mateu 27:24-26)"
+    },
+    {
+      "pregunta": "Quina era la professió de Pere i Andreu abans de ser apòstols?",
+      "opcions": [
+        "A) Fusters",
+        "B) Pastors",
+        "C) Pescadors",
+        "D) Pagesos"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va trobar Simó Pere i el seu germà Andreu llançant les xarxes al mar de Galilea, perquè eren pescadors. (Mateu 4:18)"
+    },
+    {
+      "pregunta": "Quants llibres de la Bíblia s'atribueixen a Moisès?",
+      "opcions": [
+        "A) Un (Deuteronomi)",
+        "B) Tres (Gènesi, Èxode, Nombres)",
+        "C) Cinc (El Pentateuc)",
+        "D) Deu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Tradicionalment, s'atribueix a Moisès l'autoria dels primers cinc llibres de la Bíblia: Gènesi, Èxode, Levític, Nombres i Deuteronomi, coneguts com el Pentateuc o la Torà."
+    },
+    {
+      "pregunta": "Qui va ser la mare de Samuel?",
+      "opcions": [
+        "A) Penina",
+        "B) Anna",
+        "C) Elisabet",
+        "D) Rebeca"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Anna, que era estèril, va pregar fervorosament a Déu per un fill i va prometre dedicar-lo al seu servei. Aquest fill va ser Samuel. (1 Samuel 1)"
+    },
+    {
+      "pregunta": "Com va morir Joan Baptista?",
+      "opcions": [
+        "A) Apedregat",
+        "B) Crucificat",
+        "C) Decapitat",
+        "D) Enverinat"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Herodes Antipas, per complaure la seva fillastra Salomé, va ordenar que decapitesin Joan Baptista a la presó. (Marc 6:27-28)"
+    },
+    {
+      "pregunta": "Quin dels dotze espies va donar un informe favorable sobre Canaan juntament amb Josuè?",
+      "opcions": [
+        "A) Setur",
+        "B) Palti",
+        "C) Caleb",
+        "D) Igal"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Dels dotze espies, només Josuè i Caleb van confiar en el poder de Déu per conquerir la terra, mentre que els altres deu van infondre por. (Nombres 14:6-9)"
+    },
+    {
+      "pregunta": "Quina ciutat va ser la capital del regne del nord d'Israel?",
+      "opcions": [
+        "A) Jerusalem",
+        "B) Hebron",
+        "C) Siquem",
+        "D) Samaria"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Després de diverses capitals inicials, Omrí i el seu fill Acab van establir Samaria com la capital permanent del regne del nord. (1 Reis 16:24)"
+    },
+    {
+      "pregunta": "Qui va ser el primer sumo sacerdot d'Israel?",
+      "opcions": [
+        "A) Moisès",
+        "B) Leví",
+        "C) Aaron",
+        "D) Eliazar"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va consagrar Aaron, el germà de Moisès, i els seus fills per servir com a sacerdots, amb Aaron com a primer sumo sacerdot. (Èxode 28:1)"
+    },
+    {
+      "pregunta": "Quin personatge va ser famós per la seva paciència davant de grans sofriments?",
+      "opcions": [
+        "A) Job",
+        "B) Jeremies",
+        "C) Josep",
+        "D) David"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Job va perdre la seva família, les seves riqueses i la seva salut, però enmig de tot, no va pecar ni va culpar Déu. (Job 1:22)"
+    },
+    {
+      "pregunta": "Quin evangeli va ser escrit per un company de viatge de Pau?",
+      "opcions": [
+        "A) Mateu",
+        "B) Marc",
+        "C) Lluc",
+        "D) Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Lluc, l'autor de l'Evangeli de Lluc i dels Fets dels Apòstols, va acompanyar Pau en alguns dels seus viatges missioners. (Fets 16:10-17, on utilitza 'nosaltres')"
+    },
+    {
+      "pregunta": "Quin era el nom babilònic de Daniel?",
+      "opcions": [
+        "A) Sadrac",
+        "B) Mesac",
+        "C) Abed-Negó",
+        "D) Beltsassar"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Al cap dels eunucs de Babilònia li va posar a Daniel el nom de Beltsassar. (Daniel 1:7)"
+    },
+    {
+      "pregunta": "Qui va ser el primer fill d'Adam i Eva?",
+      "opcions": [
+        "A) Abel",
+        "B) Set",
+        "C) Caín",
+        "D) Enoc"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Eva va concebre i va donar a llum Caín. Després va néixer el seu germà Abel. (Gènesi 4:1-2)"
+    },
+    {
+      "pregunta": "Què significa 'evangeli'?",
+      "opcions": [
+        "A) Bona notícia",
+        "B) Vida de Jesús",
+        "C) Paraula de Déu",
+        "D) Ensenyament sagrat"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La paraula grega 'euangelion', de la qual deriva 'evangeli', significa literalment 'bona nova' o 'bona notícia'."
+    },
+    {
+      "pregunta": "Quina dona va amagar els espies israelites a Jericó?",
+      "opcions": [
+        "A) Dèbora",
+        "B) Jael",
+        "C) Rahab",
+        "D) Rut"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Rahab, una prostituta de Jericó, va amagar els dos espies enviats per Josuè i, per la seva fe, ella i la seva família van ser salvades. (Josuè 2)"
+    },
+    {
+      "pregunta": "A quin lloc Pau va predicar sobre el 'Déu desconegut'?",
+      "opcions": [
+        "A) A la sinagoga d'Efes",
+        "B) A l'Areòpag d'Atenes",
+        "C) Al fòrum de Roma",
+        "D) A la presó de Filips"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "A l'Areòpag d'Atenes, Pau va aprofitar un altar dedicat a un déu desconegut per predicar sobre el Déu veritable, creador de tot. (Fets 17:22-23)"
+    },
+    {
+      "pregunta": "Quants anys va durar la construcció del Temple de Salomó?",
+      "opcions": [
+        "A) 3 anys",
+        "B) 7 anys",
+        "C) 10 anys",
+        "D) 20 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Salomó va trigar set anys a construir el Temple del Senyor. (1 Reis 6:38)"
+    },
+    {
+      "pregunta": "Qui va ser la dona del rei Acab, coneguda per la seva maldat i idolatria?",
+      "opcions": [
+        "A) Atalia",
+        "B) Betsabé",
+        "C) Jezabel",
+        "D) Herodias"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jezabel, una princesa fenícia, es va casar amb Acab i va promoure agressivament el culte a Baal i Aixerà a Israel. (1 Reis 16:31)"
+    },
+    {
+      "pregunta": "Quin llibre bíblic és una carta personal de Pau demanant perdó per un esclau fugitiu?",
+      "opcions": [
+        "A) Titus",
+        "B) 2 Timoteu",
+        "C) Filemó",
+        "D) 3 Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "A la carta a Filemó, Pau intercedeix a favor d'Onèsim, l'esclau de Filemó que s'havia convertit al cristianisme amb Pau."
+    },
+    {
+      "pregunta": "Quants homes hi havia a l'exèrcit de Gedeó quan va derrotar els madianites?",
+      "opcions": [
+        "A) 32,000",
+        "B) 10,000",
+        "C) 1,000",
+        "D) 300"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Déu va reduir l'exèrcit de Gedeó a només 300 homes perquè la victòria fos clarament de Déu i no de la força humana. (Jutges 7:7)"
+    },
+    {
+      "pregunta": "Quin va ser el primer fill de Jacob i Lia?",
+      "opcions": [
+        "A) Leví",
+        "B) Judà",
+        "C) Rubèn",
+        "D) Simeó"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Com que Lia era menyspreada per Jacob, Déu li va obrir el ventre i el seu primer fill va ser Rubèn. (Gènesi 29:31-32)"
+    },
+    {
+      "pregunta": "De qui eren els ossos que van ressuscitar un home mort quan el seu cos els va tocar?",
+      "opcions": [
+        "A) D'Elies",
+        "B) D'un profeta anònim",
+        "C) D'Eliseu",
+        "D) De Samuel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Un any després de la mort d'Eliseu, uns homes van llançar un cadàver a la seva tomba, i quan el cos va tocar els ossos d'Eliseu, l'home va reviure. (2 Reis 13:21)"
+    },
+    {
+      "pregunta": "Quants dies va durar la festa de dedicació del Temple de Salomó?",
+      "opcions": [
+        "A) 3 dies",
+        "B) 7 dies",
+        "C) 14 dies",
+        "D) 40 dies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Salomó va celebrar la festa de dedicació durant set dies, i després la festa dels Tabernacles durant set dies més, un total de catorze dies de celebració. (1 Reis 8:65-66)"
+    },
+    {
+      "pregunta": "Qui era el cobrador d'impostos de Jericó que es va convertir després de trobar Jesús?",
+      "opcions": [
+        "A) Mateu",
+        "B) Leví",
+        "C) Zacqueu",
+        "D) Bartimeu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Zacqueu, cap dels cobradors d'impostos i ric, va tenir una trobada transformadora amb Jesús i va prometre restituir el que havia defraudat. (Lluc 19:1-10)"
+    },
+    {
+      "pregunta": "Quin llibre de l'Antic Testament conté la profecia del 'Servent Sofrent'?",
+      "opcions": [
+        "A) Jeremies",
+        "B) Salms",
+        "C) Isaïes",
+        "D) Daniel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre d'Isaïes, especialment el capítol 53, conté la famosa profecia del Servent Sofrent, que els cristians identifiquen amb Jesús."
+    },
+    {
+      "pregunta": "Com es deien els dos fills d'Aaron que van morir per oferir foc estrany davant del Senyor?",
+      "opcions": [
+        "A) Eliazar i Itamar",
+        "B) Nadab i Abihú",
+        "C) Hofni i Finees",
+        "D) Gersom i Elièzer"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Nadab i Abihú, fills d'Aaron, van prendre els seus encensers, hi van posar foc no autoritzat i van morir consumits pel foc de Déu. (Levític 10:1-2)"
+    },
+    {
+      "pregunta": "Quin era el nom del marit de Rut abans de casar-se amb Boaz?",
+      "opcions": [
+        "A) Elimelec",
+        "B) Quiljon",
+        "C) Mahló",
+        "D) Noemí no era el seu marit"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Rut era la vídua de Mahló, un dels fills de Noemí, que havia mort a Moab. (Rut 1:4-5)"
+    },
+    {
+      "pregunta": "Qui va alliberar Pere de la presó de manera miraculosa?",
+      "opcions": [
+        "A) Pau i Silas",
+        "B) Un terratrèmol",
+        "C) Un àngel del Senyor",
+        "D) Els altres apòstols"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Mentre Pere dormia encadenat entre dos soldats, un àngel el va despertar, les cadenes li van caure i el va guiar fora de la presó. (Fets 12:7-10)"
+    },
+    {
+      "pregunta": "Quina arma va utilitzar Xamgar per matar 600 filisteus?",
+      "opcions": [
+        "A) Una espasa",
+        "B) Una llança",
+        "C) Una agullada de bou",
+        "D) Una queixalada d'ase"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El jutge Xamgar, fill d'Anat, va alliberar Israel matant sis-cents filisteus amb una agullada de bou. (Jutges 3:31)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill de Saül i gran amic de David?",
+      "opcions": [
+        "A) Abner",
+        "B) Jonatan",
+        "C) Isbóixet",
+        "D) Mefibóixet"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jonatan, el fill del rei Saül, va estimar David com a si mateix i va establir una aliança profunda amb ell. (1 Samuel 18:1-3)"
+    },
+    {
+      "pregunta": "Què va fer la gent de Listra quan Pau va guarir un home coix?",
+      "opcions": [
+        "A) El van apedregar",
+        "B) El van expulsar de la ciutat",
+        "C) El van voler adorar com a déus",
+        "D) Es van convertir massivament"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En veure el miracle, van pensar que Bernabé era Zeus i Pau era Hermes, i els volien oferir sacrificis. (Fets 14:11-13)"
+    },
+    {
+      "pregunta": "Quants anys va viure Sara, la dona d'Abraham?",
+      "opcions": [
+        "A) 90",
+        "B) 100",
+        "C) 127",
+        "D) 175"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Sara va viure cent vint-i-set anys. Aquests van ser els anys de la vida de Sara. (Gènesi 23:1)"
+    },
+    {
+      "pregunta": "Quin apòstol va acompanyar Bernabé en el seu primer viatge missioner?",
+      "opcions": [
+        "A) Pere",
+        "B) Silas",
+        "C) Joan Marc",
+        "D) Pau"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "L'Església d'Antioquia, guiada per l'Esperit Sant, va enviar Bernabé i Saül (Pau) en el primer viatge missioner. (Fets 13:2-3)"
+    },
+    {
+      "pregunta": "Què va fer Salomó que va provocar la divisió del regne d'Israel?",
+      "opcions": [
+        "A) Va construir el Temple",
+        "B) Va cobrar massa impostos",
+        "C) La seva idolatria i els seus matrimonis estrangers",
+        "D) Va fer un cens"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En la seva vellesa, les seves moltes dones estrangeres van desviar el cor de Salomó cap a altres déus, i Déu va anunciar que li estriparia el regne. (1 Reis 11:4-11)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del servent d'Eliseu que va ser castigat amb lepra?",
+      "opcions": [
+        "A) Obadies",
+        "B) Giezi",
+        "C) Baruc",
+        "D) Nadab"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Giezi, per la seva cobdícia, va anar a buscar Naaman per demanar-li una recompensa. Com a càstig, la lepra de Naaman se li va enganxar. (2 Reis 5:20-27)"
+    },
+    {
+      "pregunta": "Quants capítols té el llibre d'Isaïes?",
+      "opcions": [
+        "A) 52",
+        "B) 60",
+        "C) 66",
+        "D) 70"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre del profeta Isaïes és un dels més llargs de la Bíblia, amb un total de 66 capítols."
+    },
+    {
+      "pregunta": "Qui va ser el pare de Noè?",
+      "opcions": [
+        "A) Matusalem",
+        "B) Enoc",
+        "C) Lamec",
+        "D) Adam"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Lamec va viure cent vuitanta-dos anys i va engendrar un fill, al qual va posar el nom de Noè. (Gènesi 5:28-29)"
+    },
+    {
+      "pregunta": "A qui va ser dirigida la primera epístola a Timoteu?",
+      "opcions": [
+        "A) A un líder de l'església de Corint",
+        "B) A un jove pastor a Efes",
+        "C) A un creient de Roma",
+        "D) A un esclau convertit"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Pau va escriure a Timoteu, a qui havia deixat a Efes, per instruir-lo sobre com organitzar i liderar l'església. (1 Timoteu 1:3)"
+    },
+    {
+      "pregunta": "Quina era la nacionalitat de Goliat?",
+      "opcions": [
+        "A) Cananeu",
+        "B) Egipci",
+        "C) Filisteu",
+        "D) Amonita"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Goliat, el gegant derrotat per David, era el campió dels filisteus de la ciutat de Gat. (1 Samuel 17:4)"
+    },
+    {
+      "pregunta": "Quin és el tema principal del Càntic dels Càntics?",
+      "opcions": [
+        "A) L'amor de Déu per Israel",
+        "B) La saviesa divina",
+        "C) L'amor conjugal i romàntic",
+        "D) Un plany per Jerusalem"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El Càntic dels Càntics és un poema d'amor que celebra la bellesa de l'amor entre un home i una dona, sovint interpretat també al·legòricament."
+    },
+    {
+      "pregunta": "Quin va ser el nom de la muntanya on Elies va desafiar els profetes de Baal?",
+      "opcions": [
+        "A) Mont Sinaí",
+        "B) Mont Carmel",
+        "C) Mont Nebo",
+        "D) Mont de les Oliveres"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Elies va reunir tot Israel i els profetes de Baal al mont Carmel per a la gran confrontació. (1 Reis 18:19-20)"
+    },
+    {
+      "pregunta": "Qui va aconsellar a Moisès que delegués autoritat i nomenés jutges?",
+      "opcions": [
+        "A) Aaron",
+        "B) Josuè",
+        "C) El seu sogre, Jetró",
+        "D) Déu directament"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jetró, en veure la càrrega de treball de Moisès, el va aconsellar sàviament que nomenés caps sobre grups de persones per jutjar els casos menors. (Èxode 18:17-22)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del primer fill de David nascut a Jerusalem?",
+      "opcions": [
+        "A) Salomó",
+        "B) Amnon",
+        "C) Absalom",
+        "D) Xamua"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El primer fill nascut de David a Jerusalem va ser Xamua. Salomó va néixer més tard, de Betsabé. (2 Samuel 5:14)"
+    },
+    {
+      "pregunta": "Quin emperador romà governava quan Jesús va néixer?",
+      "opcions": [
+        "A) Tiberi",
+        "B) Claudi",
+        "C) August",
+        "D) Neró"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "L'Evangeli de Lluc comença dient que 'en aquells dies va sortir un edicte de Cèsar August' per fer un cens. (Lluc 2:1)"
+    },
+    {
+      "pregunta": "Què va fer Jacob per obtenir la benedicció del seu pare Isaac?",
+      "opcions": [
+        "A) Li va oferir el seu millor ramat",
+        "B) Va pregar a Déu per ella",
+        "C) Es va disfressar d'Esaú",
+        "D) Va esperar pacientment"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Instigat per la seva mare Rebeca, Jacob es va cobrir els braços i el coll amb pells de cabrit per enganyar el seu pare cec i rebre la benedicció del primogènit. (Gènesi 27)"
+    },
+    {
+      "pregunta": "Quants anys tenia Josep quan va ser posat com a governador d'Egipte?",
+      "opcions": [
+        "A) 25 anys",
+        "B) 30 anys",
+        "C) 35 anys",
+        "D) 40 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Josep tenia trenta anys quan es va presentar davant el Faraó, rei d'Egipte, i va ser nomenat governador. (Gènesi 41:46)"
+    },
+    {
+      "pregunta": "Quin va ser el segon manament dels Deu Manaments?",
+      "opcions": [
+        "A) No prendràs el nom de Déu en va",
+        "B) No et faràs imatges",
+        "C) Recorda't del dia de repòs",
+        "D) Honra pare i mare"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El segon manament prohibeix la idolatria: 'No et faràs cap escultura ni cap imatge'. (Èxode 20:4)"
+    },
+    {
+      "pregunta": "Qui va ser el pare d'Esaú i Jacob?",
+      "opcions": [
+        "A) Abraham",
+        "B) Isaac",
+        "C) Laban",
+        "D) Tèrah"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Isaac, fill d'Abraham, es va casar amb Rebeca, i ella li va donar els bessons Esaú i Jacob. (Gènesi 25:19-26)"
+    },
+    {
+      "pregunta": "Quin profeta va dir: 'Prepareu el camí del Senyor'?",
+      "opcions": [
+        "A) Elies",
+        "B) Isaïes",
+        "C) Jeremies",
+        "D) Joan Baptista"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La profecia 'Una veu crida: En el desert, prepareu el camí del Senyor' és d'Isaïes 40:3 i va ser aplicada a Joan Baptista."
+    },
+    {
+      "pregunta": "A qui va ressuscitar Jesús a la ciutat de Naïm?",
+      "opcions": [
+        "A) La filla de Jaire",
+        "B) Llàtzer",
+        "C) El fill d'una vídua",
+        "D) Tabita"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va veure el seguici fúnebre del fill únic d'una vídua, es va compadir d'ella i va ressuscitar el jove. (Lluc 7:11-15)"
     }
   ],
   "nivell3": [
     {
       "pregunta": "En quina muntanya va rebre Moisès els Deu Manaments?",
-      "opcions": ["A) Mont Ararat", "B) Mont Sinaí", "C) Mont Olivet", "D) Mont Sió"],
+      "opcions": [
+        "A) Mont Ararat",
+        "B) Mont Sinaí",
+        "C) Mont Olivet",
+        "D) Mont Sió"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Moisès va rebre les taules de la llei al mont Sinaí. (Èxode 19-20)"
     },
     {
       "pregunta": "Quina ciutat va conquistar Josué fent sonar trompetes?",
-      "opcions": ["A) Jerusalem", "B) Bet-el", "C) Jericó", "D) Hebrón"],
+      "opcions": [
+        "A) Jerusalem",
+        "B) Bet-el",
+        "C) Jericó",
+        "D) Hebrón"
+      ],
       "resposta_correcta": "C",
       "explicacio": "Les muralles de Jericó van caure després que els israelites giressin al voltant de la ciutat i toquessin trompetes. (Josué 6)"
     },
     {
       "pregunta": "Quin profeta va ser portat al cel en un carro de foc?",
-      "opcions": ["A) Elies", "B) Eliseu", "C) Isaïes", "D) Jeremies"],
+      "opcions": [
+        "A) Elies",
+        "B) Eliseu",
+        "C) Isaïes",
+        "D) Jeremies"
+      ],
       "resposta_correcta": "A",
       "explicacio": "Elies va ser portat al cel en un carro de foc amb cavalls de foc. (2 Reis 2:11)"
     },
     {
       "pregunta": "Qui era la mare de Samuel?",
-      "opcions": ["A) Raquel", "B) Anna", "C) Miriam", "D) Débora"],
+      "opcions": [
+        "A) Raquel",
+        "B) Anna",
+        "C) Miriam",
+        "D) Débora"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Anna va ser la mare de Samuel, qui va dedicar el seu fill al servei del Senyor. (1 Samuel 1)"
     },
     {
       "pregunta": "En quin jardí va ser sepultat Jesús?",
-      "opcions": ["A) Jardí d'Eden", "B) Jardí de Getsemaní", "C) Jardí de Josep d'Arimatea", "D) Jardí del Temple"],
+      "opcions": [
+        "A) Jardí d'Eden",
+        "B) Jardí de Getsemaní",
+        "C) Jardí de Josep d'Arimatea",
+        "D) Jardí del Temple"
+      ],
       "resposta_correcta": "C",
       "explicacio": "Jesús va ser sepultat en un sepulcre nou al jardí de Josep d'Arimatea. (Joan 19:38-42)"
     },
     {
       "pregunta": "Quants anys va viure Matusalem?",
-      "opcions": ["A) 900 anys", "B) 950 anys", "C) 969 anys", "D) 1000 anys"],
+      "opcions": [
+        "A) 900 anys",
+        "B) 950 anys",
+        "C) 969 anys",
+        "D) 1000 anys"
+      ],
       "resposta_correcta": "C",
       "explicacio": "Matusalem va viure 969 anys, sent la persona més longeva segons la Bíblia. (Gènesi 5:27)"
+    },
+    {
+      "pregunta": "Quin era el nom del sogre de Moisès?",
+      "opcions": [
+        "A) Reuel",
+        "B) Jetró",
+        "C) Hobab",
+        "D) Totes les anteriors són correctes"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El sogre de Moisès és anomenat Reuel (Èxode 2:18), Jetró (Èxode 3:1) i Hobab (Jutges 4:11), possiblement indicant diferents noms o títols per a la mateixa persona."
+    },
+    {
+      "pregunta": "Quina dona va matar Sísara, el general cananeu, amb una estaca de tenda?",
+      "opcions": [
+        "A) Dèbora",
+        "B) Jael",
+        "C) Rahab",
+        "D) Judit"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jael, dona d'Hèber el quenita, va clavar una estaca de tenda al cap de Sísara mentre dormia, complint la profecia de Dèbora. (Jutges 4:21)"
+    },
+    {
+      "pregunta": "Quants anys van passar entre el final de l'Antic Testament i el començament del Nou Testament?",
+      "opcions": [
+        "A) Aproximadament 100 anys",
+        "B) Aproximadament 250 anys",
+        "C) Aproximadament 400 anys",
+        "D) No hi va haver cap interval"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El període entre el profeta Malaquies i el naixement de Joan Baptista, conegut com el Període Intertestamentari, va durar uns 400 anys de silenci profètic."
+    },
+    {
+      "pregunta": "Quin és l'únic llibre de l'Antic Testament classificat com a profètic que narra una història en lloc de contenir profecies?",
+      "opcions": [
+        "A) Amós",
+        "B) Osees",
+        "C) Abdies",
+        "D) Jonàs"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El llibre de Jonàs és principalment una narració sobre la desobediència i la missió del profeta, més que una col·lecció de les seves profecies."
+    },
+    {
+      "pregunta": "Qui va ser el rei de Judà que va patir lepra per haver usurpat les funcions sacerdotals?",
+      "opcions": [
+        "A) Joàs",
+        "B) Ozies (Azaries)",
+        "C) Ezequies",
+        "D) Manassès"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El rei Ozies, en la seva arrogància, va entrar al Temple per cremar encens i va ser castigat amb lepra fins al dia de la seva mort. (2 Cròniques 26:16-21)"
+    },
+    {
+      "pregunta": "Quin és el nom del primer fill de Judà amb la seva nora Tamar?",
+      "opcions": [
+        "A) Xelà",
+        "B) Onan",
+        "C) Er",
+        "D) Fares"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Tamar, disfressada, va concebre de Judà dos bessons, Fares i Zèrah. Fares és avantpassat de Jesús. (Gènesi 38)"
+    },
+    {
+      "pregunta": "A quin lloc va naufragar l'apòstol Pau en el seu viatge a Roma?",
+      "opcions": [
+        "A) Creta",
+        "B) Xipre",
+        "C) Malta",
+        "D) Sicília"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després d'una gran tempesta, el vaixell en què viatjava Pau va naufragar a l'illa de Malta. (Fets 28:1)"
+    },
+    {
+      "pregunta": "Quin profeta va descriure una visió d'una vall d'ossos secs que tornaven a la vida?",
+      "opcions": [
+        "A) Isaïes",
+        "B) Jeremies",
+        "C) Ezequiel",
+        "D) Daniel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va donar a Ezequiel una visió dels ossos secs, simbolitzant la restauració futura de la nació d'Israel. (Ezequiel 37)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Saül, el primer rei d'Israel?",
+      "opcions": [
+        "A) Abiel",
+        "B) Ner",
+        "C) Quis",
+        "D) Jonatan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Saül era fill de Quis, de la tribu de Benjamí, un home de posició. (1 Samuel 9:1)"
+    },
+    {
+      "pregunta": "Quin dels llibres de la Llei (Pentateuc) consisteix gairebé íntegrament en discursos de Moisès?",
+      "opcions": [
+        "A) Gènesi",
+        "B) Èxode",
+        "C) Levític",
+        "D) Deuteronomi"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El llibre de Deuteronomi ('segona llei') recull els últims discursos de Moisès a la generació que estava a punt d'entrar a la Terra Promesa."
+    },
+    {
+      "pregunta": "Com es deia la dona de Potifar, que va acusar falsament Josep?",
+      "opcions": [
+        "A) El seu nom no s'esmenta",
+        "B) Asenat",
+        "C) Zuleika",
+        "D) Tamar"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La Bíblia es refereix a ella simplement com 'la dona del seu amo'. El nom Zuleika prové de tradicions posteriors, però no és a la Bíblia. (Gènesi 39)"
+    },
+    {
+      "pregunta": "Quants salms s'atribueixen a Moisès?",
+      "opcions": [
+        "A) Un (Salm 90)",
+        "B) Dos (Salms 90 i 91)",
+        "C) Cinc",
+        "D) Cap"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "El Salm 90 és l'únic salm que s'atribueix explícitament a Moisès, amb el títol 'Pregària de Moisès, home de Déu'."
+    },
+    {
+      "pregunta": "Quin va ser el rei que va alliberar el rei Joaquim de Judà de la presó a Babilònia?",
+      "opcions": [
+        "A) Nabucodonosor",
+        "B) Evil-Merodac",
+        "C) Baltasar",
+        "D) Cirus"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "En el primer any del seu regnat, Evil-Merodac, rei de Babilònia, va alliberar Joaquim de la presó i li va donar un lloc d'honor. (2 Reis 25:27)"
+    },
+    {
+      "pregunta": "A qui pertanyia el camp que David va comprar per construir un altar, futur lloc del Temple?",
+      "opcions": [
+        "A) A Arauna el jebuseu",
+        "B) A Nabal el carmelita",
+        "C) A Itai el guitita",
+        "D) A Uries l'hitita"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "David va comprar l'era d'Arauna el jebuseu per edificar un altar al Senyor i aturar una plaga. Aquest lloc es va convertir en l'emplaçament del Temple. (2 Samuel 24:18-25)"
+    },
+    {
+      "pregunta": "Quina epístola del Nou Testament va ser escrita a 'la senyora elegida i als seus fills'?",
+      "opcions": [
+        "A) 1 Pere",
+        "B) 2 Joan",
+        "C) 3 Joan",
+        "D) Judes"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La Segona Epístola de Joan està adreçada a 'la senyora elegida', que podria ser una església local o una dona cristiana prominent. (2 Joan 1:1)"
+    },
+    {
+      "pregunta": "Quin jutge d'Israel va fer un vot precipitat que va resultar en el sacrifici de la seva filla?",
+      "opcions": [
+        "A) Gedeó",
+        "B) Samsó",
+        "C) Jeftè",
+        "D) Xamgar"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jeftè va prometre a Déu que si li donava la victòria, sacrificaria el primer que sortís a rebre'l de casa seva. Malauradament, va ser la seva única filla. (Jutges 11:30-35)"
+    },
+    {
+      "pregunta": "Quin era el nom del fill de Jonatan, a qui David va mostrar misericòrdia?",
+      "opcions": [
+        "A) Isbóixet",
+        "B) Mefibóixet",
+        "C) Micà",
+        "D) Amiel"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "En memòria de la seva aliança amb Jonatan, David va buscar el seu fill Mefibóixet, que era coix, i li va restituir les terres de Saül. (2 Samuel 9)"
+    },
+    {
+      "pregunta": "Quin dels quatre genets de l'Apocalipsi munta un cavall verdós pàl·lid?",
+      "opcions": [
+        "A) El Conqueridor",
+        "B) La Guerra",
+        "C) La Fam",
+        "D) La Mort"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El quart genet munta un cavall de color verdós pàl·lid, el seu nom és la Mort, i l'Hades el segueix. (Apocalipsi 6:8)"
+    },
+    {
+      "pregunta": "Com es deia la dida de Rebeca que va ser enterrada sota un roure a Betel?",
+      "opcions": [
+        "A) Puà",
+        "B) Xifrà",
+        "C) Dèbora",
+        "D) Míriam"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Dèbora, la dida de Rebeca, va morir i va ser enterrada sota el roure de sota de Betel, que va ser anomenat Al·lon-Bacut (roure del plor). (Gènesi 35:8)"
+    },
+    {
+      "pregunta": "Qui va ser el profeta que va renyar el rei David amb la paràbola de l'ovella?",
+      "opcions": [
+        "A) Samuel",
+        "B) Natan",
+        "C) Gad",
+        "D) Elies"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El profeta Natan va explicar a David la història d'un home ric que prenia l'única ovella d'un home pobre per fer-li adonar del seu pecat amb Betsabé i Uries. (2 Samuel 12)"
+    },
+    {
+      "pregunta": "Quin dels dotze fills de Jacob va ser avantpassat de l'apòstol Pau?",
+      "opcions": [
+        "A) Judà",
+        "B) Leví",
+        "C) Benjamí",
+        "D) Josep"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Pau mateix declara la seva genealogia: 'Circumcidat el vuitè dia, del llinatge d'Israel, de la tribu de Benjamí'. (Filipencs 3:5)"
+    },
+    {
+      "pregunta": "Quin rei de Judà va ser amagat al Temple durant sis anys per salvar-lo de la reina Atalia?",
+      "opcions": [
+        "A) Ozies",
+        "B) Joàs",
+        "C) Amasies",
+        "D) Josies"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Joixeba va amagar el seu nebot Joàs de la massacre de la família reial ordenada per Atalia. El sacerdot Jehoiadà el va coronar rei als set anys. (2 Reis 11)"
+    },
+    {
+      "pregunta": "Quin és el significat de 'Marà', el nom que Noemí va voler adoptar?",
+      "opcions": [
+        "A) 'Beneïda'",
+        "B) 'Amarga'",
+        "C) 'Abandonada'",
+        "D) 'Forta'"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Després de perdre el seu marit i els seus dos fills, Noemí va dir: 'No em digueu Noemí (agradable), digueu-me Marà (amarga)'. (Rut 1:20)"
+    },
+    {
+      "pregunta": "Quin dels set diaques escollits a Fets 6 va ser el primer evangelista a Samaria?",
+      "opcions": [
+        "A) Esteve",
+        "B) Felip",
+        "C) Pròcor",
+        "D) Nicanor"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Després de la persecució a Jerusalem, Felip (no l'apòstol) va anar a la ciutat de Samaria i hi va predicar Crist. (Fets 8:5)"
+    },
+    {
+      "pregunta": "Quina és la referència del versicle 'Perquè Déu ha estimat tant el món que ha donat el seu Fill únic'?",
+      "opcions": [
+        "A) Romans 3:23",
+        "B) Joan 1:1",
+        "C) Joan 3:16",
+        "D) Efesis 2:8"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Joan 3:16 és un dels versicles més coneguts i citats de la Bíblia, resumint el nucli de l'evangeli."
+    },
+    {
+      "pregunta": "Qui eren els recabites, elogiats per Jeremies?",
+      "opcions": [
+        "A) Un grup de sacerdots fidels",
+        "B) Una família que va obeir el manament del seu avantpassat de no beure vi",
+        "C) Guerrers valents de David",
+        "D) Escribes que van copiar la Llei"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jeremies va posar els recabites com a exemple de fidelitat davant d'Israel, ja que obeïen el seu avantpassat Jonadab de no beure vi ni construir cases. (Jeremies 35)"
+    },
+    {
+      "pregunta": "Quin és el nom del primer fill d'Aaron, el sumo sacerdot?",
+      "opcions": [
+        "A) Eliazar",
+        "B) Itamar",
+        "C) Nadab",
+        "D) Abihú"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Els fills d'Aaron van ser Nadab, el primogènit, Abihú, Eliazar i Itamar. (Èxode 6:23)"
+    },
+    {
+      "pregunta": "Quin llibre de la Bíblia es troba just abans del llibre dels Salms?",
+      "opcions": [
+        "A) 2 Cròniques",
+        "B) Nehemies",
+        "C) Ester",
+        "D) Job"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "En el cànon protestant, l'ordre dels llibres poètics és Job, Salms, Proverbis, Eclesiastès i Càntic dels Càntics."
+    },
+    {
+      "pregunta": "Quin objecte màgic va fer el rei Manassès que es considerava una gran abominació?",
+      "opcions": [
+        "A) Un vedell d'or",
+        "B) Un pal sagrat (Aixerà)",
+        "C) Un ídol de Baal",
+        "D) Una imatge esculpida per al Temple"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Manassès va arribar a posar una imatge esculpida dins del mateix Temple de Déu a Jerusalem, una profanació extrema. (2 Reis 21:7)"
+    },
+    {
+      "pregunta": "En quin capítol de la Bíblia es troba la llista dels 'herois de la fe'?",
+      "opcions": [
+        "A) Romans 8",
+        "B) 1 Corintis 13",
+        "C) Hebreus 11",
+        "D) Jaume 2"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Hebreus capítol 11 és conegut com la 'Galeria de la Fe', on es llisten nombrosos personatges de l'Antic Testament que van viure per la fe."
+    },
+    {
+      "pregunta": "Quin era el nom del fill d'Absalom?",
+      "opcions": [
+        "A) Absalom no va tenir fills que sobrevisquessin",
+        "B) Amon",
+        "C) Tamar",
+        "D) Mefibóixet"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Absalom havia tingut tres fills, però havien mort. Per això, es va erigir un monument per perpetuar el seu nom. (2 Samuel 14:27 i 18:18)"
+    },
+    {
+      "pregunta": "Quin profeta va ser contemporani d'Ageu i va animar també a la reconstrucció del Temple?",
+      "opcions": [
+        "A) Malaquies",
+        "B) Joel",
+        "C) Zacaries",
+        "D) Abdies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Els profetes Ageu i Zacaries van profetitzar durant el regnat de Darios i van encoratjar la reconstrucció del segon Temple. (Esdres 5:1)"
+    },
+    {
+      "pregunta": "Com es deien els dos fills de Judes Iscariot?",
+      "opcions": [
+        "A) No es mencionen",
+        "B) Simó i Joan",
+        "C) Josep i Benjamí",
+        "D) Felip i Bartomeu"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La Bíblia no menciona que Judes Iscariot tingués fills, ni dona detalls de la seva vida familiar."
+    },
+    {
+      "pregunta": "Quants anys tenia Josies quan va començar a regnar a Judà?",
+      "opcions": [
+        "A) 7 anys",
+        "B) 8 anys",
+        "C) 12 anys",
+        "D) 16 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Josies tenia vuit anys quan va començar a regnar, i va ser un dels reis més justos de Judà. (2 Reis 22:1)"
+    },
+    {
+      "pregunta": "Quin apòstol es va encarregar de Maria, la mare de Jesús, després de la crucifixió?",
+      "opcions": [
+        "A) Pere",
+        "B) Jaume, el germà de Jesús",
+        "C) Joan",
+        "D) Andreu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Des de la creu, Jesús va encomanar la seva mare al 'deixeble estimat', tradicionalment identificat com Joan. (Joan 19:26-27)"
+    },
+    {
+      "pregunta": "Qui va alliberar Jeremies de la cisterna on l'havien llançat a morir?",
+      "opcions": [
+        "A) El rei Sedecies",
+        "B) El rei Joaquim",
+        "C) Ebed-Mèlec l'etíop",
+        "D) El capità de la guàrdia"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Ebed-Mèlec, un oficial etíop de la cort, va intercedir davant del rei Sedecies per rescatar Jeremies de la cisterna de fang. (Jeremies 38:7-13)"
+    },
+    {
+      "pregunta": "Quin és el tema principal de l'epístola de Judes?",
+      "opcions": [
+        "A) L'amor fraternal",
+        "B) L'hospitalitat",
+        "C) La lluita contra els falsos mestres",
+        "D) La segona vinguda de Crist"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "L'epístola de Judes és una advertència contundent contra els falsos mestres que s'havien infiltrat a l'església. (Judes 1:3-4)"
+    },
+    {
+      "pregunta": "Quina plaga va ser reproduïda pels mags d'Egipte, a part de la de la sang?",
+      "opcions": [
+        "A) La plaga de les granotes",
+        "B) La plaga dels polls",
+        "C) La plaga dels tàvecs",
+        "D) Cap més"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Els mags egipcis van poder replicar la plaga de l'aigua convertida en sang i la plaga de les granotes, però van fracassar amb la plaga dels polls. (Èxode 7:22, 8:7, 8:18)"
+    },
+    {
+      "pregunta": "Quin era el nom del fill d'Agar i Abraham?",
+      "opcions": [
+        "A) Isaac",
+        "B) Ismael",
+        "C) Esaú",
+        "D) Zimran"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Sara va donar la seva serventa egípcia Agar a Abraham, i ella li va donar un fill anomenat Ismael. (Gènesi 16:15)"
+    },
+    {
+      "pregunta": "Quants anys va regnar Salomó sobre Israel?",
+      "opcions": [
+        "A) 20 anys",
+        "B) 30 anys",
+        "C) 40 anys",
+        "D) 50 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Igual que el seu pare David, Salomó va regnar sobre tot Israel a Jerusalem durant quaranta anys. (1 Reis 11:42)"
+    },
+    {
+      "pregunta": "A qui va escriure Lluc el seu evangeli i el llibre dels Fets?",
+      "opcions": [
+        "A) A l'emperador romà",
+        "B) A l'església de Roma",
+        "C) A Teòfil",
+        "D) A un amic anònim"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Tant l'Evangeli de Lluc com els Fets dels Apòstols comencen amb una dedicatòria a un home anomenat Teòfil. (Lluc 1:3, Fets 1:1)"
+    },
+    {
+      "pregunta": "Quina arma va utilitzar un levita per desmembrar la seva concubina morta?",
+      "opcions": [
+        "A) Una espasa",
+        "B) Un ganivet",
+        "C) Una destral",
+        "D) No s'especifica"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "En un dels episodis més foscos de la Bíblia, un levita va agafar un ganivet i va tallar el cos de la seva concubina en dotze trossos. (Jutges 19:29)"
+    },
+    {
+      "pregunta": "Quin rei persa es va casar amb Ester?",
+      "opcions": [
+        "A) Cirus",
+        "B) Darios",
+        "C) Assuer (Xerxes)",
+        "D) Artaxerxes"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El rei Assuer, identificat com Xerxes I, va escollir Ester com a nova reina. (Ester 2:16-17)"
+    },
+    {
+      "pregunta": "Com es deia el primer fill de Josep, nascut a Egipte?",
+      "opcions": [
+        "A) Efraïm",
+        "B) Manassès",
+        "C) Benjamí",
+        "D) Aser"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Josep va anomenar el seu primogènit Manassès, dient: 'Déu m'ha fet oblidar totes les meves penes'. (Gènesi 41:51)"
+    },
+    {
+      "pregunta": "Quin profeta va ser contemporani del rei Josies i va presenciar la caiguda de Jerusalem?",
+      "opcions": [
+        "A) Isaïes",
+        "B) Osees",
+        "C) Jeremies",
+        "D) Ezequiel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El ministeri de Jeremies va començar durant el regnat de Josies i va continuar fins després de la destrucció de Jerusalem. (Jeremies 1:1-3)"
+    },
+    {
+      "pregunta": "Quina edat tenia Noè quan va començar el diluvi?",
+      "opcions": [
+        "A) 500 anys",
+        "B) 600 anys",
+        "C) 700 anys",
+        "D) 950 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Noè tenia sis-cents anys quan el diluvi d'aigües va venir sobre la terra. (Gènesi 7:6)"
+    },
+    {
+      "pregunta": "Qui eren Hofni i Finees?",
+      "opcions": [
+        "A) Fills de Samuel",
+        "B) Fills del sacerdot Elí",
+        "C) Nets de Moisès",
+        "D) Guerrers de David"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Hofni i Finees eren els fills del sacerdot Elí, coneguts per la seva maldat i per menysprear les ofrenes del Senyor. (1 Samuel 2:12)"
+    },
+    {
+      "pregunta": "Quin és l'únic miracle que es troba en els quatre evangelis?",
+      "opcions": [
+        "A) La resurrecció de Llàtzer",
+        "B) Caminar sobre l'aigua",
+        "C) La guarició del cec Bartimeu",
+        "D) L'alimentació dels 5000"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "La multiplicació dels pans i els peixos per alimentar 5000 homes és l'únic miracle, a part de la resurrecció, narrat en els quatre evangelis. (Mateu 14, Marc 6, Lluc 9, Joan 6)"
+    },
+    {
+      "pregunta": "Com es deia el fill de Jacob que va intercedir per Josep per salvar-li la vida?",
+      "opcions": [
+        "A) Simeó",
+        "B) Leví",
+        "C) Judà",
+        "D) Rubèn"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Rubèn, el primogènit, va aconsellar als seus germans que no matessin Josep, sinó que el llancessin a una cisterna. (Gènesi 37:21-22)"
+    },
+    {
+      "pregunta": "Quin profeta menor va profetitzar contra la ciutat de Nínive, a part de Jonàs?",
+      "opcions": [
+        "A) Abdies",
+        "B) Nahum",
+        "C) Miquees",
+        "D) Sofonies"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El llibre de Nahum és un oracle complet sobre la destrucció imminent de Nínive, la capital d'Assíria. (Nahum 1:1)"
+    },
+    {
+      "pregunta": "Quants anys va servir Jacob a Laban per les seves dues dones, Raquel i Lia?",
+      "opcions": [
+        "A) 7 anys",
+        "B) 14 anys",
+        "C) 20 anys",
+        "D) 21 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jacob va servir set anys per Raquel, però va ser enganyat amb Lia. Després va servir set anys més per Raquel, sumant catorze anys. (Gènesi 29)"
+    },
+    {
+      "pregunta": "A qui va aparèixer Jesús en el camí d'Emaús?",
+      "opcions": [
+        "A) A Pere i Joan",
+        "B) A Maria Magdalena i l'altra Maria",
+        "C) A Cleofàs i un altre deixeble",
+        "D) Als deu apòstols"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús ressuscitat es va unir a dos deixebles, un dels quals es deia Cleofàs, mentre caminaven cap a Emaús. (Lluc 24:13-18)"
+    },
+    {
+      "pregunta": "Quin rei de Judà, captiu a Babilònia, es va penedir i va ser restaurat al seu tron?",
+      "opcions": [
+        "A) Ezequies",
+        "B) Josies",
+        "C) Manassès",
+        "D) Amon"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Manassès, un dels reis més malvats, va ser capturat pels assiris. A la seva aflicció, es va humiliar davant Déu, qui el va perdonar i el va restaurar. (2 Cròniques 33:11-13)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill d'Enoc, que va viure 969 anys?",
+      "opcions": [
+        "A) Lamec",
+        "B) Matusalem",
+        "C) Noè",
+        "D) Jared"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Matusalem, fill d'Enoc, és la persona més longeva registrada a la Bíblia. (Gènesi 5:27)"
+    },
+    {
+      "pregunta": "Quants capítols té el llibre de Jeremies?",
+      "opcions": [
+        "A) 48",
+        "B) 50",
+        "C) 52",
+        "D) 66"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre del profeta Jeremies és un dels llibres profètics més llargs, amb 52 capítols."
+    },
+    {
+      "pregunta": "Quin era el nom del germà del gegant Goliat, que va ser mort per un dels valents de David?",
+      "opcions": [
+        "A) Lahmí",
+        "B) Isbí-Benob",
+        "C) Saf",
+        "D) Sipai"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Elhanan, fill de Jaïr, va matar Lahmí, el germà de Goliat de Gat. (1 Cròniques 20:5)"
+    },
+    {
+      "pregunta": "Quina carta de Pau conté la descripció de l'armadura de Déu?",
+      "opcions": [
+        "A) Romans",
+        "B) 1 Corintis",
+        "C) Gàlates",
+        "D) Efesis"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "A Efesis 6:10-18, Pau descriu l'armadura espiritual que els creients han de vestir per resistir el diable."
+    },
+    {
+      "pregunta": "Com es deia la dona de Noè?",
+      "opcions": [
+        "A) El seu nom no s'esmenta a la Bíblia",
+        "B) Naamà",
+        "C) Sila",
+        "D) Adà"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La Bíblia esmenta que Noè va entrar a l'arca amb la seva dona, però no en diu el nom. (Gènesi 7:7)"
+    },
+    {
+      "pregunta": "Quin rei va consultar una mèdium a En-Dor per parlar amb el profeta Samuel mort?",
+      "opcions": [
+        "A) David",
+        "B) Salomó",
+        "C) Acab",
+        "D) Saül"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Desesperat, el rei Saül es va disfressar i va anar a consultar una nigromant a En-Dor per comunicar-se amb Samuel. (1 Samuel 28)"
+    },
+    {
+      "pregunta": "Qui va ser el pare de Joan Marc, l'autor de l'Evangeli de Marc?",
+      "opcions": [
+        "A) El seu pare no s'esmenta",
+        "B) Bernabé",
+        "C) Josep",
+        "D) Simó"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La Bíblia no anomena el pare de Joan Marc. S'esmenta la seva mare, Maria. Bernabé era el seu cosí. (Fets 12:12, Colossencs 4:10)"
+    },
+    {
+      "pregunta": "Quants pous van cavar els servents d'Isaac a la vall de Guerar?",
+      "opcions": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Van cavar tres pous: Èssec (baralla), Sitnà (hostilitat) i Rehobot (amplitud). (Gènesi 26:19-22)"
+    },
+    {
+      "pregunta": "Quin rei de Babilònia va ser castigat per Déu a viure com un animal durant set anys?",
+      "opcions": [
+        "A) Nabopolassar",
+        "B) Nabucodonosor",
+        "C) Baltasar",
+        "D) Evil-Merodac"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Per la seva arrogància, Nabucodonosor va perdre el seny i va viure al camp menjant herba com els bous. (Daniel 4)"
+    },
+    {
+      "pregunta": "Quin és el tema principal de la carta als Gàlates?",
+      "opcions": [
+        "A) La unitat de l'església",
+        "B) La justificació per la fe, no per les obres de la Llei",
+        "C) Els dons espirituals",
+        "D) La santedat personal"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Pau escriu als gàlates per combatre els judaïtzants, defensant que la salvació és per la fe en Crist, no per la Llei mosaica."
+    },
+    {
+      "pregunta": "Quin era el nom del déu principal dels filisteus, l'ídol del qual va caure davant l'Arca de l'Aliança?",
+      "opcions": [
+        "A) Baal",
+        "B) Moloc",
+        "C) Quemoix",
+        "D) Dagon"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Quan els filisteus van capturar l'Arca i la van posar al temple del seu déu Dagon, l'estàtua va caure dues vegades davant d'ella. (1 Samuel 5:1-4)"
+    },
+    {
+      "pregunta": "Quina parella va morir per haver mentit a l'Esperit Sant sobre la venda d'una propietat?",
+      "opcions": [
+        "A) Àquila i Priscil·la",
+        "B) Ananies i Safira",
+        "C) Andrònic i Júnia",
+        "D) Filemó i Àpia"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Ananies i la seva dona Safira van retenir una part dels diners de la venda, mentint a Pere i a la comunitat. Tots dos van caure morts. (Fets 5:1-11)"
+    },
+    {
+      "pregunta": "Quina de les deu plagues d'Egipte NO va afectar la terra de Goixen?",
+      "opcions": [
+        "A) Totes les plagues",
+        "B) Les tres primeres",
+        "C) Les set últimes",
+        "D) La mort dels primogènits"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "A partir de la quarta plaga (tàvecs), Déu va fer una distinció, i les plagues no van afectar la regió de Goixen on habitava el seu poble. (Èxode 8:22)"
+    },
+    {
+      "pregunta": "Qui va ser el primer a ser anomenat 'profeta' a la Bíblia?",
+      "opcions": [
+        "A) Enoc",
+        "B) Moisès",
+        "C) Abraham",
+        "D) Samuel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En una conversa amb Abimèlec, Déu es refereix a Abraham com un profeta que pregaria per ell. (Gènesi 20:7)"
+    },
+    {
+      "pregunta": "Quin era el nom del fill de Gedeó que va matar els seus 70 germans per convertir-se en rei?",
+      "opcions": [
+        "A) Jotam",
+        "B) Abimèlec",
+        "C) Sèquer",
+        "D) Hèfer"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Abimèlec, fill de Gedeó i la seva concubina, va conspirar per matar tots els seus germanastres i proclamar-se rei. (Jutges 9:1-6)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del port on Pau va tenir la visió d'un home de Macedònia?",
+      "opcions": [
+        "A) Efes",
+        "B) Antioquia",
+        "C) Tròada",
+        "D) Milet"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "A Tròada, Pau va tenir una visió nocturna que el va portar a creuar a Europa per predicar l'evangeli. (Fets 16:9-10)"
+    },
+    {
+      "pregunta": "Quin és el capítol de la Bíblia dedicat a descriure l'amor?",
+      "opcions": [
+        "A) Romans 12",
+        "B) Salm 23",
+        "C) 1 Corintis 13",
+        "D) Joan 15"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "1 Corintis 13, sovint anomenat 'el capítol de l'amor', descriu la naturalesa i la supremacia de l'amor (àgape)."
+    },
+    {
+      "pregunta": "Quants graons va retrocedir l'ombra en el rellotge de sol d'Acaz com a senyal per a Ezequies?",
+      "opcions": [
+        "A) 5 graons",
+        "B) 7 graons",
+        "C) 10 graons",
+        "D) 12 graons"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Com a senyal per al rei Ezequies, Déu va fer que l'ombra retrocedís deu graons en el rellotge de sol d'Acaz. (2 Reis 20:11)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del company de Pau anomenat 'fill de la consolació'?",
+      "opcions": [
+        "A) Silas",
+        "B) Timoteu",
+        "C) Bernabé",
+        "D) Apol·lo"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Josep, un levita de Xipre, va ser anomenat Bernabé (que significa fill de consolació) pels apòstols. (Fets 4:36)"
+    },
+    {
+      "pregunta": "Quin dels profetes menors va ser pastor i cultivador de sicòmors?",
+      "opcions": [
+        "A) Osees",
+        "B) Joel",
+        "C) Amós",
+        "D) Jonàs"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Amós va declarar: 'No sóc profeta ni fill de profeta, sinó que sóc vaquer i cultivador de sicòmors'. (Amós 7:14)"
+    },
+    {
+      "pregunta": "Quin és l'únic evangeli que registra la paràbola del Bon Samarità?",
+      "opcions": [
+        "A) Mateu",
+        "B) Marc",
+        "C) Lluc",
+        "D) Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La paràbola del Bon Samarità, així com la del Fill Pròdig, són exclusives de l'evangeli de Lluc. (Lluc 10:25-37)"
+    },
+    {
+      "pregunta": "Quina reina va utilitzar el seu segell reial per ordenar la mort de Nabot?",
+      "opcions": [
+        "A) Ester",
+        "B) Vasti",
+        "C) Jezabel",
+        "D) Atalia"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jezabel va conspirar per matar Nabot i robar-li la vinya per al seu marit Acab, escrivint cartes en nom del rei. (1 Reis 21)"
+    },
+    {
+      "pregunta": "Quina ciutat va ser la primera capital del regne unificat d'Israel sota el rei David?",
+      "opcions": [
+        "A) Siquem",
+        "B) Jerusalem",
+        "C) Hebron",
+        "D) Guibà"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "David va ser ungit rei sobre Judà a Hebron i va regnar des d'allà durant set anys i sis mesos abans de conquerir Jerusalem. (2 Samuel 2:4, 5:5)"
+    },
+    {
+      "pregunta": "Quants anys tenia Caleb quan va demanar a Josuè la seva herència a Hebron?",
+      "opcions": [
+        "A) 40 anys",
+        "B) 65 anys",
+        "C) 85 anys",
+        "D) 100 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Caleb va recordar a Josuè que tenia 40 anys quan va espiar la terra, i que 45 anys després, als 85, encara era prou fort per conquerir. (Josuè 14:10-11)"
+    },
+    {
+      "pregunta": "Quin rei va tenir 700 esposes i 300 concubines?",
+      "opcions": [
+        "A) David",
+        "B) Salomó",
+        "C) Roboam",
+        "D) Acab"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El rei Salomó va tenir set-centes esposes, princeses, i tres-centes concubines, i les seves dones van desviar el seu cor. (1 Reis 11:3)"
+    },
+    {
+      "pregunta": "Com es deia la primera ciutat conquerida pels israelites a Canaan?",
+      "opcions": [
+        "A) Ai",
+        "B) Betel",
+        "C) Jericó",
+        "D) Jerusalem"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després de creuar el Jordà, la primera ciutat que els israelites van conquerir sota el lideratge de Josuè va ser Jericó. (Josuè 6)"
+    },
+    {
+      "pregunta": "Quin dels evangelis va ser probablement el primer a ser escrit?",
+      "opcions": [
+        "A) Mateu",
+        "B) Marc",
+        "C) Lluc",
+        "D) Joan"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Molts erudits bíblics creuen que l'Evangeli de Marc va ser el primer a ser escrit i va servir de font per a Mateu i Lluc."
+    },
+    {
+      "pregunta": "Quin va ser el nom de la muntanya on Aaron va morir?",
+      "opcions": [
+        "A) Mont Sinaí",
+        "B) Mont Nebo",
+        "C) Mont Hor",
+        "D) Mont Guerizim"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va manar a Moisès que pugés amb Aaron i el seu fill Eliazar al mont Hor, on Aaron moriria. (Nombres 20:25-28)"
+    },
+    {
+      "pregunta": "Qui eren Elifaz, Bildad i Sofar?",
+      "opcions": [
+        "A) Els tres amics de Daniel",
+        "B) Els tres amics de Job",
+        "C) Els tres fills de Noè",
+        "D) Tres generals de David"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Elifaz, Bildad i Sofar eren els tres amics que van anar a consolar Job en el seu sofriment, tot i que els seus consells van ser equivocats. (Job 2:11)"
+    },
+    {
+      "pregunta": "Quin rei va trobar el 'Llibre de la Llei' al Temple durant unes reparacions?",
+      "opcions": [
+        "A) Ezequies",
+        "B) Joàs",
+        "C) Josies",
+        "D) Manassès"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Durant el regnat del rei Josies, el sumo sacerdot Hilquies va trobar el Llibre de la Llei al Temple, fet que va provocar una gran reforma. (2 Reis 22:8)"
+    },
+    {
+      "pregunta": "Quina epístola general posa un gran èmfasi en la relació entre la fe i les obres?",
+      "opcions": [
+        "A) 1 Pere",
+        "B) Hebreus",
+        "C) Jaume",
+        "D) 1 Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "L'epístola de Jaume argumenta que 'la fe sense obres és morta', mostrant que la fe veritable es manifesta en accions. (Jaume 2:26)"
+    },
+    {
+      "pregunta": "Quants anys va tenir el regnat més llarg d'un rei a Judà o Israel?",
+      "opcions": [
+        "A) 40 anys (David)",
+        "B) 41 anys (Asà)",
+        "C) 52 anys (Ozies)",
+        "D) 55 anys (Manassès)"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Manassès, fill d'Ezequies, va regnar durant 55 anys a Jerusalem, el regnat més llarg de la història dels reis de Judà i Israel. (2 Reis 21:1)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill d'Isaac que va vendre la seva primogenitura?",
+      "opcions": [
+        "A) Jacob",
+        "B) Esaú",
+        "C) Ismael",
+        "D) No s'esmenta"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Esaú, tornant cansat del camp, va vendre la seva primogenitura a Jacob a canvi d'un plat de llenties. (Gènesi 25:29-34)"
+    },
+    {
+      "pregunta": "Qui va ser el besavi del rei David?",
+      "opcions": [
+        "A) Jessè",
+        "B) Obed",
+        "C) Boaz",
+        "D) Salmon"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La genealogia és: Boaz (casat amb Rut) va engendrar Obed, Obed va engendrar Jessè, i Jessè va engendrar David. (Rut 4:21-22)"
+    },
+    {
+      "pregunta": "A quin lloc va tenir Jacob el somni de l'escala que arribava al cel?",
+      "opcions": [
+        "A) Hebron",
+        "B) Siquem",
+        "C) Betel",
+        "D) Penuel"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Fugint d'Esaú, Jacob es va aturar a Luz, on va somiar amb l'escala. Va anomenar aquell lloc Betel, 'Casa de Déu'. (Gènesi 28:10-19)"
+    },
+    {
+      "pregunta": "Quants apòstols es deien Jaume?",
+      "opcions": [
+        "A) Un",
+        "B) Dos",
+        "C) Tres",
+        "D) Cap"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Hi havia dos apòstols anomenats Jaume: Jaume, fill de Zebedeu i germà de Joan, i Jaume, fill d'Alfeu. (Mateu 10:2-3)"
     }
   ],
   "nivell4": [
     {
       "pregunta": "Quin era el nom del sumo sacerdot quan Jesús va ser jutjat?",
-      "opcions": ["A) Anàs", "B) Caifàs", "C) Sadoc", "D) Eli"],
+      "opcions": [
+        "A) Anàs",
+        "B) Caifàs",
+        "C) Sadoc",
+        "D) Eli"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Caifàs era el sumo sacerdot durant el ministeri de Jesús i el seu judici. (Mateu 26:57)"
     },
     {
-      "pregunta": "Quants caps tenia la bèstia de l'Apocalipsi?",
-      "opcions": ["A) 5 caps", "B) 7 caps", "C) 10 caps", "D) 12 caps"],
+      "pregunta": "Quants caps tenia la bèstia que puja del mar a l'Apocalipsi?",
+      "opcions": [
+        "A) 5 caps",
+        "B) 7 caps",
+        "C) 10 caps",
+        "D) 12 caps"
+      ],
       "resposta_correcta": "B",
       "explicacio": "La bèstia de l'Apocalipsi tenia set caps i deu banyes. (Apocalipsi 13:1)"
     },
     {
       "pregunta": "Qui va ser el pare de Joan Baptista?",
-      "opcions": ["A) Simeó", "B) Zacaries", "C) Elisabet", "D) Joaquim"],
+      "opcions": [
+        "A) Simeó",
+        "B) Zacaries",
+        "C) Elisabet",
+        "D) Joaquim"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Zacaries, un sacerdot, era el pare de Joan Baptista. (Lluc 1:5-13)"
     },
     {
       "pregunta": "En quin any del regnat de Tiberí Cèsar va començar Joan Baptista a predicar?",
-      "opcions": ["A) Any 13", "B) Any 15", "C) Any 17", "D) Any 20"],
+      "opcions": [
+        "A) Any 13",
+        "B) Any 15",
+        "C) Any 17",
+        "D) Any 20"
+      ],
       "resposta_correcta": "B",
       "explicacio": "Joan Baptista va començar el seu ministeri l'any quinze del regnat de Tiberí Cèsar. (Lluc 3:1)"
     },
     {
       "pregunta": "Quina tribu d'Israel no va rebre herència de terra?",
-      "opcions": ["A) Rubén", "B) Simeó", "C) Leví", "D) Gad"],
+      "opcions": [
+        "A) Rubén",
+        "B) Simeó",
+        "C) Leví",
+        "D) Gad"
+      ],
       "resposta_correcta": "C",
-      "explicacio": "La tribu de Leví no va rebre herència territorial perquè eren els sacerdots. (Nombres 18:20)"
+      "explicacio": "La tribu de Leví no va rebre herència territorial perquè eren els sacerdots i la seva herència era el Senyor. (Nombres 18:20)"
     },
     {
       "pregunta": "Quin rei va ser ferit per cucs i va morir?",
-      "opcions": ["A) Herodes Agrippa I", "B) Herodes el Gran", "C) Herodes Antipas", "D) Herodes Filip"],
+      "opcions": [
+        "A) Herodes Agrippa I",
+        "B) Herodes el Gran",
+        "C) Herodes Antipas",
+        "D) Herodes Filip"
+      ],
       "resposta_correcta": "A",
       "explicacio": "Herodes Agrippa I va ser ferit per un àngel i menjat pels cucs per no donar glòria a Déu. (Fets 12:21-23)"
+    },
+    {
+      "pregunta": "Qui era el 'tresorer de la ciutat' de Corint que envia salutacions a l'epístola als Romans?",
+      "opcions": [
+        "A) Gaius",
+        "B) Erast",
+        "C) Quart",
+        "D) Febe"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Al final de l'epístola als Romans, Pau inclou salutacions d'Erast, el tresorer (o administrador) de la ciutat. (Romans 16:23)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Caleb, l'espia fidel?",
+      "opcions": [
+        "A) Jehunne",
+        "B) Hur",
+        "C) Quenaz",
+        "D) Otniel"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Caleb és identificat constantment com 'fill de Jehunne'. Era de la tribu de Judà. (Nombres 13:6)"
+    },
+    {
+      "pregunta": "Segons el llibre dels Fets, quants homes van fer un vot amb Pau a Jerusalem abans del seu arrest?",
+      "opcions": [
+        "A) Dos",
+        "B) Tres",
+        "C) Quatre",
+        "D) Set"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jaume i els ancians van aconsellar a Pau que es purifiqués al Temple amb quatre homes que havien fet un vot. (Fets 21:23-24)"
+    },
+    {
+      "pregunta": "Quin era el nom del rei d'Edom que va negar el pas a Israel?",
+      "opcions": [
+        "A) Balac",
+        "B) Sehón",
+        "C) Og",
+        "D) No s'esmenta el seu nom"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Moisès va enviar missatgers al 'rei d'Edom', però la Bíblia no especifica el seu nom personal. (Nombres 20:14)"
+    },
+    {
+      "pregunta": "Quina de les dotze portes de Jerusalem, reconstruïdes per Nehemies, va ser reparada només pels sacerdots?",
+      "opcions": [
+        "A) La Porta de les Fonts",
+        "B) La Porta de les Ovelles",
+        "C) La Porta del Peix",
+        "D) La Porta Vella"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El sumo sacerdot Eliaixib i els seus germans sacerdots van reconstruir i consagrar la Porta de les Ovelles. (Nehemies 3:1)"
+    },
+    {
+      "pregunta": "Qui eren Janes i Jambres, mencionats per Pau a 2 Timoteu?",
+      "opcions": [
+        "A) Dos falsos apòstols de Corint",
+        "B) Els dos lladres crucificats amb Jesús",
+        "C) Els mags egipcis que es van oposar a Moisès",
+        "D) Dos creients de Colosses"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Pau utilitza els noms de Janes i Jambres, provinents de la tradició jueva, per referir-se als mags de la cort del Faraó que es van oposar a Moisès. (2 Timoteu 3:8)"
+    },
+    {
+      "pregunta": "Quants colzes d'alçada tenia el gegant Goliat?",
+      "opcions": [
+        "A) Quatre colzes i un pam",
+        "B) Cinc colzes i un pam",
+        "C) Sis colzes i un pam",
+        "D) Set colzes"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La seva alçada era de sis colzes i un pam, que equival a uns 2,9 metres. (1 Samuel 17:4)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del profeta que va ser mort per un lleó per desobeir la paraula de Déu?",
+      "opcions": [
+        "A) Un profeta de Judà",
+        "B) Xemaià",
+        "C) Ahijà",
+        "D) Iddó"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Un home de Déu de Judà va profetitzar contra l'altar de Jeroboam, però després va desobeir Déu. Un lleó el va matar en el camí de tornada. (1 Reis 13)"
+    },
+    {
+      "pregunta": "Quin és el nombre total de persones de la casa de Jacob que van anar a Egipte?",
+      "opcions": [
+        "A) 60",
+        "B) 66",
+        "C) 70",
+        "D) 75"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Gènesi 46:27 suma els 66 descendents directes, més Jacob, Josep i els seus dos fills, donant un total de 70 persones."
+    },
+    {
+      "pregunta": "A qui va dirigir l'apòstol Joan la seva tercera epístola?",
+      "opcions": [
+        "A) A Demetri",
+        "B) A Diòtrefes",
+        "C) A Gaius",
+        "D) A Filemó"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La tercera epístola de Joan està adreçada 'A l'estimat Gaius, a qui jo estimo en la veritat'. (3 Joan 1:1)"
+    },
+    {
+      "pregunta": "Quin dels jutges d'Israel era esquerrà?",
+      "opcions": [
+        "A) Otniel",
+        "B) Ehud",
+        "C) Xamgar",
+        "D) Gedeó"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Ehud, de la tribu de Benjamí, era esquerrà. Va utilitzar aquesta característica per amagar una daga i assassinar el rei Eglon de Moab. (Jutges 3:15-21)"
+    },
+    {
+      "pregunta": "Quin va ser el nom de la ciutat on Llàtzer, Marta i Maria vivien?",
+      "opcions": [
+        "A) Betfagé",
+        "B) Betània",
+        "C) Betsaida",
+        "D) Betlem"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La família de Llàtzer, a qui Jesús estimava, vivia al poble de Betània, prop de Jerusalem. (Joan 11:1)"
+    },
+    {
+      "pregunta": "Quants anys tenia Abraham quan Déu va establir el pacte de la circumcisió?",
+      "opcions": [
+        "A) 75 anys",
+        "B) 86 anys",
+        "C) 99 anys",
+        "D) 100 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Quan Abram tenia noranta-nou anys, el Senyor se li va aparèixer i va establir l'aliança de la circumcisió. (Gènesi 17:1)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Rut?",
+      "opcions": [
+        "A) El seu nom no s'esmenta a la Bíblia",
+        "B) Eglon",
+        "C) Balac",
+        "D) Elimelec"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "El llibre de Rut no anomena el pare de Rut. Ella és identificada simplement com 'Rut la moabita'. (Rut 1:4)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del primer rei del Regne del Nord (Israel) després de la divisió?",
+      "opcions": [
+        "A) Roboam",
+        "B) Jeroboam",
+        "C) Baixà",
+        "D) Omrí"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jeroboam, fill de Nebat, va ser proclamat rei per les deu tribus del nord que es van rebel·lar contra Roboam. (1 Reis 12:20)"
+    },
+    {
+      "pregunta": "Quin és el significat del nom 'Samuel'?",
+      "opcions": [
+        "A) 'Preguntat a Déu' o 'Déu ha escoltat'",
+        "B) 'Dedicat a Déu'",
+        "C) 'Profeta de Déu'",
+        "D) 'Fort en Déu'"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Anna li va posar Samuel, dient: 'L'he demanat al Senyor'. El nom reflecteix la resposta de Déu a la seva pregària. (1 Samuel 1:20)"
+    },
+    {
+      "pregunta": "Quin era el nom de la serp de bronze que Moisès va fer al desert?",
+      "opcions": [
+        "A) Nehuxtan",
+        "B) Leviatan",
+        "C) Behemot",
+        "D) Aixerà"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La serp de bronze feta per Moisès es va convertir en un objecte d'idolatria. El rei Ezequies la va destruir i la va anomenar Nehuxtan (cosa de bronze). (2 Reis 18:4)"
+    },
+    {
+      "pregunta": "Quin llibre de l'Antic Testament es cita més freqüentment en el Nou Testament?",
+      "opcions": [
+        "A) Gènesi",
+        "B) Deuteronomi",
+        "C) Salms",
+        "D) Isaïes"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre dels Salms és el més citat, seguit de prop per Isaïes. Jesús i els apòstols es van referir a ell constantment."
+    },
+    {
+      "pregunta": "Quin era el nom de l'arquer que va disparar la fletxa que va matar el rei Acab?",
+      "opcions": [
+        "A) Jehú",
+        "B) Un soldat anònim",
+        "C) Un oficial siri",
+        "D) Miquees fill d'Imla"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Un soldat va disparar el seu arc a l'atzar i va ferir el rei d'Israel (Acab), complint la profecia. (1 Reis 22:34)"
+    },
+    {
+      "pregunta": "Quin era el nom de la filla de David que va ser violada pel seu germanastre Amnon?",
+      "opcions": [
+        "A) Mical",
+        "B) Betsabé",
+        "C) Tamar",
+        "D) Abigail"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Amnon, fill de David, es va enamorar de la seva germanastra Tamar i la va forçar, un acte que va portar a la venjança d'Absalom. (2 Samuel 13)"
+    },
+    {
+      "pregunta": "Quina de les cartes de Pau va ser escrita probablement primer?",
+      "opcions": [
+        "A) Romans",
+        "B) 1 Corintis",
+        "C) Gàlates",
+        "D) 1 Tessalonicencs"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Molts erudits consideren que 1 Tessalonicencs és la primera epístola que Pau va escriure, datada al voltant del 50-51 dC."
+    },
+    {
+      "pregunta": "Qui va ser el governador persa de Judà durant la reconstrucció del segon Temple?",
+      "opcions": [
+        "A) Nehemies",
+        "B) Esdres",
+        "C) Zorobabel",
+        "D) Sanbal·lat"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Zorobabel va ser el governador que va liderar el primer grup de retornats i va supervisar la reconstrucció del Temple. (Ageu 1:1)"
+    },
+    {
+      "pregunta": "Quin era el nom del fill de Matusalem?",
+      "opcions": [
+        "A) Enoc",
+        "B) Lamec",
+        "C) Noè",
+        "D) Sem"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Matusalem va viure cent vuitanta-set anys, i va engendrar Lamec. (Gènesi 5:25)"
+    },
+    {
+      "pregunta": "Quin dels profetes menors conté la profecia sobre el naixement del Messies a Betlem?",
+      "opcions": [
+        "A) Amós",
+        "B) Osees",
+        "C) Miquees",
+        "D) Zacaries"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Miquees 5:2 profetitza: 'Però tu, Betlem Efrata, [...] de tu sortirà el qui ha de governar Israel'."
+    },
+    {
+      "pregunta": "Quin era el nom del camp comprat amb les 30 monedes de plata de Judes?",
+      "opcions": [
+        "A) Gòlgota",
+        "B) Getsemaní",
+        "C) Aceldama (Camp de Sang)",
+        "D) Camp de l'Oleire"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Els grans sacerdots van comprar el camp de l'oleire amb els diners. Va ser anomenat Aceldama, Camp de Sang. (Fets 1:18-19)"
+    },
+    {
+      "pregunta": "Quin rei hitita va ser un aliat fidel de David?",
+      "opcions": [
+        "A) Uries",
+        "B) Ahimèlec",
+        "C) Itai",
+        "D) Toí"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Toí, rei d'Hamat, en sentir que David havia derrotat el seu enemic, va enviar el seu fill per saludar David. (2 Samuel 8:9-10)"
+    },
+    {
+      "pregunta": "Quantes vegades va caure Jesús en el camí cap al Gòlgota, segons la Bíblia?",
+      "opcions": [
+        "A) Una vegada",
+        "B) Dues vegades",
+        "C) Tres vegades",
+        "D) La Bíblia no ho especifica"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Les tres caigudes de Jesús formen part de la tradició del Via Crucis, però no es mencionen explícitament en els evangelis."
+    },
+    {
+      "pregunta": "Quin era el nom del fill de l'endeví Balaam?",
+      "opcions": [
+        "A) Beor",
+        "B) Balac",
+        "C) El seu fill no s'esmenta",
+        "D) Barjesús"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La Bíblia no anomena cap fill de Balaam. S'esmenta el seu pare, Beor. (Nombres 22:5)"
+    },
+    {
+      "pregunta": "Quants capítols té el llibre més curt de l'Antic Testament, Abdies?",
+      "opcions": [
+        "A) Un capítol",
+        "B) Dos capítols",
+        "C) Tres capítols",
+        "D) Cinc capítols"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "El llibre d'Abdies consta d'un sol capítol amb 21 versicles, el que el converteix en el llibre més breu de l'Antic Testament."
+    },
+    {
+      "pregunta": "Qui va ser el primer summe sacerdot que va oficiar en el segon Temple?",
+      "opcions": [
+        "A) Esdres",
+        "B) Hilquies",
+        "C) Josuè (Jeixua)",
+        "D) Eliaixib"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Josuè (o Jeixua), fill de Jossadac, va ser el summe sacerdot que va tornar de l'exili amb Zorobabel i va dirigir la restauració del culte. (Esdres 3:2)"
+    },
+    {
+      "pregunta": "Quin va ser el nom de la muntanya on es van pronunciar les benediccions?",
+      "opcions": [
+        "A) Mont Sió",
+        "B) Mont Carmel",
+        "C) Mont Guerizim",
+        "D) Mont Hermon"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Moisès va instruir que sis tribus es posessin al mont Guerizim per beneir, i sis al mont Ebal per maleir. (Deuteronomi 27:12-13)"
+    },
+    {
+      "pregunta": "Quin dels germans de Josep va suggerir vendre'l als ismaelites?",
+      "opcions": [
+        "A) Rubèn",
+        "B) Simeó",
+        "C) Leví",
+        "D) Judà"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Va ser Judà qui va proposar: 'Quin profit traurem de matar el nostre germà? [...] Veniu, venguem-lo'. (Gènesi 37:26-27)"
+    },
+    {
+      "pregunta": "Quantes ciutats de refugi es van establir a Israel?",
+      "opcions": [
+        "A) Tres",
+        "B) Sis",
+        "C) Set",
+        "D) Dotze"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Déu va manar establir sis ciutats de refugi on qui cometés homicidi involuntari podia fugir del venjador de la sang. (Nombres 35:13-14)"
+    },
+    {
+      "pregunta": "Qui va ser el jutge d'Israel que va ser expulsat pels seus germanastres?",
+      "opcions": [
+        "A) Gedeó",
+        "B) Jeftè",
+        "C) Ibsan",
+        "D) Elon"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jeftè era fill d'una prostituta, i els seus germanastres el van expulsar. Més tard, li van demanar que tornés per liderar-los. (Jutges 11:1-7)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Boaz?",
+      "opcions": [
+        "A) Obed",
+        "B) Jessè",
+        "C) Salmon",
+        "D) Naasson"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Salmon va ser el pare de Boaz (la seva mare va ser Rahab). Salmon era fill de Naasson, príncep de Judà. (Mateu 1:5, Rut 4:21)"
+    },
+    {
+      "pregunta": "Quin dels fills de Noè és l'avantpassat de les nacions semítiques?",
+      "opcions": [
+        "A) Sem",
+        "B) Cam",
+        "C) Jàfet",
+        "D) Canaan"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La genealogia de Gènesi 10 i 11 traça el llinatge d'Abraham a través de Sem, fill de Noè. (Gènesi 11:10-26)"
+    },
+    {
+      "pregunta": "Quin era el nom del rei de Moab que va contractar Balaam per maleir Israel?",
+      "opcions": [
+        "A) Eglon",
+        "B) Sehón",
+        "C) Og",
+        "D) Balac"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Balac, fill de Sipor, rei de Moab, va enviar a buscar l'endeví Balaam per maleir Israel. (Nombres 22:2-5)"
+    },
+    {
+      "pregunta": "Quina de les esglésies de l'Apocalipsi és descrita com 'ni freda ni calenta'?",
+      "opcions": [
+        "A) Efes",
+        "B) Esmirna",
+        "C) Pèrgam",
+        "D) Laodicea"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Jesús retreu a l'església de Laodicea la seva tebior espiritual: 'Tant de bo fossis fred o calent! Però com que ets tebi, estic a punt de vomitar-te'. (Apocalipsi 3:15-16)"
+    },
+    {
+      "pregunta": "Quin era el nom del servent per a qui Pau va escriure l'epístola a Filemó?",
+      "opcions": [
+        "A) El nom del servent no és Filemó",
+        "B) Onèsim",
+        "C) Arquip",
+        "D) Epafras"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "L'epístola està dirigida a Filemó, l'amo. El nom del servent fugitiu, per qui Pau intercedeix, és Onèsim. (Filemó 1:10)"
+    },
+    {
+      "pregunta": "Quants anys va durar la fam en temps d'Elies, segons el Nou Testament?",
+      "opcions": [
+        "A) Un any",
+        "B) Dos anys",
+        "C) Tres anys i sis mesos",
+        "D) Set anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Encara que 1 Reis no és tan específic, Lluc 4:25 i Jaume 5:17 concreten que la sequera en temps d'Elies va durar tres anys i mig."
+    },
+    {
+      "pregunta": "Quin era el nom del germà de Míriam i Aaron?",
+      "opcions": [
+        "A) Moisès",
+        "B) Leví",
+        "C) Amram",
+        "D) Eliazar"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Moisès, Aaron i Míriam eren els tres fills d'Amram i Joquèbed, de la tribu de Leví. (Nombres 26:59)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare d'Herodias, la dona que va demanar el cap de Joan Baptista?",
+      "opcions": [
+        "A) Herodes el Gran",
+        "B) Aristòbul IV",
+        "C) Herodes Filip I",
+        "D) Herodes Antipas"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Herodias era filla d'Aristòbul IV, un dels fills d'Herodes el Gran. Era neboda dels seus marits Herodes Filip i Herodes Antipas."
+    },
+    {
+      "pregunta": "Quin va ser el nom de l'home que va ajudar a portar la creu de Jesús?",
+      "opcions": [
+        "A) Josep d'Arimatea",
+        "B) Nicodem",
+        "C) Simó de Cirene",
+        "D) Un soldat romà"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Els soldats van obligar un home que passava, Simó de Cirene, a portar la creu de Jesús. (Marc 15:21)"
+    },
+    {
+      "pregunta": "Quina era la professió de Nehemies a la cort del rei Artaxerxes?",
+      "opcions": [
+        "A) Escriba",
+        "B) General de l'exèrcit",
+        "C) Coper del rei",
+        "D) Conseller reial"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Nehemies servia com a coper del rei Artaxerxes, una posició de gran confiança. (Nehemies 1:11)"
+    },
+    {
+      "pregunta": "Qui va ser el profeta que va veure una visió de quatre carros sortint d'entre dues muntanyes de bronze?",
+      "opcions": [
+        "A) Daniel",
+        "B) Ezequiel",
+        "C) Zacaries",
+        "D) Joan"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En la vuitena visió nocturna de Zacaries, va veure quatre carros tirats per cavalls de diferents colors. (Zacaries 6:1-8)"
+    },
+    {
+      "pregunta": "Quina és la primera ciutat esmentada a la Bíblia com a construïda?",
+      "opcions": [
+        "A) Jerusalem",
+        "B) Babel",
+        "C) Nínive",
+        "D) Enoc"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Caín va construir una ciutat i li va posar el nom del seu fill, Enoc. (Gènesi 4:17)"
+    },
+    {
+      "pregunta": "Quin dels apòstols era de Canà de Galilea?",
+      "opcions": [
+        "A) Felip",
+        "B) Bartomeu (Natanael)",
+        "C) Andreu",
+        "D) Mateu"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Joan 21:2 especifica que Natanael era de Canà de Galilea."
+    },
+    {
+      "pregunta": "Quants graons hi havia per pujar al porxo del temple d'Ezequiel en la seva visió?",
+      "opcions": [
+        "A) Set graons",
+        "B) Vuit graons",
+        "C) Deu graons",
+        "D) Dotze graons"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "En la visió del temple futur, Ezequiel descriu que es pujava al pati interior per vuit graons. (Ezequiel 40:31, 34, 37)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare del jutge Samsó?",
+      "opcions": [
+        "A) Elcanà",
+        "B) Manóah",
+        "C) Abimèlec",
+        "D) Jessè"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Un àngel es va aparèixer a la dona de Manóah i li va anunciar que tindria un fill, Samsó. (Jutges 13:2-3)"
+    },
+    {
+      "pregunta": "Quin animal va utilitzar Samsó per cremar els camps dels filisteus?",
+      "opcions": [
+        "A) Ovelles",
+        "B) Camells",
+        "C) Guineus",
+        "D) Ases"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Samsó va caçar tres-centes guineus, les va lligar cua amb cua amb torxes i les va deixar anar pels camps dels filisteus. (Jutges 15:4-5)"
+    },
+    {
+      "pregunta": "Quina és l'única paràbola que nomena un dels seus personatges?",
+      "opcions": [
+        "A) El fill pròdig",
+        "B) El bon samarità",
+        "C) L'home ric i Llàtzer",
+        "D) El sembrador"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "És l'única paràbola on Jesús dona un nom propi a un dels personatges, el pobre captaire Llàtzer. (Lluc 16:19-31)"
+    },
+    {
+      "pregunta": "Quants anys tenia Joaquim quan va començar a regnar a Judà?",
+      "opcions": [
+        "A) 8",
+        "B) 18",
+        "C) 25",
+        "D) 36"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Joaquim tenia divuit anys quan va començar a regnar, i va regnar només tres mesos abans de ser deportat. (2 Reis 24:8)"
+    },
+    {
+      "pregunta": "Quin era el nom del fill d'Absalom que va erigir un monument per al seu pare?",
+      "opcions": [
+        "A) No va tenir fills",
+        "B) Tamar",
+        "C) La Bíblia no especifica el nom",
+        "D) El mateix Absalom va erigir el monument"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Com que els seus fills havien mort, Absalom es va erigir en vida un pilar a la Vall del Rei. (2 Samuel 18:18)"
+    },
+    {
+      "pregunta": "Quin llibre de la Bíblia esmenta l'instrument musical anomenat 'sacabutx'?",
+      "opcions": [
+        "A) Salms",
+        "B) 1 Cròniques",
+        "C) Daniel",
+        "D) Nehemies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El sacabutx s'esmenta diverses vegades en Daniel 3 com un dels instruments de l'orquestra de Nabucodonosor."
+    },
+    {
+      "pregunta": "Qui va ser el rei d'Israel que va regnar només set dies a Tirsà?",
+      "opcions": [
+        "A) Elà",
+        "B) Zimrí",
+        "C) Omrí",
+        "D) Tibní"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Zimrí va assassinar el rei Elà, però l'exèrcit va nomenar Omrí. Zimrí va calar foc al palau i va morir després de regnar set dies. (1 Reis 16:15-18)"
+    },
+    {
+      "pregunta": "Quin profeta va ser contemporani d'Osees i Isaïes al Regne del Sud (Judà)?",
+      "opcions": [
+        "A) Amós",
+        "B) Joel",
+        "C) Miquees",
+        "D) Nahum"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre de Miquees comença dient que va profetitzar 'en temps de Jotam, Acaz i Ezequies, reis de Judà'. (Miquees 1:1)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Rahab?",
+      "opcions": [
+        "A) El seu nom no s'esmenta",
+        "B) Salmon",
+        "C) Naasson",
+        "D) Aminadab"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "La Bíblia no anomena el pare de Rahab. Ella és identificada per la seva professió i la seva ciutat. (Josuè 2:1)"
+    },
+    {
+      "pregunta": "Quants membres del Sanedrí (consell jueu) hi havia?",
+      "opcions": [
+        "A) 50",
+        "B) 60",
+        "C) 70",
+        "D) 71"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El Gran Sanedrí estava format per 70 membres més el Summe Sacerdot, que actuava com a president, sumant un total de 71."
+    },
+    {
+      "pregunta": "Qui va ser el successor del rei Roboam al tron de Judà?",
+      "opcions": [
+        "A) Asà",
+        "B) Josafat",
+        "C) Abiam (Abies)",
+        "D) Nadab"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després de la mort de Roboam, el seu fill Abiam (anomenat Abies a Cròniques) va regnar en el seu lloc. (1 Reis 14:31)"
+    },
+    {
+      "pregunta": "Quantes costelles tenia l'os de la segona bèstia en la visió de Daniel 7?",
+      "opcions": [
+        "A) Dues",
+        "B) Tres",
+        "C) Quatre",
+        "D) Set"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La segona bèstia, semblant a un os, tenia tres costelles a la boca, entre les dents. (Daniel 7:5)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Betsabé?",
+      "opcions": [
+        "A) Ahitófel",
+        "B) Eliam",
+        "C) Uries",
+        "D) Amiel"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Betsabé és identificada com a 'filla d'Eliam' i 'dona d'Uries l'hitita'. (2 Samuel 11:3)"
+    },
+    {
+      "pregunta": "Qui va ser el procurador romà de Judea que va succeir Ponç Pilat?",
+      "opcions": [
+        "A) Fèlix",
+        "B) Fest",
+        "C) Marcel",
+        "D) Fadus"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Segons l'historiador Flavi Josep, Marcel va ser el successor directe de Pilat, encara que el seu mandat va ser breu."
+    },
+    {
+      "pregunta": "Quin llibre bíblic esmenta 'bous salvatges' (traduït com 'unicorns' en versions antigues)?",
+      "opcions": [
+        "A) Gènesi",
+        "B) Job",
+        "C) Salms",
+        "D) Isaïes"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La paraula hebrea 're'em' (bou salvatge) es troba a Job 39:9-10. Algunes traduccions antigues van utilitzar 'unicorn'."
+    },
+    {
+      "pregunta": "Quants anys va regnar el rei David des de Jerusalem?",
+      "opcions": [
+        "A) 7 anys",
+        "B) 30 anys",
+        "C) 33 anys",
+        "D) 40 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "David va regnar 7 anys a Hebron sobre Judà, i 33 anys a Jerusalem sobre tot Israel i Judà. (2 Samuel 5:5)"
+    },
+    {
+      "pregunta": "Quin és el capítol central de la Bíblia?",
+      "opcions": [
+        "A) Salm 100",
+        "B) Salm 117",
+        "C) Salm 118",
+        "D) Salm 119"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El Salm 117 és el capítol més curt de la Bíblia i, en la majoria de les edicions protestants, es troba al centre exacte del text bíblic."
+    },
+    {
+      "pregunta": "Com es deia el fill del rei Ezequies, conegut per ser un dels reis més malvats de Judà?",
+      "opcions": [
+        "A) Amon",
+        "B) Josies",
+        "C) Manassès",
+        "D) Joaquim"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Manassès, fill d'Ezequies, va desfer totes les reformes del seu pare i va promoure la idolatria. (2 Reis 21)"
+    },
+    {
+      "pregunta": "Quins noms rep el sogre de Moisès a la Bíblia?",
+      "opcions": [
+        "A) Jetró i Hobab",
+        "B) Reuel i Jetró",
+        "C) Jetró, Reuel i Hobab",
+        "D) Només Jetró"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El sogre de Moisès és anomenat amb aquests tres noms en diferents passatges (Èxode 3:1, Èxode 2:18, Nombres 10:29)."
+    },
+    {
+      "pregunta": "Quin era el nom de la mare del rei Salomó?",
+      "opcions": [
+        "A) Abigail",
+        "B) Mical",
+        "C) Betsabé",
+        "D) Haguit"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Salomó va ser el fill de David i Betsabé, la dona d'Uries l'hitita. (2 Samuel 12:24)"
+    },
+    {
+      "pregunta": "Quin és el nom del primer fill de Lia i Jacob?",
+      "opcions": [
+        "A) Simeó",
+        "B) Leví",
+        "C) Judà",
+        "D) Rubèn"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Déu va veure que Lia era menyspreada i li va obrir el si. Va donar a llum un fill, i el va anomenar Rubèn. (Gènesi 29:31-32)"
+    },
+    {
+      "pregunta": "Qui era el 'metge estimat' que va acompanyar Pau?",
+      "opcions": [
+        "A) Demas",
+        "B) Epafrodit",
+        "C) Lluc",
+        "D) Aristarc"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En les seves salutacions finals, Pau esmenta 'Lluc, el metge estimat'. (Colossencs 4:14)"
+    },
+    {
+      "pregunta": "Quin dels llibres dels Profetes Menors és una queixa a Déu sobre la injustícia?",
+      "opcions": [
+        "A) Joel",
+        "B) Amós",
+        "C) Habacuc",
+        "D) Sofonies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre d'Habacuc té la forma d'un diàleg on el profeta es queixa a Déu per la seva aparent inacció davant la maldat."
+    },
+    {
+      "pregunta": "Qui va ser el rei que va intentar matar el nen Jesús?",
+      "opcions": [
+        "A) Herodes Antipas",
+        "B) Herodes el Gran",
+        "C) Cèsar August",
+        "D) Herodes Filip"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Herodes el Gran va ordenar la matança dels nens de Betlem en un intent d'eliminar el 'rei dels jueus' nounat. (Mateu 2)"
+    },
+    {
+      "pregunta": "Quina edat tenia Josuè quan va morir?",
+      "opcions": [
+        "A) 100 anys",
+        "B) 110 anys",
+        "C) 120 anys",
+        "D) 140 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Josuè, servent del Senyor, va morir a l'edat de cent deu anys. (Josuè 24:29)"
+    },
+    {
+      "pregunta": "Quin dels amics de Daniel es deia originalment Hananies?",
+      "opcions": [
+        "A) Sadrac",
+        "B) Mesac",
+        "C) Abed-Negó",
+        "D) Beltsassar"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "El cap dels funcionaris va posar noms nous als amics de Daniel: a Hananies li va posar Sadrac. (Daniel 1:7)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill de Jonatan que David va acollir?",
+      "opcions": [
+        "A) Isbóixet",
+        "B) Mefibóixet",
+        "C) Micà",
+        "D) Abner"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "En compliment de la seva promesa a Jonatan, David va buscar Mefibóixet, fill de Jonatan, que era coix. (2 Samuel 9)"
+    },
+    {
+      "pregunta": "Quin dels set diaques va ser el primer màrtir cristià?",
+      "opcions": [
+        "A) Felip",
+        "B) Pròcor",
+        "C) Nicanor",
+        "D) Esteve"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Esteve, un home ple de fe i de l'Esperit Sant, va ser apedregat fins a la mort, convertint-se en el primer màrtir. (Fets 7)"
+    },
+    {
+      "pregunta": "Quin dels reis de Judà va ser assassinat pels seus propis servents al llit?",
+      "opcions": [
+        "A) Amon",
+        "B) Joàs",
+        "C) Amasies",
+        "D) Totes les anteriors"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Tant Joàs (2 Reis 12:20-21) com el seu fill Amasies (2 Reis 14:19) i el seu nét Amon (2 Reis 21:23) van morir a mans de conspiradors."
+    },
+    {
+      "pregunta": "Quin era el nom de la ciutat on Abraham va enterrar la seva dona Sara?",
+      "opcions": [
+        "A) Jerusalem",
+        "B) Betel",
+        "C) Hebron",
+        "D) Beerxeba"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Abraham va comprar la cova de Macpelà, prop de Mamre (Hebron), per utilitzar-la com a sepultura familiar. (Gènesi 23:19)"
+    },
+    {
+      "pregunta": "Quin era el nom de l'esclava egípcia de Sara?",
+      "opcions": [
+        "A) Zilpà",
+        "B) Bilhà",
+        "C) Agar",
+        "D) Tamar"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Agar era la serventa egípcia de Sara, qui la va donar a Abraham per tenir un fill, Ismael. (Gènesi 16:1)"
+    },
+    {
+      "pregunta": "Quina és la referència on Jesús diu 'Jo sóc la vinya veritable'?",
+      "opcions": [
+        "A) Joan 6:35",
+        "B) Joan 8:12",
+        "C) Joan 10:11",
+        "D) Joan 15:1"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Jesús utilitza la metàfora de la vinya per explicar la relació entre ell, el Pare i els deixebles. (Joan 15)"
+    },
+    {
+      "pregunta": "Qui va ser el primer fill de Raquel i Jacob?",
+      "opcions": [
+        "A) Dan",
+        "B) Neftalí",
+        "C) Josep",
+        "D) Benjamí"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després d'anys d'esterilitat, Déu es va recordar de Raquel i li va concedir un fill, a qui va anomenar Josep. (Gènesi 30:22-24)"
+    },
+    {
+      "pregunta": "Quants anys va durar la construcció del segon Temple sota Zorobabel?",
+      "opcions": [
+        "A) Aproximadament 4 anys",
+        "B) Aproximadament 10 anys",
+        "C) Aproximadament 20 anys",
+        "D) Aproximadament 46 anys"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La construcció va començar el 536 aC i va acabar el 516 aC. Amb la pausa, el període total abasta uns 20 anys. (Esdres 3-6)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del rei de Guèzer que va ser derrotat per Josuè?",
+      "opcions": [
+        "A) Jafia",
+        "B) Debir",
+        "C) Horam",
+        "D) Jabin"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Horam, rei de Guèzer, va pujar per ajudar Laquix, però Josuè el va derrotar. (Josuè 10:33)"
+    },
+    {
+      "pregunta": "Quina era la nacionalitat de la mare de Timoteu?",
+      "opcions": [
+        "A) Grega",
+        "B) Romana",
+        "C) Jueva",
+        "D) Samaritana"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Timoteu era fill d'una dona jueva creient (Eunice) i d'un pare grec. (Fets 16:1)"
+    },
+    {
+      "pregunta": "Quin és el nombre d'ancians que van veure Déu al mont Sinaí amb Moisès i Aaron?",
+      "opcions": [
+        "A) 12",
+        "B) 24",
+        "C) 50",
+        "D) 70"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Moisès va pujar amb Aaron, Nadab, Abihú i setanta dels ancians d'Israel, i van veure el Déu d'Israel. (Èxode 24:9-10)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Barac, el general de Dèbora?",
+      "opcions": [
+        "A) Abinoam",
+        "B) Lapidot",
+        "C) Anat",
+        "D) Hèber"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Dèbora va enviar a cridar Barac, fill d'Abinoam, de Quedeix de Neftalí. (Jutges 4:6)"
+    },
+    {
+      "pregunta": "Quantes finestres tenia l'arca de Noè?",
+      "opcions": [
+        "A) Una",
+        "B) Dues, una a cada costat",
+        "C) Una per cada pis",
+        "D) Dotze"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Déu va instruir a Noè: 'Faràs una obertura a l'arca per a la llum'. La paraula 'obertura' o 'finestra' és singular. (Gènesi 6:16)"
     }
   ],
   "nivell5": [
     {
       "pregunta": "Quin és el versicle més curt de la Bíblia en català?",
-      "opcions": ["A) 'Jesús va plorar'", "B) 'Déu és amor'", "C) 'Pregeu sempre'", "D) 'Estimeu-vos'"],
+      "opcions": [
+        "A) 'Jesús va plorar'",
+        "B) 'Déu és amor'",
+        "C) 'Pregeu sempre'",
+        "D) 'Estimeu-vos'"
+      ],
       "resposta_correcta": "A",
       "explicacio": "'Jesús va plorar' (Joan 11:35) és considerat el versicle més curt de la Bíblia."
     },
     {
       "pregunta": "Quants llibres té l'Antic Testament en la Bíblia protestant?",
-      "opcions": ["A) 37 llibres", "B) 39 llibres", "C) 41 llibres", "D) 43 llibres"],
+      "opcions": [
+        "A) 37 llibres",
+        "B) 39 llibres",
+        "C) 41 llibres",
+        "D) 43 llibres"
+      ],
       "resposta_correcta": "B",
       "explicacio": "L'Antic Testament de la Bíblia protestant conté 39 llibres."
     },
     {
-      "pregunta": "Quin profeta va profetitzar durant 70 anys?",
-      "opcions": ["A) Isaïes", "B) Jeremies", "C) Ezequiel", "D) Daniel"],
-      "resposta_correcta": "B",
-      "explicacio": "Jeremies va profetitzar durant aproximadament 40-50 anys, però les seves profecies abarcaven 70 anys de captivitat."
+      "pregunta": "Quin profeta va profetitzar la sequera de tres anys i mig?",
+      "opcions": [
+        "A) Isaïes",
+        "B) Jeremies",
+        "C) Elies",
+        "D) Eliseu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Elies va pregar fervorosament que no plogués, i no va ploure sobre la terra durant tres anys i sis mesos. (Jaume 5:17)"
     },
     {
       "pregunta": "Quina genealogia de Jesús es troba a l'evangeli de Lluc?",
-      "opcions": ["A) Des d'Abraham", "B) Des de David", "C) Des d'Adam", "D) Des de Moisès"],
+      "opcions": [
+        "A) Des d'Abraham",
+        "B) Des de David",
+        "C) Des d'Adam",
+        "D) Des de Moisès"
+      ],
       "resposta_correcta": "C",
-      "explicacio": "L'evangeli de Lluc traça la genealogia de Jesús fins a Adam. (Lluc 3:23-38)"
+      "explicacio": "L'evangeli de Lluc traça la genealogia de Jesús fins a Adam, emfatitzant la seva connexió amb tota la humanitat. (Lluc 3:23-38)"
     },
     {
-      "pregunta": "Quants 'Ay!' hi ha al llibre d'Isaïes capítol 5?",
-      "opcions": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "pregunta": "Quants 'Ai!' hi ha al llibre d'Isaïes capítol 5?",
+      "opcions": [
+        "A) 4",
+        "B) 5",
+        "C) 6",
+        "D) 7"
+      ],
       "resposta_correcta": "C",
-      "explicacio": "Hi ha sis 'Ay!' al capítol 5 d'Isaïes, dirigits contra diverses injustícies. (Isaïes 5:8-23)"
+      "explicacio": "Hi ha sis 'Ai!' al capítol 5 d'Isaïes, dirigits contra diverses injustícies socials i espirituals. (Isaïes 5:8, 11, 18, 20, 21, 22)"
     },
     {
       "pregunta": "Quin era el nom de la filla de Faraó que va trobar Moisès?",
-      "opcions": ["A) Termutis", "B) Bitia", "C) No es menciona", "D) Hatshepsut"],
+      "opcions": [
+        "A) Termutis",
+        "B) Bitia",
+        "C) No es menciona",
+        "D) Hatshepsut"
+      ],
       "resposta_correcta": "C",
       "explicacio": "La Bíblia no menciona el nom de la filla de Faraó que va trobar Moisès. (Èxode 2:5-10)"
+    },
+    {
+      "pregunta": "Qui era el 'germà del Senyor' que va liderar l'església de Jerusalem?",
+      "opcions": [
+        "A) Jaume, fill de Zebedeu",
+        "B) Jaume, fill d'Alfeu",
+        "C) Jaume, el Just",
+        "D) Judes (Tadeu)"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jaume, el germà de Jesús, anomenat 'el Just', es va convertir en el líder principal de l'església de Jerusalem. (Gàlates 1:19, Fets 15:13)"
+    },
+    {
+      "pregunta": "Quin és el nom del pare de Simó Pere?",
+      "opcions": [
+        "A) Zebedeu",
+        "B) Alfeu",
+        "C) Jonàs (o Joan)",
+        "D) Timeu"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús es refereix a ell com 'Simó, fill de Jonàs' (Mateu 16:17) i l'Evangeli de Joan l'anomena 'Simó, fill de Joan' (Joan 1:42)."
+    },
+    {
+      "pregunta": "Quin va ser el pes del cap de la llança de Goliat?",
+      "opcions": [
+        "A) 300 sicles de bronze",
+        "B) 600 sicles de ferro",
+        "C) 1000 sicles de ferro",
+        "D) No s'especifica"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La punta de ferro de la seva llança pesava sis-cents sicles, aproximadament 6,8 kg. (1 Samuel 17:7)"
+    },
+    {
+      "pregunta": "Quin és el nom de la dona de Pilat, que va tenir un somni sobre Jesús?",
+      "opcions": [
+        "A) El seu nom no s'esmenta a la Bíblia",
+        "B) Clàudia Pròcula",
+        "C) Júnia",
+        "D) Lídia"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Mateu 27:19 esmenta que la dona de Pilat li va enviar un missatge, però no en diu el nom. El nom Clàudia Pròcula prové de la tradició posterior."
+    },
+    {
+      "pregunta": "Quin és l'únic llibre de la Bíblia que acaba amb una pregunta?",
+      "opcions": [
+        "A) Nahum",
+        "B) Habacuc",
+        "C) Jonàs",
+        "D) Malaquies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre de Jonàs conclou amb la pregunta retòrica de Déu sobre la seva compassió per Nínive. (Jonàs 4:11)"
+    },
+    {
+      "pregunta": "Qui era el pare de Matusalem?",
+      "opcions": [
+        "A) Jared",
+        "B) Lamec",
+        "C) Noè",
+        "D) Enoc"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Enoc va viure seixanta-cinc anys, i va engendrar Matusalem. Enoc va caminar amb Déu i no va morir. (Gènesi 5:21-24)"
+    },
+    {
+      "pregunta": "Quins dos llibres de l'Antic Testament protestant porten nom de dona?",
+      "opcions": [
+        "A) Rut i Judit",
+        "B) Ester i Dèbora",
+        "C) Rut i Ester",
+        "D) Ester i Jael"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En el cànon protestant, només els llibres de Rut i Ester porten noms de dones com a títol i personatges principals."
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill d'Adam i Eva nascut després de la mort d'Abel?",
+      "opcions": [
+        "A) Enós",
+        "B) Quenan",
+        "C) Set",
+        "D) Jared"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Eva va donar a llum un fill i li va posar el nom de Set, dient: 'Déu m'ha donat un altre descendent en lloc d'Abel'. (Gènesi 4:25)"
+    },
+    {
+      "pregunta": "Quants capítols tenen conjuntament els llibres d'Ageu i Abdies?",
+      "opcions": [
+        "A) Dos",
+        "B) Tres",
+        "C) Quatre",
+        "D) Cinc"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El llibre d'Ageu té dos capítols i el d'Abdies en té un, sumant un total de tres capítols."
+    },
+    {
+      "pregunta": "Qui era el rei de Salem que va beneir Abraham?",
+      "opcions": [
+        "A) Abimèlec",
+        "B) Melquisedec",
+        "C) Adonisedec",
+        "D) Faraó"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Melquisedec, rei de Salem i sacerdot del Déu Altíssim, va beneir Abraham després de la seva victòria. (Gènesi 14:18-20)"
+    },
+    {
+      "pregunta": "Quants nivells o pisos tenia l'arca de Noè?",
+      "opcions": [
+        "A) Un",
+        "B) Dos",
+        "C) Tres",
+        "D) Quatre"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va instruir a Noè: 'La faràs amb un pis de sota, un segon i un tercer'. (Gènesi 6:16)"
+    },
+    {
+      "pregunta": "Qui va ser el pare de les dues esposes de Jacob, Lia i Raquel?",
+      "opcions": [
+        "A) Betuel",
+        "B) Nahor",
+        "C) Laban",
+        "D) Haran"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Laban, l'arameu, fill de Betuel i germà de Rebeca, era el pare de Lia i Raquel. (Gènesi 29:16)"
+    },
+    {
+      "pregunta": "Quin dels llibres sapiencials és considerat un diàleg dramàtic?",
+      "opcions": [
+        "A) Proverbis",
+        "B) Eclesiastès",
+        "C) Càntic dels Càntics",
+        "D) Job"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El llibre de Job està estructurat com un drama poètic, amb diàlegs entre Job, els seus amics, Elihú i Déu."
+    },
+    {
+      "pregunta": "Quin era el nom del riu on el profeta Ezequiel va tenir les seves visions?",
+      "opcions": [
+        "A) Eufrates",
+        "B) Tigris",
+        "C) Jordà",
+        "D) Quebar"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Ezequiel estava entre els exiliats a la vora del riu Quebar, a Babilònia, quan va rebre les seves visions. (Ezequiel 1:1-3)"
+    },
+    {
+      "pregunta": "Quina edat tenia el rei Joàs de Judà quan va començar a regnar?",
+      "opcions": [
+        "A) Set anys",
+        "B) Vuit anys",
+        "C) Dotze anys",
+        "D) Setze anys"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Després d'estar amagat sis anys, el sacerdot Jehoiadà va coronar Joàs quan tenia set anys. (2 Reis 11:21)"
+    },
+    {
+      "pregunta": "Quin dels dotze apòstols es coneix amb tres noms a la Bíblia?",
+      "opcions": [
+        "A) Mateu (Leví)",
+        "B) Pere (Simó, Cefas)",
+        "C) Judes (Tadeu, Lebeu)",
+        "D) Joan (Boanerges)"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Aquest deixeble és anomenat Judes, fill de Jaume (Lluc 6:16), Lebeu, de sobrenom Tadeu (Mateu 10:3), i simplement Tadeu (Marc 3:18)."
+    },
+    {
+      "pregunta": "Quin és l'únic llibre de la Bíblia escrit per un rei no israelita?",
+      "opcions": [
+        "A) Part de Daniel",
+        "B) Part d'Esdres",
+        "C) Proverbis 31",
+        "D) Cap"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Proverbis 31 comença amb 'Paraules del rei Lemuel'. Lemuel és un nom no hebreu, i la tradició el considera un rei no israelita."
+    },
+    {
+      "pregunta": "Quin era el nom de la filla única de Jeftè?",
+      "opcions": [
+        "A) El seu nom no s'esmenta a la Bíblia",
+        "B) Seforà",
+        "C) Jemima",
+        "D) Quetsia"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "El relat de Jutges 11 parla tràgicament d'ella com 'la seva única filla', però en cap moment s'especifica el seu nom."
+    },
+    {
+      "pregunta": "Quants homes esquerrans i experts amb la fona hi havia a la tribu de Benjamí?",
+      "opcions": [
+        "A) 500",
+        "B) 600",
+        "C) 700",
+        "D) 1000"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "De la tribu de Benjamí, hi havia set-cents homes selectes, esquerrans, cadascun dels quals podia llançar una pedra amb la fona a un cabell sense errar. (Jutges 20:16)"
+    },
+    {
+      "pregunta": "Quin és el nom del fill de Sem, avantpassat dels hebreus?",
+      "opcions": [
+        "A) Elam",
+        "B) Assur",
+        "C) Arfaxad",
+        "D) Èber"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "El nom 'hebreu' es deriva etimològicament d'Èber, fill de Xèlah i besnét de Sem. (Gènesi 10:21)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill de Gedeó que va sobreviure a la massacre d'Abimèlec?",
+      "opcions": [
+        "A) Abiezer",
+        "B) Jotam",
+        "C) Ofra",
+        "D) Cap va sobreviure"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Jotam, el fill més jove de Gedeó, es va amagar i va escapar de la matança dels seus 69 germans per part d'Abimèlec. (Jutges 9:5)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del servent del gran sacerdot a qui Pere va tallar l'orella?",
+      "opcions": [
+        "A) Barjesús",
+        "B) Malcus",
+        "C) Alexandre",
+        "D) Rufus"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "L'Evangeli de Joan és l'únic que especifica el nom del servent: 'El servent del gran sacerdot es deia Malcus'. (Joan 18:10)"
+    },
+    {
+      "pregunta": "Quants animals nets de cada espècie va manar Déu a Noè que entrés a l'arca?",
+      "opcions": [
+        "A) Dues parelles (quatre)",
+        "B) Tres parelles (sis)",
+        "C) Set i set",
+        "D) Una parella (dos)"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Gènesi 7:2-3 especifica: 'De tot animal pur, en prendràs set i set, mascle i la seva femella'. Dels impurs, només una parella."
+    },
+    {
+      "pregunta": "Quin és el nom del llibre perdut que s'esmenta en el llibre de Josuè i 2 Samuel?",
+      "opcions": [
+        "A) El Llibre d'Enoc",
+        "B) El Llibre de Jàixer",
+        "C) El Llibre dels Jubileus",
+        "D) El Llibre de les Guerres del Senyor"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Tant a Josuè 10:13 com a 2 Samuel 1:18, es fa referència a aquest llibre perdut anomenat Llibre de Jàixer ('el Recte')."
+    },
+    {
+      "pregunta": "Quin era el nom del besavi del rei Saül?",
+      "opcions": [
+        "A) Afíah",
+        "B) Becorat",
+        "C) Seror",
+        "D) Abiel"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "La genealogia a 1 Samuel 9:1 traça el llinatge de Saül: fill de Quis, fill d'Abiel."
+    },
+    {
+      "pregunta": "Qui era Publi, mencionat en el llibre dels Fets?",
+      "opcions": [
+        "A) El centurió que custodiava Pau",
+        "B) L'home principal de l'illa de Malta",
+        "C) Un creient de Roma",
+        "D) El governador de Xipre"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Publi era el principal funcionari romà a Malta. Pau va guarir el pare de Publi de febre i disentèria. (Fets 28:7-8)"
+    },
+    {
+      "pregunta": "Quin dels profetes menors conté exactament 3 capítols?",
+      "opcions": [
+        "A) Joel",
+        "B) Nahum",
+        "C) Habacuc",
+        "D) Totes les anteriors"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Tant Joel com Nahum i Habacuc són llibres profètics que consten de tres capítols cadascun."
+    },
+    {
+      "pregunta": "Quina era la professió de Simó, a la casa del qual Pere s'allotjava a Jafa?",
+      "opcions": [
+        "A) Pescador",
+        "B) Fuster",
+        "C) Adobador de pells",
+        "D) Recaptador d'impostos"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Pere es va allotjar a casa d'un cert Simó, que era adobador, una professió considerada impura pels jueus. (Fets 9:43)"
+    },
+    {
+      "pregunta": "Quin és el nom del nebot de Caleb que va conquerir Quiriat-Sèfer?",
+      "opcions": [
+        "A) Jehunne",
+        "B) Otniel",
+        "C) Xelà",
+        "D) Irad"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Otniel, fill del germà petit de Caleb, la va conquerir i es va casar amb la seva filla Acsà. Otniel va ser el primer jutge d'Israel. (Josuè 15:16-17)"
+    },
+    {
+      "pregunta": "Quin és el nom de l'única dona de la qual s'esmenta l'edat en morir a la Bíblia?",
+      "opcions": [
+        "A) Eva",
+        "B) Sara",
+        "C) Rebeca",
+        "D) Maria"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Gènesi 23:1 diu explícitament: 'Sara va viure cent vint-i-set anys'. És un detall únic a les Escriptures."
+    },
+    {
+      "pregunta": "Quin és el nom del riu d'Etiòpia mencionat en el segon capítol del Gènesi?",
+      "opcions": [
+        "A) Pixon",
+        "B) Guihon",
+        "C) Tigris",
+        "D) Eufrates"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El nom del segon riu que sortia de l'Edèn era Guihon; és el que envolta tota la terra de Cuix (Etiòpia). (Gènesi 2:13)"
+    },
+    {
+      "pregunta": "Quants porxos tenia l'estany de Betesda?",
+      "opcions": [
+        "A) Dos",
+        "B) Tres",
+        "C) Quatre",
+        "D) Cinc"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "A Jerusalem, prop de la porta de les Ovelles, hi havia un estany, anomenat Betesda, que tenia cinc porxos. (Joan 5:2)"
+    },
+    {
+      "pregunta": "Quina parella, esmentada per Pau, 'va arriscar el seu coll' per la seva vida?",
+      "opcions": [
+        "A) Andrònic i Júnia",
+        "B) Àquila i Priscil·la",
+        "C) Filemó i Àpia",
+        "D) Urbà i Estaquis"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "A Romans 16:3-4, Pau saluda Priscil·la i Àquila, dient que 'per la meva vida van exposar el seu propi coll'."
+    },
+    {
+      "pregunta": "Quin dels apòstols va preguntar a Jesús: 'Senyor, mostra'ns el Pare'?",
+      "opcions": [
+        "A) Tomàs",
+        "B) Felip",
+        "C) Andreu",
+        "D) Judes (no l'Iscariot)"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Durant l'últim sopar, després que Jesús digués que qui l'ha vist a ell ha vist el Pare, Felip li va fer aquesta petició. (Joan 14:8)"
+    },
+    {
+      "pregunta": "Quin era el nom del germà d'Abraham que va ser pare de Lot?",
+      "opcions": [
+        "A) Nahor",
+        "B) Haran",
+        "C) Tèrah",
+        "D) No s'esmenta"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Tèrah va ser el pare d'Abram, Nahor i Haran. Haran va ser el pare de Lot, per la qual cosa Lot era el nebot d'Abraham. (Gènesi 11:27)"
+    },
+    {
+      "pregunta": "Quin era el nom de la mare del rei Roboam, fill de Salomó?",
+      "opcions": [
+        "A) Betsabé",
+        "B) Una princesa egípcia",
+        "C) Naamà l'ammonita",
+        "D) Maacà"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La mare de Roboam era Naamà, una dona ammonita, una de les dones estrangeres de Salomó. (1 Reis 14:21)"
+    },
+    {
+      "pregunta": "En quin any del regnat del rei Josies es va trobar el Llibre de la Llei?",
+      "opcions": [
+        "A) L'any 8",
+        "B) L'any 12",
+        "C) L'any 18",
+        "D) L'any 26"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Va ser en el divuitè any del seu regnat que Josies va ordenar les reparacions del Temple, durant les quals es va trobar el llibre. (2 Reis 22:3, 8)"
+    },
+    {
+      "pregunta": "Quin dels profetes menors acaba amb una promesa sobre Elies?",
+      "opcions": [
+        "A) Zacaries",
+        "B) Ageu",
+        "C) Joel",
+        "D) Malaquies"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Malaquies, i per tant l'Antic Testament cristià, conclou amb la promesa: 'Us enviaré el profeta Elies abans que vingui el dia del Senyor'. (Malaquies 4:5)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill de Caleb i la seva concubina Efa?",
+      "opcions": [
+        "A) Haran",
+        "B) Messa",
+        "C) Gazez",
+        "D) Tots són correctes"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "La genealogia de 1 Cròniques 2:46 esmenta que la concubina de Caleb, Efa, va donar a llum Haran, Mossa i Gazez."
+    },
+    {
+      "pregunta": "Qui eren Elidad i Medad?",
+      "opcions": [
+        "A) Dos espies enviats per Josuè",
+        "B) Dos dels setanta ancians que van profetitzar al campament",
+        "C) Dos fills de Corè que es van rebel·lar",
+        "D) Dos artesans del Tabernacle"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Quan l'Esperit va reposar sobre els 70 ancians, Elidad i Medad, que s'havien quedat al campament, també van començar a profetitzar. (Nombres 11:26-27)"
+    },
+    {
+      "pregunta": "Quin és el nom del déu de la fortuna que Isaïes condemna Israel per adorar?",
+      "opcions": [
+        "A) Gad",
+        "B) Mení",
+        "C) Nebo",
+        "D) Totes dues, A i B"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "A Isaïes 65:11, el profeta acusa el poble de parar taula a Gad (la Fortuna) i omplir copes per a Mení (el Destí)."
+    },
+    {
+      "pregunta": "Quants dies va dejunar la reina Ester abans d'anar a veure el rei?",
+      "opcions": [
+        "A) Un dia",
+        "B) Tres dies",
+        "C) Set dies",
+        "D) Quaranta dies"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Ester va demanar a Mardoqueu que reunís els jueus de Susa per dejunar amb ella durant tres dies i tres nits. (Ester 4:16)"
+    },
+    {
+      "pregunta": "Quin va ser el nom de la primera filla de Job, nascuda després de la seva restauració?",
+      "opcions": [
+        "A) Quèren-Hapuc",
+        "B) Quèssia",
+        "C) Jemima",
+        "D) No s'esmenta"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després de la seva prova, Job va tenir tres filles. A la primera li va posar Jemima. (Job 42:14)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de Gedeó?",
+      "opcions": [
+        "A) Abiezer",
+        "B) Joàs",
+        "C) Purà",
+        "D) Hèfer"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Gedeó era fill de Joàs, l'abiezrita. Joàs inicialment tenia un altar a Baal. (Jutges 6:11, 25-27)"
+    },
+    {
+      "pregunta": "Quin apòstol va ser mossegat per un escurçó a Malta sense patir cap mal?",
+      "opcions": [
+        "A) Pere",
+        "B) Joan",
+        "C) Lluc",
+        "D) Pau"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Mentre recollia llenya, un escurçó es va enganxar a la mà de Pau. Els illencs esperaven que morís, però no li va passar res. (Fets 28:3-6)"
+    },
+    {
+      "pregunta": "Quin era el nom del gegant amb sis dits a cada mà i a cada peu?",
+      "opcions": [
+        "A) Lahmí",
+        "B) Isbí-Benob",
+        "C) Un home de nom no especificat",
+        "D) Saf"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "A Gat, un home de gran alçada tenia sis dits a cada mà i a cada peu. Va ser mort per Jonatan, nebot de David. (2 Samuel 21:20-21)"
+    },
+    {
+      "pregunta": "Quin és el nom del llibre que narra la divisió del regne d'Israel?",
+      "opcions": [
+        "A) 2 Samuel",
+        "B) 1 Reis",
+        "C) 1 Cròniques",
+        "D) 2 Cròniques"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El llibre de 1 Reis narra la fi del regnat de David, el regnat de Salomó i la divisió del regne sota Roboam i Jeroboam. (1 Reis 12)"
+    },
+    {
+      "pregunta": "Quina de les esglésies de l'Apocalipsi havia 'perdut el seu primer amor'?",
+      "opcions": [
+        "A) Esmirna",
+        "B) Pèrgam",
+        "C) Tiatira",
+        "D) Efes"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Jesús retreu a l'església d'Efes haver abandonat l'amor que tenien al principi. (Apocalipsi 2:4)"
+    },
+    {
+      "pregunta": "Quants capítols té el llibre més llarg de la Bíblia?",
+      "opcions": [
+        "A) 66",
+        "B) 119",
+        "C) 150",
+        "D) 52"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El llibre dels Salms, amb 150 salms/capítols, és el llibre més llarg de la Bíblia."
+    },
+    {
+      "pregunta": "Quin era el nom de la mare de Moisès?",
+      "opcions": [
+        "A) Elisabet",
+        "B) Míriam",
+        "C) Joquèbed",
+        "D) Sèfora"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Amram va prendre per muller Joquèbed, la seva tia. Ella li va donar Aaron i Moisès. (Èxode 6:20)"
+    },
+    {
+      "pregunta": "Quina és la referència del versicle més curt de l'Antic Testament (en hebreu)?",
+      "opcions": [
+        "A) Gènesi 1:1",
+        "B) Èxode 20:13",
+        "C) 1 Cròniques 1:25",
+        "D) Job 3:2"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "1 Cròniques 1:25, que diu 'Èber, Pèleg, Reú', consta de només tres paraules en hebreu, sent un dels candidats al versicle més curt."
+    },
+    {
+      "pregunta": "Qui va ser el rei de Judà que va contractar mercenaris d'Israel i un profeta li va dir que els acomiadés?",
+      "opcions": [
+        "A) Josafat",
+        "B) Amasies",
+        "C) Ozies",
+        "D) Jotam"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Amasies va llogar 100.000 soldats d'Israel, però un home de Déu el va advertir que no anés amb ells. Amasies els va acomiadar. (2 Cròniques 25:6-10)"
+    },
+    {
+      "pregunta": "Quin és el nom del dimoni que Jesús va expulsar a la regió dels gadarens?",
+      "opcions": [
+        "A) Belzebú",
+        "B) Satanàs",
+        "C) Legió",
+        "D) Abadon"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Quan Jesús li va preguntar el seu nom, el dimoni va respondre: 'El meu nom és Legió, perquè som molts'. (Marc 5:9)"
+    },
+    {
+      "pregunta": "Quin va ser el nom de l'orfebre que va causar un aldarull a Efes contra Pau?",
+      "opcions": [
+        "A) Alexandre",
+        "B) Gaius",
+        "C) Aristarc",
+        "D) Demetri"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Demetri, un argenter que fabricava templets de plata d'Àrtemis, va incitar els altres artesans contra Pau. (Fets 19:24-27)"
+    },
+    {
+      "pregunta": "Quin és el nom del llibre que es troba entre Jonàs i Nahum?",
+      "opcions": [
+        "A) Amós",
+        "B) Abdies",
+        "C) Miquees",
+        "D) Habacuc"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En l'ordre canònic dels dotze profetes menors, el llibre de Miquees es troba just després de Jonàs i abans de Nahum."
+    },
+    {
+      "pregunta": "Quants anys va viure Adam?",
+      "opcions": [
+        "A) 912 anys",
+        "B) 930 anys",
+        "C) 950 anys",
+        "D) 969 anys"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Tots els dies que va viure Adam van ser nou-cents trenta anys, i va morir. (Gènesi 5:5)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del fill de Saül que va ser assassinat mentre dormia?",
+      "opcions": [
+        "A) Jonatan",
+        "B) Abinadab",
+        "C) Malquixua",
+        "D) Isbóixet"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Dos dels capitans d'Isbóixet, Baanà i Recab, el van assassinar al seu llit durant la migdiada. (2 Samuel 4:5-7)"
+    },
+    {
+      "pregunta": "Quin és el significat del nom babilònic de Daniel, Beltsassar?",
+      "opcions": [
+        "A) 'Príncep de Bel'",
+        "B) 'Estimat de Déu'",
+        "C) 'Home de desitjos'",
+        "D) 'Que Bel protegeixi la seva vida'"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Daniel mateix explica que se li va posar el nom de Beltsassar 'segons el nom del meu déu (Bel)'. (Daniel 4:8)"
+    },
+    {
+      "pregunta": "Quin va ser l'últim rei de Judà?",
+      "opcions": [
+        "A) Joaquim",
+        "B) Jeconies",
+        "C) Josies",
+        "D) Sedecies"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Sedecies va ser instal·lat com a rei titella per Nabucodonosor. La seva rebel·lió va portar a la destrucció de Jerusalem. (2 Reis 24:17-20)"
+    },
+    {
+      "pregunta": "Quants graons hi havia per pujar al tron de marfil de Salomó?",
+      "opcions": [
+        "A) Cinc",
+        "B) Sis",
+        "C) Set",
+        "D) Dotze"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "El gran tron de marfil que va fer Salomó tenia sis graons per pujar-hi. (1 Reis 10:19)"
+    },
+    {
+      "pregunta": "Qui era el pare de la reina Atalia, la malvada reina de Judà?",
+      "opcions": [
+        "A) Acab, rei d'Israel",
+        "B) Omrí, rei d'Israel",
+        "C) Josafat, rei de Judà",
+        "D) Etbaal, rei dels sidonis"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Atalia era filla del rei Acab d'Israel i de la seva dona Jezabel. (2 Reis 8:18, 26)"
+    },
+    {
+      "pregunta": "Quin va ser el nom del centurió romà a qui Pere va predicar a Cesarea?",
+      "opcions": [
+        "A) Juli",
+        "B) Corneli",
+        "C) Sergi Paule",
+        "D) Longí"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Corneli, un centurió de la cohort Italiana, va ser el primer gentil a qui Pere va predicar l'evangeli per ordre divina. (Fets 10)"
+    },
+    {
+      "pregunta": "Quin va ser el nom de l'escriba que va llegir la Llei davant del poble en temps de Nehemies?",
+      "opcions": [
+        "A) Xemaià",
+        "B) Baruc",
+        "C) Esdres",
+        "D) Hilquies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Esdres, sacerdot i escriba, va llegir el Llibre de la Llei a la plaça davant la Porta de les Aigües. (Nehemies 8:1-3)"
+    },
+    {
+      "pregunta": "Quina és la ciutat natal de l'apòstol Pau?",
+      "opcions": [
+        "A) Jerusalem",
+        "B) Antioquia",
+        "C) Tars de Cilícia",
+        "D) Damasc"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Pau va declarar: 'Jo sóc un jueu, de Tars de Cilícia, ciutadà d'una ciutat no pas insignificant'. (Fets 21:39)"
+    },
+    {
+      "pregunta": "Quin és el nombre total de llibres en la Bíblia protestant?",
+      "opcions": [
+        "A) 39",
+        "B) 27",
+        "C) 66",
+        "D) 73"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La Bíblia protestant conté 66 llibres: 39 a l'Antic Testament i 27 al Nou Testament."
+    },
+    {
+      "pregunta": "Quin és el nom del fill d'Isaïes el nom del qual significa 'La presa s'afanya, el botí s'apressa'?",
+      "opcions": [
+        "A) Xear-Jaixub",
+        "B) Emmanuel",
+        "C) Maher-xalal-haix-baz",
+        "D) Eliakim"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Déu va manar a Isaïes que anomenés el seu fill Maher-xalal-haix-baz com a senyal profètic de la imminent destrucció de Damasc i Samaria. (Isaïes 8:3)"
+    },
+    {
+      "pregunta": "Quants salms s'atribueixen als fills de Corè?",
+      "opcions": [
+        "A) 1",
+        "B) 7",
+        "C) 11",
+        "D) 12"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Els encapçalaments dels Salms atribueixen 11 salms als 'fills de Corè', un clan de levites músics del Temple (Salms 42, 44-49, 84, 85, 87)."
+    },
+    {
+      "pregunta": "Quines dues tribus d'Israel van descendir de les filles de Lot?",
+      "opcions": [
+        "A) Edomites i Moabites",
+        "B) Moabites i Ammonites",
+        "C) Ammonites i Amalequites",
+        "D) Edomites i Madianites"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Després de la destrucció de Sodoma, les filles de Lot van tenir fills amb el seu pare. El fill de la gran va ser Moab (avantpassat dels moabites) i el de la petita, Ben-Ammí (avantpassat dels ammonites). (Gènesi 19:37-38)"
+    },
+    {
+      "pregunta": "Quin era el nom del pare de l'esposa de Samsó, la dona de Timnà?",
+      "opcions": [
+        "A) Manóah",
+        "B) El seu nom no s'esmenta",
+        "C) Ibzan",
+        "D) Un filisteu de Timnà"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "La Bíblia es refereix a ell només com el 'pare' de la dona de Samsó, sense donar-li un nom específic. (Jutges 14)"
+    },
+    {
+      "pregunta": "Quin va ser l'ingredient que Eliseu va llançar a l'olla enverinada de Gilgal per purificar-la?",
+      "opcions": [
+        "A) Sal",
+        "B) Farina",
+        "C) Oli",
+        "D) Una branca"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Quan els fills dels profetes van cridar 'Hi ha mort a l'olla!', Eliseu va demanar farina, la va llançar a l'olla i el guisat es va tornar comestible. (2 Reis 4:41)"
+    },
+    {
+      "pregunta": "Quina és la mètrica poètica predominant en el llibre de les Lamentacions?",
+      "opcions": [
+        "A) Paral·lelisme sinònim",
+        "B) Paral·lelisme antitètic",
+        "C) Mètrica Qinà",
+        "D) Acròstic"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "La mètrica Qinà (3+2 accents per línia) és característica de les lamentacions i planys en la poesia hebrea, donant un ritme coix i trist. Els capítols 1, 2 i 4 també són acròstics."
+    },
+    {
+      "pregunta": "Qui va ser el pare de Sem, Cam i Jàfet?",
+      "opcions": [
+        "A) Lamec",
+        "B) Adam",
+        "C) Noè",
+        "D) Matusalem"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Aquests van ser els tres fills de Noè; i a partir d'ells es va poblar tota la terra. (Gènesi 9:18-19)"
+    },
+    {
+      "pregunta": "Quin és el nom del lloc on Raquel va ser enterrada?",
+      "opcions": [
+        "A) A la cova de Macpelà",
+        "B) A Siquem",
+        "C) En el camí d'Efrata (Betlem)",
+        "D) A Ramà"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Raquel va morir en donar a llum Benjamí i va ser enterrada en el camí d'Efrata, que és Betlem. Jacob va erigir un pilar sobre la seva tomba. (Gènesi 35:19)"
+    },
+    {
+      "pregunta": "Quin profeta va ser arrossegat a Egipte contra la seva voluntat després de la caiguda de Jerusalem?",
+      "opcions": [
+        "A) Ezequiel",
+        "B) Daniel",
+        "C) Jeremies",
+        "D) Sofonies"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "El romanent de Judà que va fugir a Egipte va obligar Jeremies i el seu escriba Baruc a anar amb ells. (Jeremies 43:6-7)"
+    },
+    {
+      "pregunta": "Quin va ser el nom de l'argenter que es va oposar a Pau a Efes?",
+      "opcions": [
+        "A) Alexandre",
+        "B) Himeneu",
+        "C) Filet",
+        "D) Diòtrefes"
+      ],
+      "resposta_correcta": "A",
+      "explicacio": "Pau adverteix a Timoteu sobre 'Alexandre l'argenter', dient que 'm'ha fet molt de mal'. Aquest podria ser el mateix Alexandre esmentat a Fets 19. (2 Timoteu 4:14)"
+    },
+    {
+      "pregunta": "Quantes vegades va colpejar Moisès la roca a Meribà, en lloc de parlar-li?",
+      "opcions": [
+        "A) Una vegada",
+        "B) Dues vegades",
+        "C) Tres vegades",
+        "D) No la va colpejar, li va parlar"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Déu li va manar que parlés a la roca. En canvi, Moisès, enfadat, va colpejar la roca dues vegades. Per aquesta desobediència, no se li va permetre entrar a la Terra Promesa. (Nombres 20:11)"
+    },
+    {
+      "pregunta": "Quin és el nom de la constel·lació que Job anomena 'Kesil'?",
+      "opcions": [
+        "A) L'Ossa Major",
+        "B) Les Plèiades",
+        "C) Orió",
+        "D) L'Hidra"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En Job 9:9 i 38:31, s'esmenten diverses constel·lacions. El terme hebreu 'Kesil' s'identifica tradicionalment amb la constel·lació d'Orió."
+    },
+    {
+      "pregunta": "Quin és el nom de l'únic fill de Gedeó que va rebutjar ser rei?",
+      "opcions": [
+        "A) Abimèlec",
+        "B) Jotam",
+        "C) Cap dels seus fills",
+        "D) El mateix Gedeó"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Quan els israelites van voler fer rei Gedeó i la seva descendència, ell va respondre: 'No regnaré sobre vosaltres, ni el meu fill [...]. El Senyor regnarà sobre vosaltres'. (Jutges 8:23)"
+    },
+    {
+      "pregunta": "Qui va ser el pare de Mahló i Quiljon, els primers marits d'Orpà i Rut?",
+      "opcions": [
+        "A) Boaz",
+        "B) Elimelec",
+        "C) Jessè",
+        "D) Un moabita"
+      ],
+      "resposta_correcta": "B",
+      "explicacio": "Elimelec i la seva dona Noemí van tenir dos fills, Mahló i Quiljon. (Rut 1:2)"
+    },
+    {
+      "pregunta": "Quin és el nom del lloc on Pau va deixar el seu abric?",
+      "opcions": [
+        "A) Efes",
+        "B) Corint",
+        "C) Tròada",
+        "D) Milet"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "En la seva darrera carta, Pau demana a Timoteu: 'Quan vinguis, porta l'abric que vaig deixar a Tròada a casa de Carp'. (2 Timoteu 4:13)"
+    },
+    {
+      "pregunta": "Quantes ciutats van ser assignades als levites dins dels territoris de les altres tribus?",
+      "opcions": [
+        "A) 12",
+        "B) 24",
+        "C) 40",
+        "D) 48"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Com que no tenien herència territorial, els levites van rebre 48 ciutats, incloses les 6 ciutats de refugi, repartides per tot Israel. (Nombres 35:7)"
+    },
+    {
+      "pregunta": "Quin era el nom del déu principal d'Ecraon, consultat pel rei Ahazià d'Israel?",
+      "opcions": [
+        "A) Baal",
+        "B) Dagon",
+        "C) Baal-Zebub",
+        "D) Quemoix"
+      ],
+      "resposta_correcta": "C",
+      "explicacio": "Després de caure i ferir-se, el rei Ahazià va enviar missatgers a consultar Baal-Zebub, el déu d'Ecraon, fet que va provocar la ira de Déu a través d'Elies. (2 Reis 1:2)"
+    },
+    {
+      "pregunta": "Quin és l'únic llibre de la Bíblia que esmenta el joc de daus (tirar a sorts per la roba de Jesús)?",
+      "opcions": [
+        "A) Mateu",
+        "B) Marc",
+        "C) Lluc",
+        "D) Joan"
+      ],
+      "resposta_correcta": "D",
+      "explicacio": "Tots quatre evangelis esmenten que es van repartir la roba, però només Joan 19:24 cita el Salm 22:18 i especifica que per la túnica sense costura 'van tirar a sorts'."
     }
   ]
 }
