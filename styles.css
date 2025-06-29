@@ -19,7 +19,7 @@
     );
 }
 
-/* Animacions personalitzades */
+/* Animacions personalitzades - optimitzades per responsive */
 @keyframes wiggle {
     0%, 7% { transform: rotateZ(0); }
     15% { transform: rotateZ(-15deg); }
@@ -203,23 +203,6 @@
     left: 100%;
 }
 
-/* Responsive millores */
-@media (max-width: 768px) {
-    .animate-bounce-crown {
-        animation-duration: 1.5s;
-    }
-    
-    .text-crown {
-        animation-duration: 4s;
-    }
-}
-
-/* Configuració Tailwind personalitzada */
-.bg-clip-text {
-    background-clip: text;
-    -webkit-background-clip: text;
-}
-
 /* Efectes hover especials */
 .hover-lift {
     transition: all 0.3s ease;
@@ -280,4 +263,211 @@
     top: 40%;
     left: 50%;
     animation: float 4.5s ease-in-out infinite;
+}
+
+/* RESPONSIVE DESIGN - MEDIA QUERIES */
+
+/* MÒBIL PETIT - fins 475px */
+@media (max-width: 475px) {
+    /* Redueix animacions per millorar rendiment */
+    .animate-bounce-crown {
+        animation-duration: 1.5s;
+    }
+    
+    .text-crown {
+        animation-duration: 4s;
+    }
+    
+    /* Shadows més subtils */
+    .shadow-crown {
+        box-shadow: 0 0 5px rgba(255, 215, 0, 0.3),
+                    0 0 10px rgba(255, 179, 71, 0.2);
+    }
+    
+    /* Borders més fins */
+    .border-crown {
+        border: 2px solid transparent;
+        background: linear-gradient(white, white) padding-box,
+                    linear-gradient(45deg, #ffd700, #ffb347, #ffd700, #e6ac00) border-box;
+    }
+    
+    /* Hover effects més subtils */
+    .hover-lift:hover {
+        transform: translateY(-2px) scale(1.01);
+    }
+    
+    /* Oculta partícules per millor rendiment */
+    .particle {
+        display: none;
+    }
+    
+    /* Bounces més suaus */
+    @keyframes bounce-crown {
+        0%, 20%, 53%, 80%, 100% {
+            transform: translate3d(0,0,0) rotateZ(0deg);
+        }
+        40%, 43% {
+            transform: translate3d(0,-10px,0) rotateZ(-2deg);
+        }
+        70% {
+            transform: translate3d(0,-5px,0) rotateZ(2deg);
+        }
+        90% {
+            transform: translate3d(0,-1px,0) rotateZ(-1deg);
+        }
+    }
+}
+
+/* MÒBIL - 476px a 640px */
+@media (min-width: 476px) and (max-width: 640px) {
+    .shadow-crown {
+        box-shadow: 0 0 8px rgba(255, 215, 0, 0.3),
+                    0 0 15px rgba(255, 179, 71, 0.2);
+    }
+    
+    .border-crown {
+        border: 3px solid transparent;
+        background: linear-gradient(white, white) padding-box,
+                    linear-gradient(45deg, #ffd700, #ffb347, #ffd700, #e6ac00) border-box;
+    }
+    
+    .hover-lift:hover {
+        transform: translateY(-3px) scale(1.015);
+    }
+    
+    /* Partícules petites */
+    .particle-1, .particle-3, .particle-5 {
+        width: 4px;
+        height: 4px;
+    }
+    .particle-2, .particle-4 {
+        width: 5px;
+        height: 5px;
+    }
+}
+
+/* TABLET - 641px a 1024px */
+@media (min-width: 641px) and (max-width: 1024px) {
+    .shadow-crown {
+        box-shadow: 0 0 12px rgba(255, 215, 0, 0.35),
+                    0 0 20px rgba(255, 179, 71, 0.25),
+                    0 0 30px rgba(255, 215, 0, 0.15);
+    }
+    
+    .hover-lift:hover {
+        transform: translateY(-4px) scale(1.025);
+    }
+    
+    /* Partícules normals */
+    .particle {
+        display: block;
+    }
+}
+
+/* DESKTOP - més de 1024px */
+@media (min-width: 1025px) {
+    .shadow-crown {
+        box-shadow: 0 0 20px rgba(255, 215, 0, 0.4),
+                    0 0 30px rgba(255, 179, 71, 0.3),
+                    0 0 40px rgba(255, 215, 0, 0.2);
+    }
+    
+    .hover-lift:hover {
+        transform: translateY(-5px) scale(1.02);
+        filter: brightness(1.1);
+    }
+    
+    /* Totes les partícules visibles */
+    .particle {
+        display: block;
+    }
+}
+
+/* DESKTOP GRAN - més de 1440px */
+@media (min-width: 1441px) {
+    .shadow-crown {
+        box-shadow: 0 0 25px rgba(255, 215, 0, 0.45),
+                    0 0 35px rgba(255, 179, 71, 0.35),
+                    0 0 50px rgba(255, 215, 0, 0.25);
+    }
+    
+    /* Partícules més grans per pantallas grans */
+    .particle-1, .particle-3, .particle-5 {
+        width: 8px;
+        height: 8px;
+    }
+    .particle-2, .particle-4 {
+        width: 10px;
+        height: 10px;
+    }
+}
+
+/* ACCESSIBILITAT - Respecta preferències d'animació */
+@media (prefers-reduced-motion: reduce) {
+    .animate-bounce-crown,
+    .animate-crown,
+    .animate-wiggle,
+    .animate-sparkle-jewel,
+    .animate-pulse-crown,
+    .animate-float,
+    .animate-spin-slow {
+        animation: none;
+    }
+    
+    .particle {
+        animation: none;
+    }
+    
+    .hover-lift {
+        transition: none;
+    }
+    
+    .btn-special::before {
+        transition: none;
+    }
+}
+
+/* CONFIGURACIÓ GENERAL RESPONSIVE */
+.bg-clip-text {
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+/* ORIENTACIÓ LANDSCAPE EN MÒBIL */
+@media (max-width: 768px) and (orientation: landscape) {
+    /* Redueix alçades per aprofitar l'espai vertical limitat */
+    .particle {
+        display: none;
+    }
+    
+    .animate-bounce-crown {
+        animation-duration: 1s;
+    }
+}
+
+/* MODO FOSC - Si el dispositiu ho suporta */
+@media (prefers-color-scheme: dark) {
+    .bg-crown-soft {
+        background: linear-gradient(135deg, 
+            #2d2d2d 0%, 
+            #3d3d3d 25%, 
+            #4d4d4d 50%, 
+            #3d3d3d 75%, 
+            #2d2d2d 100%
+        );
+    }
+}
+
+/* CONFIGURACIÓ PER ALTA DENSITAT DE PÍXELS */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .text-crown {
+        -webkit-text-stroke: 0.5px rgba(255, 215, 0, 0.3);
+    }
+    
+    .shadow-crown {
+        box-shadow: 0 0 10px rgba(255, 215, 0, 0.4),
+                    0 0 20px rgba(255, 179, 71, 0.3),
+                    0 0 30px rgba(255, 215, 0, 0.2),
+                    inset 0 0 10px rgba(255, 255, 255, 0.1);
+    }
 }

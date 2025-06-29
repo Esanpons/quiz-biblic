@@ -186,143 +186,146 @@ const QuizBiblic = () => {
     };
 
     return React.createElement('div', { 
-        className: 'min-h-screen bg-crown p-4 relative overflow-hidden' 
+        className: 'min-h-screen bg-crown p-1 xs:p-2 sm:p-4 lg:p-6 xl:p-8 relative overflow-hidden' 
     },
-        // Elements decoratius animats
+        // Elements decoratius animats - responsive visibility
         React.createElement('div', { className: 'absolute inset-0 overflow-hidden pointer-events-none' },
-            React.createElement('div', { className: 'absolute top-10 left-10 animate-bounce' },
-                React.createElement(Star, { className: 'text-yellow-300 w-8 h-8 animate-sparkle-jewel' })
+            React.createElement('div', { className: 'hidden sm:block absolute top-10 left-10 animate-bounce' },
+                React.createElement(Star, { className: 'text-yellow-300 w-4 h-4 sm:w-6 sm:h-6 lg:w-8 lg:h-8 animate-sparkle-jewel' })
             ),
-            React.createElement('div', { className: 'absolute top-20 right-16 animate-bounce delay-300' },
-                React.createElement(Heart, { className: 'text-pink-300 w-6 h-6 animate-pulse-crown' })
+            React.createElement('div', { className: 'hidden md:block absolute top-20 right-16 animate-bounce delay-300' },
+                React.createElement(Heart, { className: 'text-pink-300 w-3 h-3 sm:w-4 sm:h-4 lg:w-6 lg:h-6 animate-pulse-crown' })
             ),
-            React.createElement('div', { className: 'absolute bottom-20 left-20 animate-bounce delay-500' },
-                React.createElement(Sparkles, { className: 'text-purple-300 w-7 h-7 animate-crown' })
+            React.createElement('div', { className: 'hidden lg:block absolute bottom-20 left-20 animate-bounce delay-500' },
+                React.createElement(Sparkles, { className: 'text-purple-300 w-5 h-5 lg:w-7 lg:h-7 animate-crown' })
             ),
-            React.createElement('div', { className: 'absolute top-1/3 right-8 animate-bounce delay-700' },
-                React.createElement(Star, { className: 'text-blue-300 w-5 h-5 animate-sparkle-jewel' })
+            React.createElement('div', { className: 'hidden xl:block absolute top-1/3 right-8 animate-bounce delay-700' },
+                React.createElement(Star, { className: 'text-blue-300 w-3 h-3 lg:w-5 lg:h-5 animate-sparkle-jewel' })
             ),
-            React.createElement('div', { className: 'absolute bottom-32 right-1/4 animate-bounce delay-1000' },
-                React.createElement(Heart, { className: 'text-yellow-300 w-6 h-6 animate-pulse-crown' })
+            React.createElement('div', { className: 'hidden xl:block absolute bottom-32 right-1/4 animate-bounce delay-1000' },
+                React.createElement(Heart, { className: 'text-yellow-300 w-4 h-4 lg:w-6 lg:h-6 animate-pulse-crown' })
             ),
-            // Partícules de joies
-            React.createElement('div', { className: 'particle particle-1' }),
-            React.createElement('div', { className: 'particle particle-2' }),
-            React.createElement('div', { className: 'particle particle-3' }),
-            React.createElement('div', { className: 'particle particle-4' }),
-            React.createElement('div', { className: 'particle particle-5' })
+            // Partícules de joies - només visible en desktop
+            React.createElement('div', { className: 'hidden lg:block particle particle-1' }),
+            React.createElement('div', { className: 'hidden lg:block particle particle-2' }),
+            React.createElement('div', { className: 'hidden lg:block particle particle-3' }),
+            React.createElement('div', { className: 'hidden lg:block particle particle-4' }),
+            React.createElement('div', { className: 'hidden lg:block particle particle-5' })
         ),
 
-        React.createElement('div', { className: 'max-w-4xl mx-auto relative z-10' },
-            // Header súper colorit
-            React.createElement('div', { className: 'text-center mb-8' },
-                React.createElement('div', { className: 'flex items-center justify-center gap-3 mb-4' },
+        React.createElement('div', { className: 'max-w-7xl mx-auto relative z-10' },
+            // Header súper colorit - completament responsive
+            React.createElement('div', { className: 'text-center mb-3 xs:mb-4 sm:mb-6 lg:mb-8' },
+                React.createElement('div', { className: 'flex items-center justify-center gap-1 xs:gap-2 sm:gap-3 mb-2 xs:mb-3 sm:mb-4' },
                     React.createElement('div', { className: 'animate-spin-slow' },
-                        React.createElement(Brain, { className: 'text-yellow-400 w-12 h-12 drop-shadow-lg' })
+                        React.createElement(Brain, { className: 'text-yellow-400 w-6 h-6 xs:w-8 xs:h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 xl:w-14 xl:h-14 drop-shadow-lg' })
                     ),
                     React.createElement('h1', { 
-                        className: 'text-5xl font-black text-purple-900 drop-shadow-lg shadow-crown animate-pulse-crown'
+                        className: 'text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-black text-purple-900 drop-shadow-lg shadow-crown animate-pulse-crown px-1'
                     }, 'Quiz Bíblic Súper Genial!'),
                     React.createElement('div', { className: 'animate-bounce-crown' },
-                        React.createElement(Trophy, { className: 'text-yellow-400 w-12 h-12 drop-shadow-lg' })
+                        React.createElement(Trophy, { className: 'text-yellow-400 w-6 h-6 xs:w-8 xs:h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 xl:w-14 xl:h-14 drop-shadow-lg' })
                     )
                 ),
                 React.createElement('p', { 
-                    className: 'text-purple-800 text-xl font-bold drop-shadow-md animate-wiggle'
+                    className: 'text-purple-800 text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl font-bold drop-shadow-md animate-wiggle px-2'
                 }, '👑 Descobreix les històries més emocionants de la Bíblia! 👑'),
                 React.createElement('p', { 
-                    className: 'text-purple-900 text-lg font-bold drop-shadow-md mt-2'
+                    className: 'text-purple-900 text-xxs xs:text-xs sm:text-sm md:text-base lg:text-lg font-bold drop-shadow-md mt-1 sm:mt-2 px-2'
                 }, '✨ Corona de glòria i joies precioses! ✨')
             ),
 
-            // Stats súper animats
-            React.createElement('div', { className: 'grid grid-cols-1 md:grid-cols-3 gap-6 mb-8' },
+            // Stats súper animats - grid completament responsive
+            React.createElement('div', { className: 'grid grid-cols-1 xs:grid-cols-3 gap-2 xs:gap-3 sm:gap-4 lg:gap-6 mb-3 xs:mb-4 sm:mb-6 lg:mb-8' },
                 React.createElement('div', { 
-                    className: 'bg-kid-gradient-1 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
+                    className: 'bg-kid-gradient-1 rounded-lg xs:rounded-xl sm:rounded-2xl lg:rounded-3xl p-2 xs:p-3 sm:p-4 lg:p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-purple-900 drop-shadow-lg animate-bounce-crown'
+                        className: 'text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl font-black text-purple-900 drop-shadow-lg animate-bounce-crown'
                     }, `${emojisNivell[nivell]} ${nivell}`),
                     React.createElement('div', { 
-                        className: 'text-purple-800 font-bold text-lg'
+                        className: 'text-purple-800 font-bold text-xxs xs:text-xs sm:text-sm md:text-base lg:text-lg leading-tight'
                     }, nivellsNoms[nivell])
                 ),
                 React.createElement('div', { 
-                    className: 'bg-kid-gradient-2 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
+                    className: 'bg-kid-gradient-2 rounded-lg xs:rounded-xl sm:rounded-2xl lg:rounded-3xl p-2 xs:p-3 sm:p-4 lg:p-6 text-center hover-lift shadow-crown border-crown'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-purple-900 drop-shadow-lg animate-pulse-crown'
+                        className: 'text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl font-black text-purple-900 drop-shadow-lg animate-pulse-crown'
                     }, `💎 ${puntuacio}`),
                     React.createElement('div', { 
-                        className: 'text-purple-800 font-bold text-lg'
+                        className: 'text-purple-800 font-bold text-xxs xs:text-xs sm:text-sm md:text-base lg:text-lg leading-tight'
                     }, 'Punts de Corona!')
                 ),
                 React.createElement('div', { 
-                    className: 'bg-kid-gradient-3 rounded-3xl p-6 text-center hover-lift shadow-crown border-crown'
+                    className: 'bg-kid-gradient-3 rounded-lg xs:rounded-xl sm:rounded-2xl lg:rounded-3xl p-2 xs:p-3 sm:p-4 lg:p-6 text-center hover-lift shadow-crown border-crown xs:col-span-1'
                 },
                     React.createElement('div', { 
-                        className: 'text-4xl font-black text-purple-900 drop-shadow-lg animate-bounce'
+                        className: 'text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl font-black text-purple-900 drop-shadow-lg animate-bounce'
                     }, `🎯 ${historialPreguntes.length}`),
                     React.createElement('div', { 
-                        className: 'text-purple-800 font-bold text-lg'
+                        className: 'text-purple-800 font-bold text-xxs xs:text-xs sm:text-sm md:text-base lg:text-lg leading-tight'
                     }, 'Preguntes Fetes')
                 )
             ),
 
-            // Contingut principal súper animat
+            // Contingut principal súper animat - màxima responsivitat
             React.createElement('div', { 
-                className: 'bg-crown-soft rounded-3xl p-8 mb-6 shadow-crown border-crown'
+                className: 'bg-crown-soft rounded-lg xs:rounded-xl sm:rounded-2xl lg:rounded-3xl p-2 xs:p-3 sm:p-4 md:p-6 lg:p-8 mb-3 xs:mb-4 sm:mb-6 shadow-crown border-crown'
             },
                 !preguntaActual && !carregant ? 
                     React.createElement('div', { className: 'text-center' },
-                        React.createElement('div', { className: 'text-8xl mb-6 animate-bounce-crown' }, '👑'),
+                        React.createElement('div', { className: 'text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl mb-3 xs:mb-4 sm:mb-6 animate-bounce-crown' }, '👑'),
                         React.createElement('h2', { 
-                            className: 'text-4xl font-black text-purple-700 mb-6 text-crown'
+                            className: 'text-base xs:text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl font-black text-purple-700 mb-3 xs:mb-4 sm:mb-6 text-crown px-2'
                         }, 'Benvingut a l\'Aventura Bíblica!'),
-                        React.createElement('p', { 
-                            className: 'text-purple-600 mb-8 text-xl font-bold leading-relaxed'
+                        React.createElement('div', { 
+                            className: 'text-purple-600 mb-4 xs:mb-6 sm:mb-8 text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl font-bold leading-relaxed px-2 space-y-1 sm:space-y-0'
                         }, 
-                            '🎮 Prepara\'t per a un viatge increïble per les històries més emocionants de la Bíblia!', 
-                            React.createElement('br'),
-                            '👑 Corona de glòria amb joies precioses com l\'or, robí, maragda, safir i ametista!',
-                            React.createElement('br'),
-                            '🌟 Cada resposta correcta et fa pujar de nivell!',
-                            React.createElement('br'),
-                            '🎯 Quantes preguntes podràs respondre correctament?'
+                            React.createElement('div', {}, '🎮 Prepara\'t per a un viatge increïble per les històries més emocionants de la Bíblia!'),
+                            React.createElement('div', { className: 'hidden sm:block' }, React.createElement('br')),
+                            React.createElement('div', {}, '👑 Corona de glòria amb joies precioses com l\'or, robí, maragda, safir i ametista!'),
+                            React.createElement('div', { className: 'hidden sm:block' }, React.createElement('br')),
+                            React.createElement('div', {}, '🌟 Cada resposta correcta et fa pujar de nivell!'),
+                            React.createElement('div', { className: 'hidden sm:block' }, React.createElement('br')),
+                            React.createElement('div', {}, '🎯 Quantes preguntes podràs respondre correctament?')
                         ),
                         React.createElement('button', {
                             onClick: iniciarQuiz,
-                            className: 'bg-blue-700 hover:bg-blue-800 text-yellow-300 px-12 py-6 rounded-3xl font-black text-2xl transition-all duration-300 transform hover:scale-110 shadow-lg btn-special border-4 border-yellow-400'
-                        }, '🚀 Començar l\'Aventura de la Corona! 🚀')
+                            className: 'bg-blue-700 hover:bg-blue-800 text-yellow-300 px-3 xs:px-4 sm:px-6 md:px-8 lg:px-12 py-2 xs:py-3 sm:py-4 lg:py-6 rounded-lg xs:rounded-xl sm:rounded-2xl lg:rounded-3xl font-black text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl transition-all duration-300 transform hover:scale-105 lg:hover:scale-110 shadow-lg btn-special border-2 xs:border-2 sm:border-3 lg:border-4 border-yellow-400'
+                        }, 
+                            React.createElement('span', { className: 'hidden xs:inline' }, '🚀 Començar l\'Aventura de la Corona! 🚀'),
+                            React.createElement('span', { className: 'xs:hidden' }, '🚀 Començar! 🚀')
+                        )
                     )
                 : carregant ? 
-                    React.createElement('div', { className: 'text-center py-12' },
-                        React.createElement('div', { className: 'text-8xl mb-4 animate-crown' }, '👑'),
-                        React.createElement(Loader2, { className: 'w-16 h-16 text-purple-500 animate-spin mx-auto mb-4' }),
+                    React.createElement('div', { className: 'text-center py-6 xs:py-8 sm:py-12' },
+                        React.createElement('div', { className: 'text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl mb-2 xs:mb-3 sm:mb-4 animate-crown' }, '👑'),
+                        React.createElement(Loader2, { className: 'w-8 h-8 xs:w-10 xs:h-10 sm:w-12 sm:h-12 md:w-14 md:h-14 lg:w-16 lg:h-16 text-purple-500 animate-spin mx-auto mb-2 xs:mb-3 sm:mb-4' }),
                         React.createElement('p', { 
-                            className: 'text-purple-600 text-2xl font-bold animate-pulse'
+                            className: 'text-purple-600 text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl font-bold animate-pulse px-2'
                         }, 'Preparant una pregunta súper genial...')
                     )
                 : React.createElement('div', {},
-                    React.createElement('div', { className: 'mb-6' },
-                        React.createElement('div', { className: 'flex items-center justify-between mb-6' },
+                    React.createElement('div', { className: 'mb-3 xs:mb-4 sm:mb-6' },
+                        React.createElement('div', { className: 'flex flex-col xs:flex-row items-center justify-between mb-3 xs:mb-4 sm:mb-6 gap-2 xs:gap-3 sm:gap-0' },
                             React.createElement('div', { 
-                                className: 'bg-blue-700 text-yellow-300 px-6 py-3 rounded-2xl font-black text-lg shadow-lg border-4 border-yellow-400'
+                                className: 'bg-blue-700 text-yellow-300 px-2 xs:px-3 sm:px-4 lg:px-6 py-1 xs:py-2 sm:py-3 rounded-lg xs:rounded-xl sm:rounded-2xl font-black text-xs xs:text-sm sm:text-base lg:text-lg shadow-lg border-2 xs:border-2 sm:border-3 lg:border-4 border-yellow-400'
                             }, `${emojisNivell[nivell]} ${nivellsNoms[nivell]}`),
                             React.createElement('div', { 
-                                className: 'text-purple-600 font-bold text-lg animate-pulse'
+                                className: 'text-purple-600 font-bold text-xs xs:text-sm sm:text-base lg:text-lg animate-pulse'
                             }, `Pregunta #${historialPreguntes.length + 1} 🎯`)
                         ),
                         React.createElement('div', { 
-                            className: 'bg-white rounded-2xl p-6 border-crown shadow-crown mb-6'
+                            className: 'bg-white rounded-lg xs:rounded-xl sm:rounded-2xl p-3 xs:p-4 sm:p-5 lg:p-6 border-crown shadow-crown mb-3 xs:mb-4 sm:mb-6'
                         },
                             React.createElement('h3', { 
-                                className: 'text-2xl font-black text-purple-800 leading-relaxed animate-pulse'
+                                className: 'text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl font-black text-purple-800 leading-relaxed animate-pulse'
                             }, `🤔 ${preguntaActual.pregunta}`)
                         )
                     ),
 
-                    React.createElement('div', { className: 'space-y-4 mb-6' },
+                    React.createElement('div', { className: 'space-y-2 xs:space-y-3 sm:space-y-4 mb-3 xs:mb-4 sm:mb-6' },
                         ...preguntaActual.opcions.map((opcio, index) => {
                             const lletra = opcio.charAt(0);
                             const isSelected = respostaSeleccionada === lletra;
@@ -356,7 +359,7 @@ const QuizBiblic = () => {
                                 key: index,
                                 onClick: () => !mostrarResultat && setRespostaSeleccionada(lletra),
                                 disabled: mostrarResultat,
-                                className: `w-full p-4 rounded-2xl border-4 text-left transition-all duration-300 font-bold text-lg ${bgClass} ${borderClass} ${!mostrarResultat ? 'hover-lift btn-special' : ''} shadow-lg`
+                                className: `w-full p-2 xs:p-3 sm:p-4 rounded-lg xs:rounded-xl sm:rounded-2xl border-2 xs:border-2 sm:border-3 lg:border-4 text-left transition-all duration-300 font-bold text-xs xs:text-sm sm:text-base lg:text-lg ${bgClass} ${borderClass} ${!mostrarResultat ? 'hover-lift btn-special' : ''} shadow-lg`
                             }, React.createElement('span', {
                                 className: textClass
                             }, `${emoji} ${opcio}`));
@@ -364,64 +367,69 @@ const QuizBiblic = () => {
                     ),
 
                     mostrarResultat && React.createElement('div', { 
-                        className: 'bg-white rounded-2xl p-6 mb-6 border-crown shadow-crown'
+                        className: 'bg-white rounded-lg xs:rounded-xl sm:rounded-2xl p-3 xs:p-4 sm:p-5 lg:p-6 mb-3 xs:mb-4 sm:mb-6 border-crown shadow-crown'
                     },
                         React.createElement('div', { 
-                            className: `text-center mb-4 ${respostaSeleccionada === preguntaActual.resposta_correcta ? 'text-green-600' : 'text-red-600'}`
+                            className: `text-center mb-2 xs:mb-3 sm:mb-4 ${respostaSeleccionada === preguntaActual.resposta_correcta ? 'text-green-600' : 'text-red-600'}`
                         },
-                            React.createElement('div', { className: 'text-6xl mb-2 animate-bounce-crown' },
+                            React.createElement('div', { className: 'text-3xl xs:text-4xl sm:text-5xl md:text-6xl mb-1 xs:mb-2 animate-bounce-crown' },
                                 respostaSeleccionada === preguntaActual.resposta_correcta ? '🎉' : '😅'
                             ),
-                            React.createElement('h4', { className: 'text-3xl font-black mb-2 animate-bounce text-crown' },
+                            React.createElement('h4', { className: 'text-base xs:text-lg sm:text-xl md:text-2xl lg:text-3xl font-black mb-1 xs:mb-2 animate-bounce text-crown' },
                                 respostaSeleccionada === preguntaActual.resposta_correcta ? '¡Súper bé!' : 'Quasi ho tens!'
                             )
                         ),
-                        React.createElement('div', { className: 'bg-crown-soft rounded-xl p-4 border-2 border-purple-200' },
-                            React.createElement('p', { className: 'text-purple-800 leading-relaxed font-bold' },
+                        React.createElement('div', { className: 'bg-crown-soft rounded-md xs:rounded-lg sm:rounded-xl p-2 xs:p-3 sm:p-4 border-2 border-purple-200' },
+                            React.createElement('p', { className: 'text-purple-800 leading-relaxed font-bold text-xs xs:text-sm sm:text-base' },
                                 React.createElement('strong', {}, '🧠 Sabies que...'),
                                 ` ${preguntaActual.explicacio}`
                             )
                         )
                     ),
 
-                    React.createElement('div', { className: 'flex gap-4' },
+                    React.createElement('div', { className: 'flex flex-col xs:flex-row gap-2 xs:gap-3 sm:gap-4' },
                         !mostrarResultat ? 
                             React.createElement('button', {
                                 onClick: comprovarResposta,
                                 disabled: !respostaSeleccionada,
-                                className: 'flex-1 bg-green-700 hover:bg-green-800 disabled:bg-gray-500 disabled:cursor-not-allowed text-yellow-300 px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 hover-lift shadow-lg border-4 border-yellow-400 btn-special'
-                            }, '🎯 Comprovar Resposta!')
+                                className: 'flex-1 bg-green-700 hover:bg-green-800 disabled:bg-gray-500 disabled:cursor-not-allowed text-yellow-300 px-3 xs:px-4 sm:px-6 md:px-8 py-2 xs:py-3 sm:py-4 rounded-lg xs:rounded-xl sm:rounded-2xl font-black text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl transition-all duration-300 hover-lift shadow-lg border-2 xs:border-2 sm:border-3 lg:border-4 border-yellow-400 btn-special'
+                            }, 
+                                React.createElement('span', { className: 'hidden sm:inline' }, '🎯 Comprovar Resposta!'),
+                                React.createElement('span', { className: 'sm:hidden' }, '🎯 Comprovar!')
+                            )
                         : React.createElement('button', {
                             onClick: seguentPregunta,
-                            className: 'flex-1 bg-purple-700 hover:bg-purple-800 text-yellow-300 px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center justify-center gap-3 hover-lift shadow-lg border-4 border-yellow-400 btn-special'
+                            className: 'flex-1 bg-purple-700 hover:bg-purple-800 text-yellow-300 px-3 xs:px-4 sm:px-6 md:px-8 py-2 xs:py-3 sm:py-4 rounded-lg xs:rounded-xl sm:rounded-2xl font-black text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl transition-all duration-300 flex items-center justify-center gap-1 xs:gap-2 sm:gap-3 hover-lift shadow-lg border-2 xs:border-2 sm:border-3 lg:border-4 border-yellow-400 btn-special'
                         },
-                            '🚀 Següent Aventura!',
-                            React.createElement(ArrowRight, { className: 'w-6 h-6' })
+                            React.createElement('span', { className: 'hidden sm:inline' }, '🚀 Següent Aventura!'),
+                            React.createElement('span', { className: 'sm:hidden' }, '🚀 Següent!'),
+                            React.createElement(ArrowRight, { className: 'w-3 h-3 xs:w-4 xs:h-4 sm:w-5 sm:h-5 lg:w-6 lg:h-6' })
                         ),
                         
                         React.createElement('button', {
                             onClick: reiniciarQuiz,
-                            className: 'bg-red-700 hover:bg-red-800 text-yellow-300 px-8 py-4 rounded-2xl font-black text-xl transition-all duration-300 flex items-center gap-3 hover-lift shadow-lg border-4 border-yellow-400 btn-special'
+                            className: 'xs:flex-none bg-red-700 hover:bg-red-800 text-yellow-300 px-3 xs:px-4 sm:px-6 md:px-8 py-2 xs:py-3 sm:py-4 rounded-lg xs:rounded-xl sm:rounded-2xl font-black text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl transition-all duration-300 flex items-center justify-center gap-1 xs:gap-2 sm:gap-3 hover-lift shadow-lg border-2 xs:border-2 sm:border-3 lg:border-4 border-yellow-400 btn-special'
                         },
-                            React.createElement(RotateCcw, { className: 'w-6 h-6' }),
-                            '🔄 Reiniciar'
+                            React.createElement(RotateCcw, { className: 'w-3 h-3 xs:w-4 xs:h-4 sm:w-5 sm:h-5 lg:w-6 lg:h-6' }),
+                            React.createElement('span', { className: 'hidden xs:inline' }, '🔄 Reiniciar'),
+                            React.createElement('span', { className: 'xs:hidden' }, '🔄')
                         )
                     )
                 )
             ),
 
-            // Progres súper colorit
+            // Progres súper colorit - completament responsive
             historialPreguntes.length > 0 && React.createElement('div', { 
-                className: 'bg-white rounded-2xl p-6 border-crown shadow-crown'
+                className: 'bg-white rounded-lg xs:rounded-xl sm:rounded-2xl p-3 xs:p-4 sm:p-5 lg:p-6 border-crown shadow-crown'
             },
                 React.createElement('h3', { 
-                    className: 'text-2xl font-black text-purple-700 mb-4 text-crown'
+                    className: 'text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl font-black text-purple-700 mb-2 xs:mb-3 sm:mb-4 text-crown'
                 }, '🌟 Les Teves Últimes Aventures'),
-                React.createElement('div', { className: 'flex gap-3 flex-wrap' },
+                React.createElement('div', { className: 'flex gap-1 xs:gap-2 sm:gap-3 flex-wrap justify-center xs:justify-start' },
                     ...historialPreguntes.slice(-10).map((pregunta, index) => (
                         React.createElement('div', {
                             key: index,
-                            className: `w-12 h-12 rounded-full flex items-center justify-center text-2xl font-black border-4 border-white shadow-crown transform hover:scale-125 transition-all duration-300 ${
+                            className: `w-6 h-6 xs:w-8 xs:h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 rounded-full flex items-center justify-center text-xs xs:text-sm sm:text-base lg:text-xl font-black border-2 xs:border-2 sm:border-3 lg:border-4 border-white shadow-crown transform hover:scale-110 sm:hover:scale-125 transition-all duration-300 ${
                                 pregunta.correcta 
                                     ? 'bg-kid-gradient-5 text-white animate-bounce-crown' 
                                     : 'bg-kid-gradient-4 text-white animate-wiggle'
@@ -431,7 +439,7 @@ const QuizBiblic = () => {
                     ))
                 ),
                 React.createElement('p', { 
-                    className: 'text-purple-600 font-bold mt-3 text-center'
+                    className: 'text-purple-600 font-bold mt-2 xs:mt-3 text-center text-xs xs:text-sm sm:text-base'
                 }, `${historialPreguntes.filter(p => p.correcta).length} correctes de ${historialPreguntes.length} preguntes! 👑`)
             )
         )
