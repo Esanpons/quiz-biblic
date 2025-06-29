@@ -163,11 +163,11 @@ El tema de la **Corona Reial** s'adapta intel·ligentment:
 
 Cada nivell s'adapta visualment al dispositiu:
 
-1. **🌱 Petit Explorer**: Text gran i clara per pantalles petites
-2. **🦋 Jove Aventurer**: Botons més grans per facilitar el touch
-3. **🌟 Savi Descobridor**: Animacions optimitzades per cada dispositiu
-4. **👑 Mestre Bíblic**: Efectes visuals progressius segons capacitat
-5. **✨ Llegenda Sagrada**: Experiència completa en dispositius potents
+1. **🌱 Petit Explorador**: Text gran i clara per pantalles petites
+2. **🔍 Jove Aventurer**: Botons més grans per facilitar el touch
+3. **⚔️ Guerrer Fort**: Animacions optimitzades per cada dispositiu
+4. **📜 Savi Descobridor**: Efectes visuals progressius segons capacitat
+5. **👑 Mestre Bíblic**: Experiència completa en dispositius potents
 
 ## 🛠 Personalització Responsive
 
