@@ -1,0 +1,192 @@
+{
+  "nivell1": [
+    {
+      "pregunta": "Quin va ser el primer home que Déu va crear?",
+      "opcions": ["A) Abel", "B) Adam", "C) Noè", "D) Abraham"],
+      "resposta_correcta": "B",
+      "explicacio": "Adam va ser el primer home que Déu va crear del fang de la terra. (Gènesi 2:7)"
+    },
+    {
+      "pregunta": "Qui va construir l'arca per salvar-se del diluvi?",
+      "opcions": ["A) Moisès", "B) David", "C) Noè", "D) Abraham"],
+      "resposta_correcta": "C",
+      "explicacio": "Noè va construir l'arca seguint les instruccions de Déu per salvar la seva família i els animals. (Gènesi 6-8)"
+    },
+    {
+      "pregunta": "Quants dies va estar Jesús al desert?",
+      "opcions": ["A) 30 dies", "B) 40 dies", "C) 50 dies", "D) 70 dies"],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va jeiunar 40 dies i 40 nits al desert, on va ser temptat pel diable. (Mateu 4:2)"
+    },
+    {
+      "pregunta": "Qui va alliberar el poble d'Israel d'Egipte?",
+      "opcions": ["A) Aaron", "B) Josué", "C) Moisès", "D) David"],
+      "resposta_correcta": "C",
+      "explicacio": "Moisès va ser escollit per Déu per alliberar els israelites de l'esclavitud a Egipte. (Èxode 3-14)"
+    },
+    {
+      "pregunta": "Quin rei va ser conegut per la seva saviesa?",
+      "opcions": ["A) David", "B) Salomó", "C) Saül", "D) Ezequies"],
+      "resposta_correcta": "B",
+      "explicacio": "Salomó va demanar saviesa a Déu i va ser conegut per les seves sàvies decisions. (1 Reis 3:5-12)"
+    },
+    {
+      "pregunta": "Amb què va matar David el gegant Goliat?",
+      "opcions": ["A) Una espasa", "B) Una llança", "C) Una fona", "D) Un arc"],
+      "resposta_correcta": "C",
+      "explicacio": "David va usar una fona i una pedra per derrotar el gegant filisteu Goliat. (1 Samuel 17:50)"
+    }
+  ],
+  "nivell2": [
+    {
+      "pregunta": "Quants apòstols va tenir Jesús?",
+      "opcions": ["A) 10", "B) 12", "C) 14", "D) 16"],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va escollir 12 apòstols per predicar l'evangeli. (Mateu 10:1-4)"
+    },
+    {
+      "pregunta": "En quin riu va ser batejat Jesús?",
+      "opcions": ["A) Riu Nil", "B) Riu Eufrates", "C) Riu Jordà", "D) Mar Roig"],
+      "resposta_correcta": "C",
+      "explicacio": "Joan Baptista va batejar Jesús al riu Jordà. (Mateu 3:13-17)"
+    },
+    {
+      "pregunta": "Quina plaga va fer que el Faraó deixés anar els israelites?",
+      "opcions": ["A) Les granotes", "B) La foscor", "C) Les mosques", "D) La mort dels primogènits"],
+      "resposta_correcta": "D",
+      "explicacio": "La desena plaga, la mort dels primogènits, va convèncer el Faraó de deixar anar els israelites. (Èxode 12:29-32)"
+    },
+    {
+      "pregunta": "Qui va trair Jesús per 30 monedes de plata?",
+      "opcions": ["A) Pere", "B) Judas", "C) Tomàs", "D) Jaume"],
+      "resposta_correcta": "B",
+      "explicacio": "Judas Iscariot va trair Jesús als sacerdots per 30 monedes de plata. (Mateu 26:14-16)"
+    },
+    {
+      "pregunta": "Quants pans i peixos va usar Jesús per alimentar 5000 persones?",
+      "opcions": ["A) 3 pans i 2 peixos", "B) 5 pans i 2 peixos", "C) 7 pans i 3 peixos", "D) 2 pans i 5 peixos"],
+      "resposta_correcta": "B",
+      "explicacio": "Jesús va multiplicar 5 pans i 2 peixos per alimentar més de 5000 persones. (Mateu 14:17-21)"
+    },
+    {
+      "pregunta": "Qui va ser engolida per una balena gran?",
+      "opcions": ["A) Jonàs", "B) Daniel", "C) Eliseu", "D) Isaïes"],
+      "resposta_correcta": "A",
+      "explicacio": "Jonàs va ser engollit per un gran peix durant tres dies i tres nits. (Jonàs 1:17)"
+    }
+  ],
+  "nivell3": [
+    {
+      "pregunta": "En quina muntanya va rebre Moisès els Deu Manaments?",
+      "opcions": ["A) Mont Ararat", "B) Mont Sinaí", "C) Mont Olivet", "D) Mont Sió"],
+      "resposta_correcta": "B",
+      "explicacio": "Moisès va rebre les taules de la llei al mont Sinaí. (Èxode 19-20)"
+    },
+    {
+      "pregunta": "Quina ciutat va conquistar Josué fent sonar trompetes?",
+      "opcions": ["A) Jerusalem", "B) Bet-el", "C) Jericó", "D) Hebrón"],
+      "resposta_correcta": "C",
+      "explicacio": "Les muralles de Jericó van caure després que els israelites giressin al voltant de la ciutat i toquessin trompetes. (Josué 6)"
+    },
+    {
+      "pregunta": "Quin profeta va ser portat al cel en un carro de foc?",
+      "opcions": ["A) Elies", "B) Eliseu", "C) Isaïes", "D) Jeremies"],
+      "resposta_correcta": "A",
+      "explicacio": "Elies va ser portat al cel en un carro de foc amb cavalls de foc. (2 Reis 2:11)"
+    },
+    {
+      "pregunta": "Qui era la mare de Samuel?",
+      "opcions": ["A) Raquel", "B) Anna", "C) Miriam", "D) Débora"],
+      "resposta_correcta": "B",
+      "explicacio": "Anna va ser la mare de Samuel, qui va dedicar el seu fill al servei del Senyor. (1 Samuel 1)"
+    },
+    {
+      "pregunta": "En quin jardí va ser sepultat Jesús?",
+      "opcions": ["A) Jardí d'Eden", "B) Jardí de Getsemaní", "C) Jardí de Josep d'Arimatea", "D) Jardí del Temple"],
+      "resposta_correcta": "C",
+      "explicacio": "Jesús va ser sepultat en un sepulcre nou al jardí de Josep d'Arimatea. (Joan 19:38-42)"
+    },
+    {
+      "pregunta": "Quants anys va viure Matusalem?",
+      "opcions": ["A) 900 anys", "B) 950 anys", "C) 969 anys", "D) 1000 anys"],
+      "resposta_correcta": "C",
+      "explicacio": "Matusalem va viure 969 anys, sent la persona més longeva segons la Bíblia. (Gènesi 5:27)"
+    }
+  ],
+  "nivell4": [
+    {
+      "pregunta": "Quin era el nom del sumo sacerdot quan Jesús va ser jutjat?",
+      "opcions": ["A) Anàs", "B) Caifàs", "C) Sadoc", "D) Eli"],
+      "resposta_correcta": "B",
+      "explicacio": "Caifàs era el sumo sacerdot durant el ministeri de Jesús i el seu judici. (Mateu 26:57)"
+    },
+    {
+      "pregunta": "Quants caps tenia la bèstia de l'Apocalipsi?",
+      "opcions": ["A) 5 caps", "B) 7 caps", "C) 10 caps", "D) 12 caps"],
+      "resposta_correcta": "B",
+      "explicacio": "La bèstia de l'Apocalipsi tenia set caps i deu banyes. (Apocalipsi 13:1)"
+    },
+    {
+      "pregunta": "Qui va ser el pare de Joan Baptista?",
+      "opcions": ["A) Simeó", "B) Zacaries", "C) Elisabet", "D) Joaquim"],
+      "resposta_correcta": "B",
+      "explicacio": "Zacaries, un sacerdot, era el pare de Joan Baptista. (Lluc 1:5-13)"
+    },
+    {
+      "pregunta": "En quin any del regnat de Tiberí Cèsar va començar Joan Baptista a predicar?",
+      "opcions": ["A) Any 13", "B) Any 15", "C) Any 17", "D) Any 20"],
+      "resposta_correcta": "B",
+      "explicacio": "Joan Baptista va començar el seu ministeri l'any quinze del regnat de Tiberí Cèsar. (Lluc 3:1)"
+    },
+    {
+      "pregunta": "Quina tribu d'Israel no va rebre herència de terra?",
+      "opcions": ["A) Rubén", "B) Simeó", "C) Leví", "D) Gad"],
+      "resposta_correcta": "C",
+      "explicacio": "La tribu de Leví no va rebre herència territorial perquè eren els sacerdots. (Nombres 18:20)"
+    },
+    {
+      "pregunta": "Quin rei va ser ferit per cucs i va morir?",
+      "opcions": ["A) Herodes Agrippa I", "B) Herodes el Gran", "C) Herodes Antipas", "D) Herodes Filip"],
+      "resposta_correcta": "A",
+      "explicacio": "Herodes Agrippa I va ser ferit per un àngel i menjat pels cucs per no donar glòria a Déu. (Fets 12:21-23)"
+    }
+  ],
+  "nivell5": [
+    {
+      "pregunta": "Quin és el versicle més curt de la Bíblia en català?",
+      "opcions": ["A) 'Jesús va plorar'", "B) 'Déu és amor'", "C) 'Pregeu sempre'", "D) 'Estimeu-vos'"],
+      "resposta_correcta": "A",
+      "explicacio": "'Jesús va plorar' (Joan 11:35) és considerat el versicle més curt de la Bíblia."
+    },
+    {
+      "pregunta": "Quants llibres té l'Antic Testament en la Bíblia protestant?",
+      "opcions": ["A) 37 llibres", "B) 39 llibres", "C) 41 llibres", "D) 43 llibres"],
+      "resposta_correcta": "B",
+      "explicacio": "L'Antic Testament de la Bíblia protestant conté 39 llibres."
+    },
+    {
+      "pregunta": "Quin profeta va profetitzar durant 70 anys?",
+      "opcions": ["A) Isaïes", "B) Jeremies", "C) Ezequiel", "D) Daniel"],
+      "resposta_correcta": "B",
+      "explicacio": "Jeremies va profetitzar durant aproximadament 40-50 anys, però les seves profecies abarcaven 70 anys de captivitat."
+    },
+    {
+      "pregunta": "Quina genealogia de Jesús es troba a l'evangeli de Lluc?",
+      "opcions": ["A) Des d'Abraham", "B) Des de David", "C) Des d'Adam", "D) Des de Moisès"],
+      "resposta_correcta": "C",
+      "explicacio": "L'evangeli de Lluc traça la genealogia de Jesús fins a Adam. (Lluc 3:23-38)"
+    },
+    {
+      "pregunta": "Quants 'Ay!' hi ha al llibre d'Isaïes capítol 5?",
+      "opcions": ["A) 4", "B) 5", "C) 6", "D) 7"],
+      "resposta_correcta": "C",
+      "explicacio": "Hi ha sis 'Ay!' al capítol 5 d'Isaïes, dirigits contra diverses injustícies. (Isaïes 5:8-23)"
+    },
+    {
+      "pregunta": "Quin era el nom de la filla de Faraó que va trobar Moisès?",
+      "opcions": ["A) Termutis", "B) Bitia", "C) No es menciona", "D) Hatshepsut"],
+      "resposta_correcta": "C",
+      "explicacio": "La Bíblia no menciona el nom de la filla de Faraó que va trobar Moisès. (Èxode 2:5-10)"
+    }
+  ]
+}
