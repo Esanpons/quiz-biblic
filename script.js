@@ -63,19 +63,19 @@ const QuizBiblic = () => {
     const [preguntesUsades, setPreguntesUsades] = useState(new Set());
 
     const nivellsNoms = {
-        1: 'Petit Explorer 🌱',
-        2: 'Jove Aventurer 🦋',
-        3: 'Savi Descobridor 🌟',
-        4: 'Mestre Bíblic 👑',
-        5: 'Llegenda Sagrada ✨'
+        1: 'Petit Explorador 🌱',
+        2: 'Jove Aventurer 🔍',
+        3: 'Guerrer Fort ⚔️',
+        4: 'Savi Descobridor 📜',
+        5: 'Mestre Bíblic 👑'
     };
 
     const emojisNivell = {
         1: '🌱',
-        2: '🦋', 
-        3: '🌟',
-        4: '👑',
-        5: '✨'
+        2: '🔍',
+        3: '⚔️',
+        4: '📜',
+        5: '👑'
     };
 
     // Carregar preguntes del JSON
