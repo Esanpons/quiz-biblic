@@ -152,16 +152,20 @@ const QuizBiblic = () => {
 
         if (esCorrecta) {
             setPuntuacio(prev => prev + nivell * 10);
-            setCorrectesConsecutives(prev => prev + 1);
-            
-            if (correctesConsecutives >= 1 && nivell < 5) {
-                setNivell(prev => prev + 1);
-                setCorrectesConsecutives(0);
-            }
+            setCorrectesConsecutives(prev => {
+                const nouCompte = prev + 1;
+                if (nouCompte >= 10) {
+                    if (nivell < 5) {
+                        setNivell(prevNivell => Math.min(prevNivell + 1, 5));
+                    }
+                    return 0;
+                }
+                return nouCompte;
+            });
         } else {
             setCorrectesConsecutives(0);
             if (nivell > 1) {
-                setNivell(prev => prev - 1);
+                setNivell(prev => Math.max(prev - 1, 1));
             }
         }
     };
@@ -286,7 +290,7 @@ const QuizBiblic = () => {
                             React.createElement('div', { className: 'hidden sm:block' }, React.createElement('br')),
                             React.createElement('div', {}, '👑 Corona de glòria amb joies precioses com l\'or, robí, maragda, safir i ametista!'),
                             React.createElement('div', { className: 'hidden sm:block' }, React.createElement('br')),
-                            React.createElement('div', {}, '🌟 Cada resposta correcta et fa pujar de nivell!'),
+                            React.createElement('div', {}, '🌟 Cada 10 respostes correctes et fan pujar de nivell!'),
                             React.createElement('div', { className: 'hidden sm:block' }, React.createElement('br')),
                             React.createElement('div', {}, '🎯 Quantes preguntes podràs respondre correctament?')
                         ),
